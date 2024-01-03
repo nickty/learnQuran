@@ -1,39 +1,35 @@
-// WordsScreen.tsx
 import React from 'react';
-import {View} from 'react-native';
-import WordComponent from '../components/WordsScreen';
+import {View, Text} from 'react-native';
+import {RouteProp} from '@react-navigation/native';
 import {StackNavigationProp} from '@react-navigation/stack';
 
-interface Word {
-  word: string;
-  meaning: string;
-}
+type RootStackParamList = {
+  Initial: undefined;
+  Words: {words: string[]};
+};
+
+type WordsScreenRouteProp = RouteProp<RootStackParamList, 'Words'>;
+type WordsScreenNavigationProp = StackNavigationProp<
+  RootStackParamList,
+  'Words'
+>;
 
 interface WordsScreenProps {
-  navigation: StackNavigationProp<any>;
+  navigation: WordsScreenNavigationProp;
+  route: WordsScreenRouteProp;
 }
 
-const WordsScreen: React.FC<WordsScreenProps> = ({navigation}) => {
-  const words: Word[] = [
-    {word: 'Word 1', meaning: 'Meaning 1'},
-    {word: 'Word 2', meaning: 'Meaning 2'},
-    // Add more words here...
-  ];
+const WordsScreen: React.FC<WordsScreenProps> = ({route}) => {
+  const {words} = route.params;
 
-  const goToDetails = (word: string) => {
-    navigation.navigate('WordDetails', {word});
-  };
+  // console.log('from words screen', words);
 
   return (
-    <View>
-      {words.map((item, index) => (
-        <WordComponent
-          key={index}
-          word={item.word}
-          meaning={item.meaning}
-          onPress={() => goToDetails(item.word)}
-        />
-      ))}
+    <View style={{flex: 1, justifyContent: 'center', alignItems: 'center'}}>
+      <Text>Words from Quran:</Text>
+      {/* {words.map((word, index) => (
+        <Text key={index}>{word}</Text>
+      ))} */}
     </View>
   );
 };
