@@ -5,9 +5,12 @@ const BASE_URL = 'http://api.alquran.cloud/v1'; // Replace with your API endpoin
 
 const fetchWordDetails = async (word: string) => {
   try {
-    const response = await axios.get(`${BASE_URL}/search/${word}/all/en`);
+    const response = await axios.get(`${BASE_URL}/search/${word}/all/en`);  
+    // console.log("check res",)
     if (response.data && response.data.data && response.data.data.matches) {
       const matches = response.data.data.matches;
+
+      console.log("check matches", matches)
 
       // Extract words from matches (assuming 'matches' contains the words)
       const words: string[] = matches.map((match: any) => {

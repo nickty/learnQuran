@@ -25,7 +25,7 @@ const InitialScreen: React.FC<InitialScreenProps> = ({navigation}) => {
     setLoading(true);
     try {
       // Make an API call to fetch new words from the Quran
-      const newWords = await fetchWordDetails('musa'); // Replace with your API call
+      const newWords = await fetchWordDetails('isa'); // Replace with your API call
       // Navigate to the 'Words' screen and pass the fetched words as parameters
       console.log('check api call', newWords);
       navigation.navigate('Words', {words: newWords});
