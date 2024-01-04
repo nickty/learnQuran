@@ -1,5 +1,5 @@
 import React from 'react';
-import {View, Text} from 'react-native';
+import {View, Text, ScrollView} from 'react-native';
 import {RouteProp} from '@react-navigation/native';
 import {StackNavigationProp} from '@react-navigation/stack';
 
@@ -22,15 +22,15 @@ interface WordsScreenProps {
 const WordsScreen: React.FC<WordsScreenProps> = ({route}) => {
   const {words} = route.params;
 
-  // console.log('from words screen', words);
+  console.log('from words screen', words);
 
   return (
-    <View style={{flex: 1, justifyContent: 'center', alignItems: 'center'}}>
+    <ScrollView>
       <Text>Words from Quran:</Text>
-      {/* {words.map((word, index) => (
-        <Text key={index}>{word}</Text>
-      ))} */}
-    </View>
+      {words.map(single => (
+        <Text>{single.text}</Text>
+      ))}
+    </ScrollView>
   );
 };
 

@@ -10,13 +10,16 @@ const fetchWordDetails = async (word: string) => {
     if (response.data && response.data.data && response.data.data.matches) {
       const matches = response.data.data.matches;
 
-      console.log("check matches", matches)
+      // console.log("check matches", matches)
 
       // Extract words from matches (assuming 'matches' contains the words)
       const words: string[] = matches.map((match: any) => {
         // Assuming each 'match' object contains the word
-        return match.word || ''; // Replace with the field containing the word
+        // console.log("first language", match)
+        return match || ''; // Replace with the field containing the word
       });
+
+      // console.log("check word", words)
 
       // Get the first five words
       const firstFiveWords = words.slice(0, 5);
