@@ -1,0 +1,3087 @@
+[
+    {
+        "Word": "مِن",
+        "Frequency": 3226,
+        "Part-of-speech": "Preposition",
+        "Percentage So Far": 4.352284072205284,
+        "Translations": {
+          "en": "from",
+          "bn": "থেকে"
+        }
+      },
+      {
+        "Word": "ٱللَّه",
+        "Frequency": 2699,
+        "Part-of-speech": "Proper noun",
+        "Percentage So Far": 7.993578154933758,
+        "Translations": {
+          "en": "God",
+          "bn": "আল্লাহ্‌"
+        }
+      },
+      {
+        "Word": "فِى",
+        "Frequency": 1701,
+        "Part-of-speech": "Preposition",
+        "Percentage So Far": 10.288443377134993,
+        "Translations": {
+          "en": "in",
+          "bn": "মধ্যে"
+        }
+      },
+      {
+        "Word": "إِنّ",
+        "Frequency": 1682,
+        "Part-of-speech": "Accusative particle",
+        "Percentage So Far": 12.55767518415585,
+        "Translations": {
+          "en": "indeed",
+          "bn": "বিশেষত"
+        }
+      },
+      {
+        "Word": "قَالَ",
+        "Frequency": 1618,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 14.740562855832275,
+        "Translations": {
+          "en": "said",
+          "bn": "বলেছিলেন"
+        }
+      },
+      {
+        "Word": "عَلَىٰ",
+        "Frequency": 1445,
+        "Part-of-speech": "Preposition",
+        "Percentage So Far": 16.690051536655783,
+        "Translations": {
+          "en": "on",
+          "bn": "উপরে"
+        }
+      },
+      {
+        "Word": "ٱلَّذِى",
+        "Frequency": 1442,
+        "Part-of-speech": "Relative pronoun",
+        "Percentage So Far": 18.635492836135022,
+        "Translations": {
+          "en": "who",
+          "bn": "যে"
+        }
+      },
+      {
+        "Word": "لَا",
+        "Frequency": 1364,
+        "Part-of-speech": "Negative particle",
+        "Percentage So Far": 20.475702220663234,
+        "Translations": {
+          "en": "no",
+          "bn": "না"
+        }
+      },
+      {
+        "Word": "كَانَ",
+        "Frequency": 1358,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 22.307816842502902,
+        "Translations": {
+          "en": "was",
+          "bn": "ছিল"
+        }
+      },
+      {
+        "Word": "مَا",
+        "Frequency": 1266,
+        "Part-of-speech": "Relative pronoun",
+        "Percentage So Far": 24.01581176978495,
+        "Translations": {
+          "en": "what",
+          "bn": "যা"
+        }
+      },
+      {
+        "Word": "رَبّ",
+        "Frequency": 975,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 25.331210706672785,
+        "Translations": {
+          "en": "Lord",
+          "bn": "প্রভু"
+        }
+      },
+      {
+        "Word": "إِلَىٰ",
+        "Frequency": 742,
+        "Part-of-speech": "Preposition",
+        "Percentage So Far": 26.332263025822296,
+        "Translations": {
+          "en": "to",
+          "bn": "প্রতি"
+        }
+      },
+      {
+        "Word": "مَا",
+        "Frequency": 704,
+        "Part-of-speech": "Negative particle",
+        "Percentage So Far": 27.28204851461105,
+        "Translations": {
+          "en": "not",
+          "bn": "না"
+        }
+      },
+      {
+        "Word": "مَن",
+        "Frequency": 606,
+        "Part-of-speech": "Relative pronoun",
+        "Percentage So Far": 28.09961954615364,
+        "Translations": {
+          "en": "who",
+          "bn": "কে"
+        }
+      },
+      {
+        "Word": "إِن",
+        "Frequency": 578,
+        "Part-of-speech": "Conditional particle",
+        "Percentage So Far": 28.879415018483044,
+        "Translations": {
+          "en": "if",
+          "bn": "যদি"
+        }
+      },
+      {
+        "Word": "أَن",
+        "Frequency": 578,
+        "Part-of-speech": "Subordinating conjunction",
+        "Percentage So Far": 29.65921049081245,
+        "Translations": {
+          "en": "that",
+          "bn": "যে"
+        }
+      },
+      {
+        "Word": "إِلَّا",
+        "Frequency": 558,
+        "Part-of-speech": "Restriction particle",
+        "Percentage So Far": 30.412023420846715,
+        "Translations": {
+          "en": "except",
+          "bn": "ব্যতিত"
+        }
+      },
+      {
+        "Word": "ءَامَنَ",
+        "Frequency": 537,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 31.13650468147109,
+        "Translations": {
+          "en": "believed",
+          "bn": "বিশ্বাস করেছেন"
+        }
+      },
+      {
+        "Word": "ذَٰلِك",
+        "Frequency": 520,
+        "Part-of-speech": "Demonstrative pronoun",
+        "Percentage So Far": 31.838050781144602,
+        "Translations": {
+          "en": "that",
+          "bn": "সেই"
+        }
+      },
+      {
+        "Word": "عَن",
+        "Frequency": 465,
+        "Part-of-speech": "Preposition",
+        "Percentage So Far": 32.46539488950649,
+        "Translations": {
+          "en": "about",
+          "bn": "সম্পর্কে"
+        }
+      },
+      {
+        "Word": "أَرْض",
+        "Frequency": 461,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 33.08734248940935,
+        "Translations": {
+          "en": "earth",
+          "bn": "পৃথিবী"
+        }
+      },
+      {
+        "Word": "قَد",
+        "Frequency": 406,
+        "Part-of-speech": "Particle of certainty",
+        "Percentage So Far": 33.635088098000594,
+        "Translations": {
+          "en": "indeed",
+          "bn": "নিশ্চিতভাবে"
+        }
+      },
+      {
+        "Word": "إِذَا",
+        "Frequency": 405,
+        "Part-of-speech": "Time adverb",
+        "Percentage So Far": 34.18148457947708,
+        "Translations": {
+          "en": "when",
+          "bn": "যখন"
+        }
+      },
+      {
+        "Word": "قَوْم",
+        "Frequency": 383,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 34.69820026442891,
+        "Translations": {
+          "en": "people",
+          "bn": "মানুষ"
+        }
+      },
+      {
+        "Word": "ءَايَة",
+        "Frequency": 382,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 35.21356682226599,
+        "Translations": {
+          "en": "sign",
+          "bn": "চিহ্ন"
+        }
+      },
+      {
+        "Word": "عَلِمَ",
+        "Frequency": 382,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 35.728933380103065,
+        "Translations": {
+          "en": "knew",
+          "bn": "জানা"
+        }
+      },
+      {
+        "Word": "أَنّ",
+        "Frequency": 362,
+        "Part-of-speech": "Accusative particle",
+        "Percentage So Far": 36.21731739564501,
+        "Translations": {
+          "en": "that",
+          "bn": "যে"
+        }
+      },
+      {
+        "Word": "كُلّ",
+        "Frequency": 358,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 36.70030490272793,
+        "Translations": {
+          "en": "every",
+          "bn": "প্রতিটি"
+        }
+      },
+      {
+        "Word": "لَم",
+        "Frequency": 353,
+        "Part-of-speech": "Negative particle",
+        "Percentage So Far": 37.17654677423706,
+        "Translations": {
+          "en": "not",
+          "bn": "না"
+        }
+      },
+      {
+        "Word": "جَعَلَ",
+        "Frequency": 340,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 37.635249993254355,
+        "Translations": {
+          "en": "made",
+          "bn": "তৈরি করেছিল"
+        }
+      },
+      {
+        "Word": "ثُمّ",
+        "Frequency": 338,
+        "Part-of-speech": "Coordinating conjunction",
+        "Percentage So Far": 38.091254958042136,
+        "Translations": {
+          "en": "then",
+          "bn": "তারপর"
+        }
+      },
+      {
+        "Word": "رَسُول",
+        "Frequency": 332,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 38.53916516014138,
+        "Translations": {
+          "en": "messenger",
+          "bn": "দূত"
+        }
+      },
+      {
+        "Word": "لَا",
+        "Frequency": 327,
+        "Part-of-speech": "Prohibition particle",
+        "Percentage So Far": 38.98032972666684,
+        "Translations": {
+          "en": "no",
+          "bn": "না"
+        }
+      },
+      {
+        "Word": "يَوْم",
+        "Frequency": 325,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 39.41879603896278,
+        "Translations": {
+          "en": "day",
+          "bn": "দিন"
+        }
+      },
+      {
+        "Word": "عَذَاب",
+        "Frequency": 322,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 39.853214969914454,
+        "Translations": {
+          "en": "punishment",
+          "bn": "শাস্তি"
+        }
+      },
+      {
+        "Word": "هَٰذَا",
+        "Frequency": 317,
+        "Part-of-speech": "Demonstrative pronoun",
+        "Percentage So Far": 40.28088826529235,
+        "Translations": {
+          "en": "this",
+          "bn": "এই"
+        }
+      },
+      {
+        "Word": "سَمَآء",
+        "Frequency": 310,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 40.69911767086694,
+        "Translations": {
+          "en": "sky",
+          "bn": "আকাশ"
+        }
+      },
+      {
+        "Word": "نَفْس",
+        "Frequency": 295,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 41.09711016972018,
+        "Translations": {
+          "en": "soul",
+          "bn": "আত্মা"
+        }
+      },
+      {
+        "Word": "كَفَرَ",
+        "Frequency": 289,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 41.48700790588488,
+        "Translations": {
+          "en": "disbelieved",
+          "bn": "অবিশ্বাস করেছিল"
+        }
+      },
+      {
+        "Word": "شَىْء",
+        "Frequency": 283,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 41.86881087936104,
+        "Translations": {
+          "en": "thing",
+          "bn": "জিনিস"
+        }
+      },
+      {
+        "Word": "أَو",
+        "Frequency": 280,
+        "Part-of-speech": "Coordinating conjunction",
+        "Percentage So Far": 42.24656647149293,
+        "Translations": {
+          "en": "or",
+          "bn": "অথবা"
+        }
+      },
+      {
+        "Word": "جَآءَ",
+        "Frequency": 278,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 42.62162380939531,
+        "Translations": {
+          "en": "came",
+          "bn": "এসেছিল"
+        }
+      },
+      {
+        "Word": "عَمِلَ",
+        "Frequency": 276,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 42.99398289306817,
+        "Translations": {
+          "en": "did",
+          "bn": "করল"
+        }
+      },
+      {
+        "Word": "آتَى",
+        "Frequency": 271,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 43.359596341167254,
+        "Translations": {
+          "en": "came",
+          "bn": "এসেছিল"
+        }
+      },
+      {
+        "Word": "رَءَا",
+        "Frequency": 271,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 43.72520978926634,
+        "Translations": {
+          "en": "saw",
+          "bn": "দেখা"
+        }
+      },
+      {
+        "Word": "أَتَى",
+        "Frequency": 264,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 44.08137934756212,
+        "Translations": {
+          "en": "came",
+          "bn": "এসেছিল"
+        }
+      },
+      {
+        "Word": "كِتَٰب",
+        "Frequency": 260,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 44.43215239739887,
+        "Translations": {
+          "en": "book",
+          "bn": "বই"
+        }
+      },
+      {
+        "Word": "بَيْن",
+        "Frequency": 243,
+        "Part-of-speech": "Location adverb",
+        "Percentage So Far": 44.75999028628476,
+        "Translations": {
+          "en": "between",
+          "bn": "মধ্যে"
+        }
+      },
+      {
+        "Word": "حَقّ",
+        "Frequency": 242,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 45.08647904805589,
+        "Translations": {
+          "en": "truth",
+          "bn": "সত্য"
+        }
+      },
+      {
+        "Word": "نَّاس",
+        "Frequency": 241,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 45.41161868271227,
+        "Translations": {
+          "en": "people",
+          "bn": "মানুষ"
+        }
+      },
+      {
+        "Word": "إِذ",
+        "Frequency": 239,
+        "Part-of-speech": "Time adverb",
+        "Percentage So Far": 45.73406006313914,
+        "Translations": {
+          "en": "when",
+          "bn": "যখন"
+        }
+      },
+      {
+        "Word": "شَآءَ",
+        "Frequency": 236,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 46.052454062221734,
+        "Translations": {
+          "en": "wanted",
+          "bn": "চাইল"
+        }
+      },
+      {
+        "Word": "أُولَٰٓئِك",
+        "Frequency": 204,
+        "Part-of-speech": "Demonstrative pronoun",
+        "Percentage So Far": 46.32767599363211,
+        "Translations": {
+          "en": "those",
+          "bn": "ঐ সমূহ"
+        }
+      },
+      {
+        "Word": "قَبْل",
+        "Frequency": 197,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 46.59345403523919,
+        "Translations": {
+          "en": "before",
+          "bn": "পূর্বে"
+        }
+      },
+      {
+        "Word": "مُؤْمِن",
+        "Frequency": 195,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 46.856533822616754,
+        "Translations": {
+          "en": "believer",
+          "bn": "বিশ্বাসী"
+        }
+      },
+      {
+        "Word": "لَو",
+        "Frequency": 184,
+        "Part-of-speech": "Conditional particle",
+        "Percentage So Far": 47.104773211731995,
+        "Translations": {
+          "en": "if",
+          "bn": "যদি"
+        }
+      },
+      {
+        "Word": "مَن",
+        "Frequency": 184,
+        "Part-of-speech": "Conditional particle",
+        "Percentage So Far": 47.35301260084724,
+        "Translations": {
+          "en": "who",
+          "bn": "যে"
+        }
+      },
+      {
+        "Word": "خَلَقَ",
+        "Frequency": 184,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 47.60125198996248,
+        "Translations": {
+          "en": "created",
+          "bn": "সৃষ্টি করেছিল"
+        }
+      },
+      {
+        "Word": "أَنزَلَ",
+        "Frequency": 183,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 47.84814225196296,
+        "Translations": {
+          "en": "revealed",
+          "bn": "প্রকাশ করেছিল"
+        }
+      },
+      {
+        "Word": "سَبِيل",
+        "Frequency": 176,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 48.08558862416015,
+        "Translations": {
+          "en": "way",
+          "bn": "উপায়"
+        }
+      },
+      {
+        "Word": "كَذَّبَ",
+        "Frequency": 176,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 48.32303499635734,
+        "Translations": {
+          "en": "denied",
+          "bn": "অস্বীকার করেছিল"
+        }
+      },
+      {
+        "Word": "دَعَا",
+        "Frequency": 170,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 48.55238660586599,
+        "Translations": {
+          "en": "called",
+          "bn": "ডাকা"
+        }
+      },
+      {
+        "Word": "أَمْر",
+        "Frequency": 166,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 48.77634170691561,
+        "Translations": {
+          "en": "matter",
+          "bn": "বিষয়"
+        }
+      },
+      {
+        "Word": "ٱتَّقَىٰ",
+        "Frequency": 166,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 49.00029680796523,
+        "Translations": {
+          "en": "feared",
+          "bn": "ভয় পেয়েছিল"
+        }
+      },
+      {
+        "Word": "عِند",
+        "Frequency": 160,
+        "Part-of-speech": "Location adverb",
+        "Percentage So Far": 49.21615714632631,
+        "Translations": {
+          "en": "near",
+          "bn": "নিকট"
+        }
+      },
+      {
+        "Word": "مَع",
+        "Frequency": 159,
+        "Part-of-speech": "Location adverb",
+        "Percentage So Far": 49.430668357572635,
+        "Translations": {
+          "en": "with",
+          "bn": "সঙ্গে"
+        }
+      },
+      {
+        "Word": "بَعْض",
+        "Frequency": 157,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 49.642481314589446,
+        "Translations": {
+          "en": "some",
+          "bn": "কিছু"
+        }
+      },
+      {
+        "Word": "لَمَّا",
+        "Frequency": 156,
+        "Part-of-speech": "Time adverb",
+        "Percentage So Far": 49.8529451444915,
+        "Translations": {
+          "en": "when",
+          "bn": "যখন"
+        }
+      },
+      {
+        "Word": "أَيُّهَا",
+        "Frequency": 153,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 50.05936159304928,
+        "Translations": {
+          "en": "O",
+          "bn": "হে"
+        }
+      },
+      {
+        "Word": "خَيْر",
+        "Frequency": 148,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 50.25903240603328,
+        "Translations": {
+          "en": "good",
+          "bn": "ভাল"
+        }
+      },
+      {
+        "Word": "إِلَٰه",
+        "Frequency": 147,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 50.45735409190252,
+        "Translations": {
+          "en": "god",
+          "bn": "ঈশ্বর"
+        }
+      },
+      {
+        "Word": "نَار",
+        "Frequency": 145,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 50.652977523542255,
+        "Translations": {
+          "en": "fire",
+          "bn": "আগুন"
+        }
+      },
+      {
+        "Word": "غَيْر",
+        "Frequency": 144,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 50.84725182806723,
+        "Translations": {
+          "en": "other",
+          "bn": "অন্য"
+        }
+      },
+      {
+        "Word": "هَدَى",
+        "Frequency": 144,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 51.0415261325922,
+        "Translations": {
+          "en": "guided",
+          "bn": "নির্দেশিত"
+        }
+      },
+      {
+        "Word": "أَرَادَ",
+        "Frequency": 139,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 51.22905480154339,
+        "Translations": {
+          "en": "wanted",
+          "bn": "চাইল"
+        }
+      },
+      {
+        "Word": "أَم",
+        "Frequency": 137,
+        "Part-of-speech": "Coordinating conjunction",
+        "Percentage So Far": 51.413885216265065,
+        "Translations": {
+          "en": "or",
+          "bn": "অথবা"
+        }
+      },
+      {
+        "Word": "مُوسَىٰ",
+        "Frequency": 136,
+        "Part-of-speech": "Proper noun",
+        "Percentage So Far": 51.59736650387198,
+        "Translations": {
+          "en": "Moses",
+          "bn": "মোশা"
+        }
+      },
+      {
+        "Word": "ٱتَّبَعَ",
+        "Frequency": 136,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 51.7808477914789,
+        "Translations": {
+          "en": "followed",
+          "bn": "অনুসরণ করেছিল"
+        }
+      },
+      {
+        "Word": "دُون",
+        "Frequency": 135,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 51.96297995197106,
+        "Translations": {
+          "en": "without",
+          "bn": "বিনা"
+        }
+      },
+      {
+        "Word": "آخِر",
+        "Frequency": 133,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 52.1424138582337,
+        "Translations": {
+          "en": "last",
+          "bn": "শেষ"
+        }
+      },
+      {
+        "Word": "بَعْد",
+        "Frequency": 133,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 52.32184776449635,
+        "Translations": {
+          "en": "after",
+          "bn": "পরে"
+        }
+      },
+      {
+        "Word": "قَلْب",
+        "Frequency": 132,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 52.49993254364424,
+        "Translations": {
+          "en": "heart",
+          "bn": "হৃদয়"
+        }
+      },
+      {
+        "Word": "عَبْد",
+        "Frequency": 131,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 52.67666819567738,
+        "Translations": {
+          "en": "servant",
+          "bn": "সেবক"
+        }
+      },
+      {
+        "Word": "أَرْسَلَ",
+        "Frequency": 130,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 52.85205472059576,
+        "Translations": {
+          "en": "sent",
+          "bn": "পাঠিয়েছিল"
+        }
+      },
+      {
+        "Word": "أَهْل",
+        "Frequency": 127,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 53.02339386416987,
+        "Translations": {
+          "en": "people",
+          "bn": "মানুষ"
+        }
+      },
+      {
+        "Word": "أَخَذَ",
+        "Frequency": 127,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 53.19473300774398,
+        "Translations": {
+          "en": "took",
+          "bn": "নিল"
+        }
+      },
+      {
+        "Word": "ٱتَّخَذَ",
+        "Frequency": 124,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 53.362024769973814,
+        "Translations": {
+          "en": "took",
+          "bn": "নিল"
+        }
+      },
+      {
+        "Word": "لَعَلّ",
+        "Frequency": 123,
+        "Part-of-speech": "Accusative particle",
+        "Percentage So Far": 53.527967405088894,
+        "Translations": {
+          "en": "perhaps",
+          "bn": "সম্ভবত"
+        }
+      },
+      {
+        "Word": "بَل",
+        "Frequency": 122,
+        "Part-of-speech": "Retraction particle",
+        "Percentage So Far": 53.69256091308922,
+        "Translations": {
+          "en": "rather",
+          "bn": "বরং"
+        }
+      },
+      {
+        "Word": "عَبَدَ",
+        "Frequency": 122,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 53.85715442108954,
+        "Translations": {
+          "en": "worshiped",
+          "bn": "পূজা করা"
+        }
+      },
+      {
+        "Word": "يَد",
+        "Frequency": 120,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 54.01904967486035,
+        "Translations": {
+          "en": "hand",
+          "bn": "হাত"
+        }
+      },
+      {
+        "Word": "كَٰفِرُون",
+        "Frequency": 119,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 54.1795958015164,
+        "Translations": {
+          "en": "disbelievers",
+          "bn": "অবিশ্বাসী"
+        }
+      },
+      {
+        "Word": "إِن",
+        "Frequency": 114,
+        "Part-of-speech": "Negative particle",
+        "Percentage So Far": 54.33339629259867,
+        "Translations": {
+          "en": "if",
+          "bn": "যদি"
+        }
+      },
+      {
+        "Word": "رَحْمَة",
+        "Frequency": 114,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 54.48719678368094,
+        "Translations": {
+          "en": "mercy",
+          "bn": "দয়া"
+        }
+      },
+      {
+        "Word": "رَّحِيم",
+        "Frequency": 112,
+        "Part-of-speech": "Adjective",
+        "Percentage So Far": 54.6382990205337,
+        "Translations": {
+          "en": "merciful",
+          "bn": "দয়ালু"
+        }
+      },
+      {
+        "Word": "ظَلَمَ",
+        "Frequency": 110,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 54.786703003156944,
+        "Translations": {
+          "en": "wronged",
+          "bn": "অপরাধ করা"
+        }
+      },
+      {
+        "Word": "سَأَلَ",
+        "Frequency": 106,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 54.92971047732116,
+        "Translations": {
+          "en": "asked",
+          "bn": "প্রশ্ন করা"
+        }
+      },
+      {
+        "Word": "وَجَدَ",
+        "Frequency": 106,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 55.07271795148537,
+        "Translations": {
+          "en": "found",
+          "bn": "পেয়েছিল"
+        }
+      },
+      {
+        "Word": "أَجْر",
+        "Frequency": 105,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 55.21437629853483,
+        "Translations": {
+          "en": "reward",
+          "bn": "প্রতিফল"
+        }
+      },
+      {
+        "Word": "ظَالِم",
+        "Frequency": 105,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 55.35603464558429,
+        "Translations": {
+          "en": "oppressor",
+          "bn": "অত্যাচারী"
+        }
+      },
+      {
+        "Word": "عِلْم",
+        "Frequency": 105,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 55.497692992633745,
+        "Translations": {
+          "en": "knowledge",
+          "bn": "জ্ঞান"
+        }
+      },
+      {
+        "Word": "عَظِيم",
+        "Frequency": 104,
+        "Part-of-speech": "Adjective",
+        "Percentage So Far": 55.638002212568445,
+        "Translations": {
+          "en": "great",
+          "bn": "মহান"
+        }
+      },
+      {
+        "Word": "لَن",
+        "Frequency": 104,
+        "Part-of-speech": "Negative particle",
+        "Percentage So Far": 55.778311432503145,
+        "Translations": {
+          "en": "never",
+          "bn": "কখনই না"
+        }
+      },
+      {
+        "Word": "إِلَّا",
+        "Frequency": 102,
+        "Part-of-speech": "Exceptive particle",
+        "Percentage So Far": 55.91592239820833,
+        "Translations": {
+          "en": "except",
+          "bn": "ছাড়া"
+        }
+      },
+      {
+        "Word": "عَلِيم",
+        "Frequency": 101,
+        "Part-of-speech": "Adjective",
+        "Percentage So Far": 56.052184236798766,
+        "Translations": {
+          "en": "knowing",
+          "bn": "জানা অবলম্বনশীল"
+        }
+      },
+      {
+        "Word": "أَخْرَجَ",
+        "Frequency": 99,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 56.18574782115969,
+        "Translations": {
+          "en": "brought out",
+          "bn": "বের করেছিল"
+        }
+      },
+      {
+        "Word": "جَنَّة",
+        "Frequency": 96,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 56.31526402417634,
+        "Translations": {
+          "en": "paradise",
+          "bn": "জান্নাত"
+        }
+      },
+      {
+        "Word": "حَتَّىٰ",
+        "Frequency": 95,
+        "Part-of-speech": "Preposition",
+        "Percentage So Far": 56.44343110007823,
+        "Translations": {
+          "en": "until",
+          "bn": "পর্যন্ত"
+        }
+      },
+      {
+        "Word": "هَل",
+        "Frequency": 93,
+        "Part-of-speech": "Interogative particle",
+        "Percentage So Far": 56.56889992175061,
+        "Translations": {
+          "en": "whether",
+          "bn": "সে কি"
+        }
+      },
+      {
+        "Word": "أَكَلَ",
+        "Frequency": 93,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 56.694368743422984,
+        "Translations": {
+          "en": "ate",
+          "bn": "খাওয়া"
+        }
+      },
+      {
+        "Word": "دِين",
+        "Frequency": 92,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 56.818488437980605,
+        "Translations": {
+          "en": "religion",
+          "bn": "ধর্ম"
+        }
+      },
+      {
+        "Word": "قَوْل",
+        "Frequency": 92,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 56.942608132538226,
+        "Translations": {
+          "en": "speech",
+          "bn": "বাক্য"
+        }
+      },
+      {
+        "Word": "مَا",
+        "Frequency": 92,
+        "Part-of-speech": "Interogative particle",
+        "Percentage So Far": 57.066727827095846,
+        "Translations": {
+          "en": "what",
+          "bn": "কি"
+        }
+      },
+      {
+        "Word": "ذُو",
+        "Frequency": 90,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 57.18814926742395,
+        "Translations": {
+          "en": "possessor of",
+          "bn": "অধিকারী"
+        }
+      },
+      {
+        "Word": "لَّيْسَ",
+        "Frequency": 89,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 57.3082215806373,
+        "Translations": {
+          "en": "is not",
+          "bn": "নয়"
+        }
+      },
+      {
+        "Word": "مَلَك",
+        "Frequency": 88,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 57.42694476673589,
+        "Translations": {
+          "en": "angel",
+          "bn": "দেবদূত"
+        }
+      },
+      {
+        "Word": "فَعَلَ",
+        "Frequency": 88,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 57.545667952834485,
+        "Translations": {
+          "en": "did",
+          "bn": "করল"
+        }
+      },
+      {
+        "Word": "مَثَل",
+        "Frequency": 87,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 57.66304201181832,
+        "Translations": {
+          "en": "example",
+          "bn": "উদাহরণ"
+        }
+      },
+      {
+        "Word": "نَّظَرَ",
+        "Frequency": 87,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 57.780416070802154,
+        "Translations": {
+          "en": "looked",
+          "bn": "দেখা"
+        }
+      },
+      {
+        "Word": "مَال",
+        "Frequency": 86,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 57.89644100267123,
+        "Translations": {
+          "en": "wealth",
+          "bn": "ধন"
+        }
+      },
+      {
+        "Word": "وَلِىّ",
+        "Frequency": 86,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 58.01246593454031,
+        "Translations": {
+          "en": "guardian",
+          "bn": "অভিভাবক"
+        }
+      },
+      {
+        "Word": "هُدًى",
+        "Frequency": 85,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 58.127141739294636,
+        "Translations": {
+          "en": "guidance",
+          "bn": "নির্দেশনা"
+        }
+      },
+      {
+        "Word": "حَكِيم",
+        "Frequency": 84,
+        "Part-of-speech": "Adjective",
+        "Percentage So Far": 58.240468416934206,
+        "Translations": {
+          "en": "wise",
+          "bn": "জ্ঞানী"
+        }
+      },
+      {
+        "Word": "فَضْل",
+        "Frequency": 84,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 58.353795094573776,
+        "Translations": {
+          "en": "favor",
+          "bn": "অনুগ্রহ"
+        }
+      },
+      {
+        "Word": "ذَكَرَ",
+        "Frequency": 84,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 58.467121772213346,
+        "Translations": {
+          "en": "mentioned",
+          "bn": "উল্লিখিত"
+        }
+      },
+      {
+        "Word": "صَلَوٰة",
+        "Frequency": 83,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 58.57909932273816,
+        "Translations": {
+          "en": "prayer",
+          "bn": "নামাজ"
+        }
+      },
+      {
+        "Word": "خَافَ",
+        "Frequency": 83,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 58.69107687326297,
+        "Translations": {
+          "en": "feared",
+          "bn": "ভয় পেয়েছিল"
+        }
+      },
+      {
+        "Word": "قَتَلَ",
+        "Frequency": 83,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 58.803054423787785,
+        "Translations": {
+          "en": "killed",
+          "bn": "হত্যা করেছিল"
+        }
+      },
+      {
+        "Word": "لَيْل",
+        "Frequency": 82,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 58.91368284719784,
+        "Translations": {
+          "en": "night",
+          "bn": "রাত"
+        }
+      },
+      {
+        "Word": "بُنَىّ",
+        "Frequency": 80,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 59.02161301637838,
+        "Translations": {
+          "en": "builder",
+          "bn": "নির্মাতা"
+        }
+      },
+      {
+        "Word": "شَيْطَٰن",
+        "Frequency": 80,
+        "Part-of-speech": "Proper noun",
+        "Percentage So Far": 59.12954318555892,
+        "Translations": {
+          "en": "Satan",
+          "bn": "শয়তান"
+        }
+      },
+      {
+        "Word": "كَيْف",
+        "Frequency": 80,
+        "Part-of-speech": "Interogative particle",
+        "Percentage So Far": 59.237473354739464,
+        "Translations": {
+          "en": "how",
+          "bn": "কিভাবে"
+        }
+      },
+      {
+        "Word": "يَوْم",
+        "Frequency": 80,
+        "Part-of-speech": "Time adverb",
+        "Percentage So Far": 59.345403523920005,
+        "Translations": {
+          "en": "day",
+          "bn": "দিন"
+        }
+      },
+      {
+        "Word": "مَا",
+        "Frequency": 79,
+        "Part-of-speech": "Subordinating conjunction",
+        "Percentage So Far": 59.45198456598579,
+        "Translations": {
+          "en": "what",
+          "bn": "কি"
+        }
+      },
+      {
+        "Word": "رَجَعَ",
+        "Frequency": 79,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 59.55856560805157,
+        "Translations": {
+          "en": "returned",
+          "bn": "ফেরার"
+        }
+      },
+      {
+        "Word": "أَصْحَٰب",
+        "Frequency": 78,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 59.6637975230026,
+        "Translations": {
+          "en": "companions",
+          "bn": "সঙ্গী"
+        }
+      },
+      {
+        "Word": "أَكْثَر",
+        "Frequency": 78,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 59.76902943795363,
+        "Translations": {
+          "en": "most",
+          "bn": "সবচেয়ে বেশি"
+        }
+      },
+      {
+        "Word": "سَمِعَ",
+        "Frequency": 78,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 59.874261352904654,
+        "Translations": {
+          "en": "heard",
+          "bn": "শুনলেন"
+        }
+      },
+      {
+        "Word": "تَوَلَّىٰ",
+        "Frequency": 78,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 59.97949326785568,
+        "Translations": {
+          "en": "took over",
+          "bn": "দখল করেছিল"
+        }
+      },
+      {
+        "Word": "جَهَنَّم",
+        "Frequency": 77,
+        "Part-of-speech": "Proper noun",
+        "Percentage So Far": 60.08337605569195,
+        "Translations": {
+          "en": "Hell",
+          "bn": "নরক"
+        }
+      },
+      {
+        "Word": "أَمَرَ",
+        "Frequency": 77,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 60.18725884352822,
+        "Translations": {
+          "en": "commanded",
+          "bn": "আদেশ দিয়েছিল"
+        }
+      },
+      {
+        "Word": "حَيَوٰة",
+        "Frequency": 76,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 60.28979250424973,
+        "Translations": {
+          "en": "life",
+          "bn": "জীবন"
+        }
+      },
+      {
+        "Word": "ذِكْر",
+        "Frequency": 76,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 60.392326164971244,
+        "Translations": {
+          "en": "mention",
+          "bn": "উল্লেখ"
+        }
+      },
+      {
+        "Word": "زَوْج",
+        "Frequency": 76,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 60.49485982569276,
+        "Translations": {
+          "en": "spouse",
+          "bn": "স্বামী/স্ত্রী"
+        }
+      },
+      {
+        "Word": "دَخَلَ",
+        "Frequency": 76,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 60.59739348641427,
+        "Translations": {
+          "en": "entered",
+          "bn": "ঢুকেছিল"
+        }
+      },
+      {
+        "Word": "أَخ",
+        "Frequency": 75,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 60.698578020021024,
+        "Translations": {
+          "en": "brother",
+          "bn": "ভাই"
+        }
+      },
+      {
+        "Word": "مِثْل",
+        "Frequency": 75,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 60.79976255362778,
+        "Translations": {
+          "en": "like",
+          "bn": "মত"
+        }
+      },
+      {
+        "Word": "نَّبِىّ",
+        "Frequency": 75,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 60.900947087234535,
+        "Translations": {
+          "en": "prophet",
+          "bn": "নবী"
+        }
+      },
+      {
+        "Word": "أَحَد",
+        "Frequency": 74,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 61.00078249372653,
+        "Translations": {
+          "en": "one",
+          "bn": "এক"
+        }
+      },
+      {
+        "Word": "خَٰلِد",
+        "Frequency": 74,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 61.10061790021853,
+        "Translations": {
+          "en": "eternal",
+          "bn": "চিরস্থায়ী"
+        }
+      },
+      {
+        "Word": "دُّنْيَا",
+        "Frequency": 74,
+        "Part-of-speech": "Adjective",
+        "Percentage So Far": 61.20045330671053,
+        "Translations": {
+          "en": "worldly",
+          "bn": "প্রাপ্তির জন্য প্রতিষ্ঠিত"
+        }
+      },
+      {
+        "Word": "فِرْعَوْن",
+        "Frequency": 74,
+        "Part-of-speech": "Proper noun",
+        "Percentage So Far": 61.30028871320253,
+        "Translations": {
+          "en": "pharaoh",
+          "bn": "ফিরঔন"
+        }
+      },
+      {
+        "Word": "عَٰلَمِين",
+        "Frequency": 73,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 61.39877499257977,
+        "Translations": {
+          "en": "worlds",
+          "bn": "বিশ্ব"
+        }
+      },
+      {
+        "Word": "جَزَىٰ",
+        "Frequency": 73,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 61.49726127195701,
+        "Translations": {
+          "en": "rewarded",
+          "bn": "পুরস্কৃত"
+        }
+      },
+      {
+        "Word": "أَلِيم",
+        "Frequency": 72,
+        "Part-of-speech": "Adjective",
+        "Percentage So Far": 61.59439842421949,
+        "Translations": {
+          "en": "painful",
+          "bn": "ব্যাথাদায়ক"
+        }
+      },
+      {
+        "Word": "مُّبِين",
+        "Frequency": 72,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 61.691535576481975,
+        "Translations": {
+          "en": "clear",
+          "bn": "স্পষ্ট"
+        }
+      },
+      {
+        "Word": "أَطَاعَ",
+        "Frequency": 72,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 61.78867272874446,
+        "Translations": {
+          "en": "obeyed",
+          "bn": "মান্না করা"
+        }
+      },
+      {
+        "Word": "أَوْحَىٰٓ",
+        "Frequency": 72,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 61.88580988100694,
+        "Translations": {
+          "en": "revealed",
+          "bn": "উদ্ঘাটিত করা"
+        }
+      },
+      {
+        "Word": "إِنسَٰن",
+        "Frequency": 71,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 61.98159790615467,
+        "Translations": {
+          "en": "human",
+          "bn": "মানব"
+        }
+      },
+      {
+        "Word": "عَمَل",
+        "Frequency": 71,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 62.077385931302395,
+        "Translations": {
+          "en": "work",
+          "bn": "কাজ"
+        }
+      },
+      {
+        "Word": "وَجْه",
+        "Frequency": 71,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 62.17317395645012,
+        "Translations": {
+          "en": "face",
+          "bn": "মুখ"
+        }
+      },
+      {
+        "Word": "أَشْرَكَ",
+        "Frequency": 71,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 62.26896198159785,
+        "Translations": {
+          "en": "associated",
+          "bn": "সহযোগিতা করা"
+        }
+      },
+      {
+        "Word": "أَلْقَىٰٓ",
+        "Frequency": 71,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 62.364750006745574,
+        "Translations": {
+          "en": "cast",
+          "bn": "ছোড়া"
+        }
+      },
+      {
+        "Word": "قِيَٰمَة",
+        "Frequency": 70,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 62.45918890477854,
+        "Translations": {
+          "en": "resurrection",
+          "bn": "পুনরুত্থান"
+        }
+      },
+      {
+        "Word": "يَوْمَئِذ",
+        "Frequency": 70,
+        "Part-of-speech": "Time adverb",
+        "Percentage So Far": 62.55362780281152,
+        "Translations": {
+          "en": "that day",
+          "bn": "ঐ দিন"
+        }
+      },
+      {
+        "Word": "وَعَدَ",
+        "Frequency": 70,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 62.648066700844495,
+        "Translations": {
+          "en": "promised",
+          "bn": "প্রতিশ্রুতি দিয়েছিল"
+        }
+      },
+      {
+        "Word": "إِبْرَاهِيم",
+        "Frequency": 69,
+        "Part-of-speech": "Proper noun",
+        "Percentage So Far": 62.741156471762714,
+        "Translations": {
+          "en": "Ibrahim",
+          "bn": "ইব্রাহীম"
+        }
+      },
+      {
+        "Word": "قُرْءَان",
+        "Frequency": 68,
+        "Part-of-speech": "Proper noun",
+        "Percentage So Far": 62.832897115566176,
+        "Translations": {
+          "en": "Quran",
+          "bn": "কুরআন"
+        }
+      },
+      {
+        "Word": "أَنفَقَ",
+        "Frequency": 68,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 62.92463775936964,
+        "Translations": {
+          "en": "spent",
+          "bn": "ব্যয় করা"
+        }
+      },
+      {
+        "Word": "بَعْد",
+        "Frequency": 66,
+        "Part-of-speech": "Time adverb",
+        "Percentage So Far": 63.013680148943585,
+        "Translations": {
+          "en": "after",
+          "bn": "পরে"
+        }
+      },
+      {
+        "Word": "بَيْت",
+        "Frequency": 65,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 63.101373411402776,
+        "Translations": {
+          "en": "house",
+          "bn": "বাড়ি"
+        }
+      },
+      {
+        "Word": "لَٰكِن",
+        "Frequency": 65,
+        "Part-of-speech": "Amendment particle",
+        "Percentage So Far": 63.189066673861966,
+        "Translations": {
+          "en": "but",
+          "bn": "তবে"
+        }
+      },
+      {
+        "Word": "يَمِين",
+        "Frequency": 65,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 63.276759936321156,
+        "Translations": {
+          "en": "right",
+          "bn": "ডান"
+        }
+      },
+      {
+        "Word": "غَفَرَ",
+        "Frequency": 65,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 63.364453198780346,
+        "Translations": {
+          "en": "forgave",
+          "bn": "মাফ করা"
+        }
+      },
+      {
+        "Word": "آبَاء",
+        "Frequency": 64,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 63.45079733412478,
+        "Translations": {
+          "en": "ancestors",
+          "bn": "পূর্বপুরুষ"
+        }
+      },
+      {
+        "Word": "أُمَّة",
+        "Frequency": 64,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 63.53714146946921,
+        "Translations": {
+          "en": "nation",
+          "bn": "জাতি"
+        }
+      },
+      {
+        "Word": "أَحْبَبْ",
+        "Frequency": 64,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 63.623485604813645,
+        "Translations": {
+          "en": "loved",
+          "bn": "ভালোবাসা"
+        }
+      },
+      {
+        "Word": "أَصَابَ",
+        "Frequency": 64,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 63.70982974015808,
+        "Translations": {
+          "en": "afflicted",
+          "bn": "আক্রান্ত"
+        }
+      },
+      {
+        "Word": "أَضَلَّ",
+        "Frequency": 64,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 63.79617387550251,
+        "Translations": {
+          "en": "misled",
+          "bn": "ভুল পথে পাঠানো"
+        }
+      },
+      {
+        "Word": "ٱبْن",
+        "Frequency": 63,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 63.88116888373219,
+        "Translations": {
+          "en": "son of",
+          "bn": "এর সন্তান"
+        }
+      },
+      {
+        "Word": "عَزِيز",
+        "Frequency": 63,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 63.96616389196186,
+        "Translations": {
+          "en": "dear",
+          "bn": "প্রিয়"
+        }
+      },
+      {
+        "Word": "مَآء",
+        "Frequency": 63,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 64.05115890019154,
+        "Translations": {
+          "en": "water",
+          "bn": "পানি"
+        }
+      },
+      {
+        "Word": "تَابَ",
+        "Frequency": 63,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 64.1361539084212,
+        "Translations": {
+          "en": "repented",
+          "bn": "পশ্চাতাপ করা"
+        }
+      },
+      {
+        "Word": "صَّٰلِحَٰت",
+        "Frequency": 62,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 64.21979978953613,
+        "Translations": {
+          "en": "righteous deeds",
+          "bn": "সজীব কাজ"
+        }
+      },
+      {
+        "Word": "عَلِيم",
+        "Frequency": 62,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 64.30344567065104,
+        "Translations": {
+          "en": "All-Knower",
+          "bn": "সর্বজ্ঞ"
+        }
+      },
+      {
+        "Word": "غَفُور",
+        "Frequency": 62,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 64.38709155176596,
+        "Translations": {
+          "en": "Most Forgiving",
+          "bn": "অনেক ক্ষমাশীল"
+        }
+      },
+      {
+        "Word": "كَسَبَ",
+        "Frequency": 62,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 64.47073743288088,
+        "Translations": {
+          "en": "earned",
+          "bn": "অর্জন করা"
+        }
+      },
+      {
+        "Word": "نَزَّلَ",
+        "Frequency": 62,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 64.5543833139958,
+        "Translations": {
+          "en": "revealed",
+          "bn": "প্রকাশ করা"
+        }
+      },
+      {
+        "Word": "أَوَّل",
+        "Frequency": 61,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 64.63668006799597,
+        "Translations": {
+          "en": "first",
+          "bn": "প্রথম"
+        }
+      },
+      {
+        "Word": "تَلَىٰ",
+        "Frequency": 61,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 64.71897682199614,
+        "Translations": {
+          "en": "recited",
+          "bn": "পঠন করা"
+        }
+      },
+      {
+        "Word": "رَزَقَ",
+        "Frequency": 61,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 64.8012735759963,
+        "Translations": {
+          "en": "provided",
+          "bn": "সরবরাহ করা"
+        }
+      },
+      {
+        "Word": "صَٰلِح",
+        "Frequency": 60,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 64.88222120288171,
+        "Translations": {
+          "en": "righteous",
+          "bn": "নেক"
+        }
+      },
+      {
+        "Word": "صَادِق",
+        "Frequency": 59,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 64.96181970265236,
+        "Translations": {
+          "en": "truthful",
+          "bn": "সত্য"
+        }
+      },
+      {
+        "Word": "نِسَآء",
+        "Frequency": 59,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 65.04141820242302,
+        "Translations": {
+          "en": "women",
+          "bn": "নারী"
+        }
+      },
+      {
+        "Word": "قَضَىٰٓ",
+        "Frequency": 59,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 65.12101670219367,
+        "Translations": {
+          "en": "decided",
+          "bn": "নির্ধারণ করা"
+        }
+      },
+      {
+        "Word": "نَصَرَ",
+        "Frequency": 59,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 65.20061520196433,
+        "Translations": {
+          "en": "helped",
+          "bn": "সাহায্য করেছিল"
+        }
+      },
+      {
+        "Word": "نَذِير",
+        "Frequency": 58,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 65.27886457462021,
+        "Translations": {
+          "en": "warner",
+          "bn": "সতর্কতা দিয়েছিল"
+        }
+      },
+      {
+        "Word": "صَبَرَ",
+        "Frequency": 58,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 65.3571139472761,
+        "Translations": {
+          "en": "endured",
+          "bn": "ধৈর্য ধরেছিল"
+        }
+      },
+      {
+        "Word": "عَيْن",
+        "Frequency": 57,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 65.43401419281724,
+        "Translations": {
+          "en": "spring",
+          "bn": "স্প্রিং"
+        }
+      },
+      {
+        "Word": "قَرْيَة",
+        "Frequency": 57,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 65.51091443835838,
+        "Translations": {
+          "en": "village",
+          "bn": "গ্রাম"
+        }
+      },
+      {
+        "Word": "لَٰكِنّ",
+        "Frequency": 57,
+        "Part-of-speech": "Accusative particle",
+        "Percentage So Far": 65.58781468389952,
+        "Translations": {
+          "en": "but",
+          "bn": "তবে"
+        }
+      },
+      {
+        "Word": "جَرَيْ",
+        "Frequency": 57,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 65.66471492944066,
+        "Translations": {
+          "en": "run",
+          "bn": "চলার"
+        }
+      },
+      {
+        "Word": "نَهَار",
+        "Frequency": 56,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 65.74026604786704,
+        "Translations": {
+          "en": "day",
+          "bn": "দিন"
+        }
+      },
+      {
+        "Word": "وَلَد",
+        "Frequency": 56,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 65.81581716629341,
+        "Translations": {
+          "en": "son",
+          "bn": "ছেলে"
+        }
+      },
+      {
+        "Word": "مَسَّ",
+        "Frequency": 56,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 65.89136828471979,
+        "Translations": {
+          "en": "touched",
+          "bn": "স্পর্শ করেছিল"
+        }
+      },
+      {
+        "Word": "بَيِّنَة",
+        "Frequency": 55,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 65.96557027603141,
+        "Translations": {
+          "en": "clear evidence",
+          "bn": "স্পষ্ট প্রমাণ"
+        }
+      },
+      {
+        "Word": "رِزْق",
+        "Frequency": 55,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 66.03977226734304,
+        "Translations": {
+          "en": "provision",
+          "bn": "প্রদান"
+        }
+      },
+      {
+        "Word": "ضَرَبَ",
+        "Frequency": 55,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 66.11397425865466,
+        "Translations": {
+          "en": "struck",
+          "bn": "আঘাত হয়েছিল"
+        }
+      },
+      {
+        "Word": "نَهَر",
+        "Frequency": 54,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 66.18682712285153,
+        "Translations": {
+          "en": "river",
+          "bn": "নদী"
+        }
+      },
+      {
+        "Word": "قَٰتَلَ",
+        "Frequency": 54,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 66.25967998704839,
+        "Translations": {
+          "en": "fought",
+          "bn": "লড়াই"
+        }
+      },
+      {
+        "Word": "أَقَامَ",
+        "Frequency": 54,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 66.33253285124525,
+        "Translations": {
+          "en": "established",
+          "bn": "স্থাপন করেছিল"
+        }
+      },
+      {
+        "Word": "جَمِيع",
+        "Frequency": 53,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 66.40403658832736,
+        "Translations": {
+          "en": "all",
+          "bn": "সব"
+        }
+      },
+      {
+        "Word": "خَرَجَ",
+        "Frequency": 53,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 66.47554032540947,
+        "Translations": {
+          "en": "went out",
+          "bn": "বেরিয়ে গেল"
+        }
+      },
+      {
+        "Word": "ضَلَّ",
+        "Frequency": 53,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 66.54704406249158,
+        "Translations": {
+          "en": "went astray",
+          "bn": "ভুল পথে গেল"
+        }
+      },
+      {
+        "Word": "أَجَل",
+        "Frequency": 52,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 66.61719867245893,
+        "Translations": {
+          "en": "term",
+          "bn": "শব্দ"
+        }
+      },
+      {
+        "Word": "خَلْق",
+        "Frequency": 52,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 66.68735328242627,
+        "Translations": {
+          "en": "creation",
+          "bn": "সৃষ্টি"
+        }
+      },
+      {
+        "Word": "بَعَثَ",
+        "Frequency": 52,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 66.75750789239362,
+        "Translations": {
+          "en": "sent",
+          "bn": "পাঠানো হয়েছিল"
+        }
+      },
+      {
+        "Word": "جَنَّة",
+        "Frequency": 51,
+        "Part-of-speech": "Proper noun",
+        "Percentage So Far": 66.82631337524622,
+        "Translations": {
+          "en": "paradise",
+          "bn": "স্বর্গ"
+        }
+      },
+      {
+        "Word": "أَحْيَا",
+        "Frequency": 51,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 66.89511885809881,
+        "Translations": {
+          "en": "revived",
+          "bn": "পুনরুত্থান করেছিল"
+        }
+      },
+      {
+        "Word": "تَذَكَّرَ",
+        "Frequency": 51,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 66.96392434095141,
+        "Translations": {
+          "en": "remembered",
+          "bn": "মনে আসল"
+        }
+      },
+      {
+        "Word": "أَهْلَكَ",
+        "Frequency": 51,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 67.032729823804,
+        "Translations": {
+          "en": "destroyed",
+          "bn": "ধ্বংস করেছিল"
+        }
+      },
+      {
+        "Word": "سُوٓء",
+        "Frequency": 50,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 67.10018617954184,
+        "Translations": {
+          "en": "evil",
+          "bn": "মন্দ"
+        }
+      },
+      {
+        "Word": "مَوْت",
+        "Frequency": 50,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 67.16764253527967,
+        "Translations": {
+          "en": "death",
+          "bn": "মৃত্যু"
+        }
+      },
+      {
+        "Word": "نِعْمَة",
+        "Frequency": 50,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 67.2350988910175,
+        "Translations": {
+          "en": "blessing",
+          "bn": "আশীর্বাদ"
+        }
+      },
+      {
+        "Word": "ٱفْتَرَىٰ",
+        "Frequency": 50,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 67.30255524675533,
+        "Translations": {
+          "en": "fabricated",
+          "bn": "বস্তু তৈরি করেছিল"
+        }
+      },
+      {
+        "Word": " عَدُوّ",
+        "Frequency": 49,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 67.36866247537841,
+        "Translations": {
+          "en": "enemy",
+          "bn": "শত্রু"
+        }
+      },
+      {
+        "Word": " غَيْب",
+        "Frequency": 49,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 67.4347697040015,
+        "Translations": {
+          "en": "unseen",
+          "bn": "অদৃশ্য"
+        }
+      },
+      {
+        "Word": " مُتَّقِين",
+        "Frequency": 49,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 67.50087693262458,
+        "Translations": {
+          "en": "the righteous",
+          "bn": "সজ্জন"
+        }
+      },
+      {
+        "Word": " وَعْد",
+        "Frequency": 49,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 67.56698416124766,
+        "Translations": {
+          "en": "promise",
+          "bn": "প্রতিশ্রুতি"
+        }
+      },
+      {
+        "Word": "زَادَ",
+        "Frequency": 49,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 67.63309138987074,
+        "Translations": {
+          "en": "increased",
+          "bn": "বাড়ানো হয়েছিল"
+        }
+      },
+      {
+        "Word": "عَقَلُ",
+        "Frequency": 49,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 67.69919861849382,
+        "Translations": {
+          "en": "reasoned",
+          "bn": "মনোবুদ্ধি করেছিল"
+        }
+      },
+      {
+        "Word": "كَتَبَ",
+        "Frequency": 49,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 67.7653058471169,
+        "Translations": {
+          "en": "wrote",
+          "bn": "লিখেছিল"
+        }
+      },
+      {
+        "Word": " بَصَر",
+        "Frequency": 48,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 67.83006394862522,
+        "Translations": {
+          "en": "sight",
+          "bn": "দৃষ্টিভঙ্গি"
+        }
+      },
+      {
+        "Word": " تَحْت",
+        "Frequency": 48,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 67.89482205013354,
+        "Translations": {
+          "en": "under",
+          "bn": "নীচে"
+        }
+      },
+      {
+        "Word": " دَار",
+        "Frequency": 48,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 67.95958015164186,
+        "Translations": {
+          "en": "home",
+          "bn": "বাড়ি"
+        }
+      },
+      {
+        "Word": " مُلْك",
+        "Frequency": 48,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 68.02433825315018,
+        "Translations": {
+          "en": "kingdom",
+          "bn": "রাজ্য"
+        }
+      },
+      {
+        "Word": " أَن",
+        "Frequency": 47,
+        "Part-of-speech": "Particle of interpretation",
+        "Percentage So Far": 68.08774722754374,
+        "Translations": {
+          "en": "that",
+          "bn": "যে"
+        }
+      },
+      {
+        "Word": " حَتَّىٰ",
+        "Frequency": 47,
+        "Part-of-speech": "Inceptive particle",
+        "Percentage So Far": 68.15115620193731,
+        "Translations": {
+          "en": "until",
+          "bn": "পর্যন্ত"
+        }
+      },
+      {
+        "Word": " سَاعَة",
+        "Frequency": 47,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 68.21456517633088,
+        "Translations": {
+          "en": "hour",
+          "bn": "ঘণ্টা"
+        }
+      },
+      {
+        "Word": " مُّبِين",
+        "Frequency": 47,
+        "Part-of-speech": "Adjective",
+        "Percentage So Far": 68.27797415072445,
+        "Translations": {
+          "en": "clear",
+          "bn": "স্পষ্ট"
+        }
+      },
+      {
+        "Word": "ظَنَّ",
+        "Frequency": 47,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 68.34138312511801,
+        "Translations": {
+          "en": "thought",
+          "bn": "চিন্তা করেছিল"
+        }
+      },
+      {
+        "Word": " أَبٌ",
+        "Frequency": 46,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 68.40344297239683,
+        "Translations": {
+          "en": "father",
+          "bn": "পিতা"
+        }
+      },
+      {
+        "Word": "شَكَرَ",
+        "Frequency": 46,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 68.46550281967565,
+        "Translations": {
+          "en": "thanked",
+          "bn": "ধন্যবাদ জানানো"
+        }
+      },
+      {
+        "Word": "نَبَّأَ",
+        "Frequency": 46,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 68.52756266695447,
+        "Translations": {
+          "en": "informed",
+          "bn": "জানিয়েছিল"
+        }
+      },
+      {
+        "Word": " أُولِى",
+        "Frequency": 45,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 68.58827338711852,
+        "Translations": {
+          "en": "those of",
+          "bn": "সেগুলি"
+        }
+      },
+      {
+        "Word": " إِيمَٰن",
+        "Frequency": 45,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 68.64898410728257,
+        "Translations": {
+          "en": "faith",
+          "bn": "বিশ্বাস"
+        }
+      },
+      {
+        "Word": " رَّحْمَٰن",
+        "Frequency": 45,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 68.70969482744663,
+        "Translations": {
+          "en": "the Most Merciful",
+          "bn": "সর্বকরুণাময়"
+        }
+      },
+      {
+        "Word": " صِرَٰط",
+        "Frequency": 45,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 68.77040554761068,
+        "Translations": {
+          "en": "path",
+          "bn": "পথ"
+        }
+      },
+      {
+        "Word": " قَبْل",
+        "Frequency": 45,
+        "Part-of-speech": "Time adverb",
+        "Percentage So Far": 68.83111626777473,
+        "Translations": {
+          "en": "before",
+          "bn": "পূর্বে"
+        }
+      },
+      {
+        "Word": "حَكَمَ",
+        "Frequency": 45,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 68.89182698793879,
+        "Translations": {
+          "en": "ruled",
+          "bn": "নির্বাহিত করেছিল"
+        }
+      },
+      {
+        "Word": "يَذَرَ",
+        "Frequency": 45,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 68.95253770810284,
+        "Translations": {
+          "en": "leave",
+          "bn": "ছেড়ে দিয়েছিল"
+        }
+      },
+      {
+        "Word": " آخَر",
+        "Frequency": 44,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 69.01189930115214,
+        "Translations": {
+          "en": "other",
+          "bn": "অন্যান্য"
+        }
+      },
+      {
+        "Word": " أَمَّا",
+        "Frequency": 44,
+        "Part-of-speech": "Explanation particle",
+        "Percentage So Far": 69.07126089420144,
+        "Translations": {
+          "en": "as for",
+          "bn": "যেহেতু"
+        }
+      },
+      {
+        "Word": " صَدْر",
+        "Frequency": 44,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 69.13062248725075,
+        "Translations": {
+          "en": "chest",
+          "bn": "সিন্ধুক"
+        }
+      },
+      {
+        "Word": " قَدِير",
+        "Frequency": 44,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 69.18998408030005,
+        "Translations": {
+          "en": "All-Powerful",
+          "bn": "সর্বশক্তিমান"
+        }
+      },
+      {
+        "Word": " مُجْرِم",
+        "Frequency": 44,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 69.24934567334935,
+        "Translations": {
+          "en": "criminal",
+          "bn": "অপরাধী"
+        }
+      },
+      {
+        "Word": " مُشْرِك",
+        "Frequency": 44,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 69.30870726639866,
+        "Translations": {
+          "en": "polytheist",
+          "bn": "বহুদেবতাবাদী"
+        }
+      },
+      {
+        "Word": "حَسِبَ",
+        "Frequency": 44,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 69.36806885944796,
+        "Translations": {
+          "en": "reckoned",
+          "bn": "হিসেব করেছিল"
+        }
+      },
+      {
+        "Word": "شَهِدَ",
+        "Frequency": 44,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 69.42743045249726,
+        "Translations": {
+          "en": "witnessed",
+          "bn": "সাক্ষাত্কার করেছিল"
+        }
+      },
+      {
+        "Word": "مَلَكَتْ",
+        "Frequency": 44,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 69.48679204554657,
+        "Translations": {
+          "en": "owned",
+          "bn": "অধিকারিত"
+        }
+      },
+      {
+        "Word": "نَادَىٰ",
+        "Frequency": 44,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 69.54615363859587,
+        "Translations": {
+          "en": "called",
+          "bn": "নামায়া করেছিল"
+        }
+      },
+      {
+        "Word": "أَنذَرَ",
+        "Frequency": 44,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 69.60551523164517,
+        "Translations": {
+          "en": "warned",
+          "bn": "সতর্ক করেছিল"
+        }
+      },
+      {
+        "Word": " إِسْرَائِيل",
+        "Frequency": 43,
+        "Part-of-speech": "Proper noun",
+        "Percentage So Far": 69.66352769757971,
+        "Translations": {
+          "en": "Israel",
+          "bn": "ইসরায়েল"
+        }
+      },
+      {
+        "Word": " حَمْد",
+        "Frequency": 43,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 69.72154016351425,
+        "Translations": {
+          "en": "praise",
+          "bn": "প্রশংসা"
+        }
+      },
+      {
+        "Word": " قَلِيل",
+        "Frequency": 43,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 69.77955262944879,
+        "Translations": {
+          "en": "few",
+          "bn": "কিছু"
+        }
+      },
+      {
+        "Word": " نُوح",
+        "Frequency": 43,
+        "Part-of-speech": "Proper noun",
+        "Percentage So Far": 69.83756509538333,
+        "Translations": {
+          "en": "Noah",
+          "bn": "নূহ"
+        }
+      },
+      {
+        "Word": " نُور",
+        "Frequency": 43,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 69.89557756131786,
+        "Translations": {
+          "en": "light",
+          "bn": "আলো"
+        }
+      },
+      {
+        "Word": " جَزَآء",
+        "Frequency": 42,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 69.95224090013765,
+        "Translations": {
+          "en": "reward",
+          "bn": "প্রতিফল"
+        }
+      },
+      {
+        "Word": " سَوْف",
+        "Frequency": 42,
+        "Part-of-speech": "Future particle",
+        "Percentage So Far": 70.00890423895744,
+        "Translations": {
+          "en": "will",
+          "bn": "হবে"
+        }
+      },
+      {
+        "Word": " كَثِير",
+        "Frequency": 42,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 70.06556757777723,
+        "Translations": {
+          "en": "many",
+          "bn": "অনেক"
+        }
+      },
+      {
+        "Word": "أُدْخِلَ",
+        "Frequency": 42,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 70.12223091659702,
+        "Translations": {
+          "en": "entered",
+          "bn": "ঢুকিয়েছিল"
+        }
+      },
+      {
+        "Word": "سَبَّحَ",
+        "Frequency": 42,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 70.17889425541681,
+        "Translations": {
+          "en": "declare",
+          "bn": "ঘোষণা করা"
+        }
+      },
+      {
+        "Word": "ٱسْتَطَاعَ",
+        "Frequency": 42,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 70.2355575942366,
+        "Translations": {
+          "en": "able",
+          "bn": "সক্ষম"
+        }
+      },
+      {
+        "Word": " بَحْر",
+        "Frequency": 41,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 70.29087180594162,
+        "Translations": {
+          "en": "sea",
+          "bn": "সমুদ্র"
+        }
+      },
+      {
+        "Word": " دُّنْيَا",
+        "Frequency": 41,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 70.34618601764664,
+        "Translations": {
+          "en": "world",
+          "bn": "প্রলোক"
+        }
+      },
+      {
+        "Word": " سُبْحَٰن",
+        "Frequency": 41,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 70.40150022935167,
+        "Translations": {
+          "en": "glory",
+          "bn": "মহিমা"
+        }
+      },
+      {
+        "Word": " سَلَٰم",
+        "Frequency": 41,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 70.4568144410567,
+        "Translations": {
+          "en": "peace",
+          "bn": "শান্তি"
+        }
+      },
+      {
+        "Word": "حَمَلَ",
+        "Frequency": 41,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 70.51212865276172,
+        "Translations": {
+          "en": "carried",
+          "bn": "নিয়েছিল"
+        }
+      },
+      {
+        "Word": "عَذَّبَ",
+        "Frequency": 41,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 70.56744286446674,
+        "Translations": {
+          "en": "punished",
+          "bn": "শাস্তি দিয়েছিল"
+        }
+      },
+      {
+        "Word": "عَلَّمَ",
+        "Frequency": 41,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 70.62275707617177,
+        "Translations": {
+          "en": "taught",
+          "bn": "শিখিয়েছিল"
+        }
+      },
+      {
+        "Word": " شَرِيك",
+        "Frequency": 40,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 70.67672216076204,
+        "Translations": {
+          "en": "partner",
+          "bn": "অংশীদার"
+        }
+      },
+      {
+        "Word": " شَهِيد",
+        "Frequency": 40,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 70.73068724535231,
+        "Translations": {
+          "en": "witness",
+          "bn": "সাক্ষী"
+        }
+      },
+      {
+        "Word": " لَوْلَآ",
+        "Frequency": 40,
+        "Part-of-speech": "Exhortation particle",
+        "Percentage So Far": 70.78465232994259,
+        "Translations": {
+          "en": "if not",
+          "bn": "যদি না হতে"
+        }
+      },
+      {
+        "Word": " وَيْل",
+        "Frequency": 40,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 70.83861741453286,
+        "Translations": {
+          "en": "woe",
+          "bn": "বিপদ"
+        }
+      },
+      {
+        "Word": "بِئْسَ",
+        "Frequency": 40,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 70.89258249912314,
+        "Translations": {
+          "en": "evil",
+          "bn": "মন্দ"
+        }
+      },
+      {
+        "Word": "بَلَغَ",
+        "Frequency": 40,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 70.94654758371341,
+        "Translations": {
+          "en": "reached",
+          "bn": "পৌঁছেছে"
+        }
+      },
+      {
+        "Word": "تَرَكَ",
+        "Frequency": 40,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 71.00051266830368,
+        "Translations": {
+          "en": "left",
+          "bn": "ছেড়ে দিয়েছিল"
+        }
+      },
+      {
+        "Word": "خَشِىَ",
+        "Frequency": 40,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 71.05447775289396,
+        "Translations": {
+          "en": "feared",
+          "bn": "ভয় পেয়েছিল"
+        }
+      },
+      {
+        "Word": "أَرَيْ",
+        "Frequency": 40,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 71.10844283748423,
+        "Translations": {
+          "en": "show",
+          "bn": "দেখান"
+        }
+      },
+      {
+        "Word": "ٱسْتَغْفَرَ",
+        "Frequency": 40,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 71.16240792207451,
+        "Translations": {
+          "en": "sought forgiveness",
+          "bn": "ক্ষমা চাইয়েছিল"
+        }
+      },
+      {
+        "Word": "ٱسْتَكْبَرَ",
+        "Frequency": 40,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 71.21637300666478,
+        "Translations": {
+          "en": "became arrogant",
+          "bn": "অহঙ্কারী হয়েছিল"
+        }
+      },
+      {
+        "Word": "ٱهْتَدَىٰ",
+        "Frequency": 40,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 71.27033809125506,
+        "Translations": {
+          "en": "guided",
+          "bn": "নির্দেশিত হয়েছিল"
+        }
+      },
+      {
+        "Word": "تَوَكَّلْ",
+        "Frequency": 40,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 71.32430317584533,
+        "Translations": {
+          "en": "relied",
+          "bn": "বিশ্বাস করেছিল"
+        }
+      },
+      {
+        "Word": " إِذْن",
+        "Frequency": 39,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 71.37691913332084,
+        "Translations": {
+          "en": "permission",
+          "bn": "অনুমতি"
+        }
+      },
+      {
+        "Word": " ٱسْم",
+        "Frequency": 39,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 71.42953509079635,
+        "Translations": {
+          "en": "name",
+          "bn": "নাম"
+        }
+      },
+      {
+        "Word": " أَلَآ",
+        "Frequency": 39,
+        "Part-of-speech": "Inceptive particle",
+        "Percentage So Far": 71.48215104827186,
+        "Translations": {
+          "en": "indeed",
+          "bn": "অবশ্যই"
+        }
+      },
+      {
+        "Word": " جَبَل",
+        "Frequency": 39,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 71.53476700574737,
+        "Translations": {
+          "en": "mountain",
+          "bn": "পর্বত"
+        }
+      },
+      {
+        "Word": " سَمِيع",
+        "Frequency": 39,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 71.58738296322288,
+        "Translations": {
+          "en": "All-Hearing",
+          "bn": "সব শুনবার"
+        }
+      },
+      {
+        "Word": "حَرَّمَ",
+        "Frequency": 39,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 71.63999892069839,
+        "Translations": {
+          "en": "forbade",
+          "bn": "নিষিদ্ধ করেছিল"
+        }
+      },
+      {
+        "Word": "مَّاتَ",
+        "Frequency": 39,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 71.6926148781739,
+        "Translations": {
+          "en": "died",
+          "bn": "মারা গেছিল"
+        }
+      },
+      {
+        "Word": " حِسَاب",
+        "Frequency": 38,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 71.74388170853466,
+        "Translations": {
+          "en": "account",
+          "bn": "হিসাব"
+        }
+      },
+      {
+        "Word": " ضَلَٰل",
+        "Frequency": 38,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 71.79514853889542,
+        "Translations": {
+          "en": "misguidance",
+          "bn": "ভ্রমণ"
+        }
+      },
+      {
+        "Word": " عَزِيز",
+        "Frequency": 38,
+        "Part-of-speech": "Adjective",
+        "Percentage So Far": 71.84641536925618,
+        "Translations": {
+          "en": "mighty",
+          "bn": "শক্তিশালী"
+        }
+      },
+      {
+        "Word": " مُحْسِن",
+        "Frequency": 38,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 71.89768219961694,
+        "Translations": {
+          "en": "doer of good",
+          "bn": "ভাল করার অনুষ্ঠাতা"
+        }
+      },
+      {
+        "Word": "بُشِّرَ",
+        "Frequency": 38,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 71.9489490299777,
+        "Translations": {
+          "en": "given good news",
+          "bn": "সুখবর প্রদান করা"
+        }
+      },
+      {
+        "Word": "رَّضِىَ",
+        "Frequency": 38,
+        "Part-of-speech": "Verb",
+        "Percentage So Far": 72.00021586033846,
+        "Translations": {
+          "en": "pleased",
+          "bn": "সন্তুষ্ট"
+        }
+      },
+      {
+        "Word": " بَشَر",
+        "Frequency": 37,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 72.05013356358445,
+        "Translations": {
+          "en": "human",
+          "bn": "মানুষ"
+        }
+      },
+      {
+        "Word": " ذَنب",
+        "Frequency": 37,
+        "Part-of-speech": "Noun",
+        "Percentage So Far": 72.10005126683045,
+        "Translations": {
+          "en": "sin",
+          "bn": "অপরাধ"
+        }
+      }
+
+
+     
+      
+]
+   
