@@ -1,5 +1,5 @@
 import React, {useState} from 'react';
-import {View, Button, Text} from 'react-native';
+import {View, Text, StyleSheet, TouchableOpacity} from 'react-native';
 import {StackNavigationProp} from '@react-navigation/stack';
 import {fetchWordDetails} from '../api/api';
 import {getRandomWords} from '../api/quranWordsService';
@@ -23,45 +23,52 @@ const InitialScreen: React.FC<InitialScreenProps> = ({navigation}) => {
 
   const [randomWords, setRandomWords] = useState<Array<any>>([]);
 
-  const fetchWords = async () => {
-    // console.log('workidng ');
-    setLoading(true);
-    try {
-      // Make an API call to fetch new words from the Quran
-      const newWords = await fetchWordDetails('nabi'); // Replace with your API call
-      // Navigate to the 'Words' screen and pass the fetched words as parameters
-      // console.log('check api call', newWords);
-      navigation.navigate('Words', {words: newWords});
-    } catch (error) {
-      console.error('Error fetching words:', error);
-    } finally {
-      setLoading(false);
-    }
-  };
-
   const handleGetRandomWords = () => {
     const words = getRandomWords();
     setRandomWords(words);
+
+    navigation.navigate('Words', {words: randomWords});
   };
 
   return (
-    <View style={{flex: 1, justifyContent: 'center', alignItems: 'center'}}>
-      <Button
-        title="Fetch Words from Quran"
-        onPress={fetchWords}
-        disabled={loading}
-      />
-      <Button title="Get Random Words" onPress={handleGetRandomWords} />
-      {randomWords.length > 0 && (
-        <View>
-          <Text>Random Words:</Text>
-          {randomWords.map((word, index) => (
-            <Text key={index}>{word.Word}</Text>
-          ))}
-        </View>
-      )}
+    <View style={styles.container}>
+      <TouchableOpacity style={styles.button} onPress={handleGetRandomWords}>
+        <Text style={styles.buttonText}>Get Five Random Words</Text>
+      </TouchableOpacity>
+      <Text style={styles.description}>
+        These five words will be from the Quran, and the app will help you
+        memorize words with examples from the Quran and practices.
+      </Text>
     </View>
   );
 };
+
+const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    justifyContent: 'center',
+    alignItems: 'center',
+    backgroundColor: '#fff',
+    paddingHorizontal: 20,
+  },
+  button: {
+    backgroundColor: '#007aff',
+    paddingHorizontal: 20,
+    paddingVertical: 10,
+    borderRadius: 8,
+    elevation: 3,
+    marginBottom: 20,
+  },
+  buttonText: {
+    color: '#fff',
+    fontSize: 18,
+    fontWeight: 'bold',
+  },
+  description: {
+    textAlign: 'center',
+    fontSize: 16,
+    color: '#333',
+  },
+});
 
 export default InitialScreen;
