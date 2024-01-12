@@ -1,5 +1,11 @@
 import React, {useState} from 'react';
-import {View, Text, StyleSheet, TouchableOpacity} from 'react-native';
+import {
+  View,
+  Text,
+  StyleSheet,
+  TouchableOpacity,
+  ActivityIndicator,
+} from 'react-native';
 import {StackNavigationProp} from '@react-navigation/stack';
 import {fetchWordDetails} from '../api/api';
 import {getRandomWords} from '../api/quranWordsService';
@@ -24,16 +30,32 @@ const InitialScreen: React.FC<InitialScreenProps> = ({navigation}) => {
   const [randomWords, setRandomWords] = useState<Array<any>>([]);
 
   const handleGetRandomWords = () => {
-    const words = getRandomWords();
-    setRandomWords(words);
-
-    navigation.navigate('Words', {words: randomWords});
+    setLoading(true);
+    getRandomWords()
+      .then(words => {
+        setRandomWords(words);
+        console.log('total words', words.length);
+      })
+      .catch(error => {
+        console.error('Error fetching random words:', error);
+      })
+      .finally(() => {
+        setLoading(false);
+        navigation.navigate('Words', {words: randomWords});
+      });
   };
 
   return (
     <View style={styles.container}>
-      <TouchableOpacity style={styles.button} onPress={handleGetRandomWords}>
-        <Text style={styles.buttonText}>Get Five Random Words</Text>
+      <TouchableOpacity
+        style={styles.button}
+        onPress={handleGetRandomWords}
+        disabled={loading}>
+        {loading ? (
+          <ActivityIndicator color="#fff" size="small" />
+        ) : (
+          <Text style={styles.buttonText}>Get Five Random Words</Text>
+        )}
       </TouchableOpacity>
       <Text style={styles.description}>
         These five words will be from the Quran, and the app will help you

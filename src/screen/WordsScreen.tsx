@@ -1,8 +1,8 @@
-import React from 'react';
+import React, {useEffect, useState} from 'react';
 import {View, Text, ScrollView, Button, StyleSheet} from 'react-native';
 import {RouteProp} from '@react-navigation/native';
 import {StackNavigationProp} from '@react-navigation/stack';
-import {fetchWordDetails} from '../api/api';
+import {fetchWordDetails, translateText} from '../api/api';
 import {TouchableOpacity} from 'react-native-gesture-handler';
 
 type RootStackParamList = {
@@ -23,6 +23,27 @@ interface WordsScreenProps {
 
 const WordsScreen: React.FC<WordsScreenProps> = ({route, navigation}) => {
   const {words} = route.params;
+  const [translatedWords, setTranslatedWords] = useState<[]>([]);
+
+  useEffect(() => {
+    const translateWords = async () => {
+      const translatedWordsList: [] = [];
+
+      for (const word of words) {
+        const translatedWord = await translateText(word);
+        translatedWordsList.push(translatedWord);
+      }
+
+      // Now you have an array of translated words with meanings
+      console.log('Translated Words:', translatedWordsList);
+
+      // Set the state with the translated words
+      setTranslatedWords(translatedWordsList);
+    };
+
+    // Call translateWords when the words prop changes
+    translateWords();
+  }, [words]);
 
   const fetchWords = async (val: string) => {
     // console.log('workidng ');
@@ -32,7 +53,7 @@ const WordsScreen: React.FC<WordsScreenProps> = ({route, navigation}) => {
       // const newWords = await fetchWordDetails('nabi'); // Replace with your API call
       // Navigate to the 'Words' screen and pass the fetched words as parameters
       // console.log('check api call', newWords);
-      navigation.navigate('WordDetails', {words: val});
+      navigation.navigate('WordDetails', {word: val});
     } catch (error) {
       console.error('Error fetching words:', error);
     } finally {
@@ -47,7 +68,7 @@ const WordsScreen: React.FC<WordsScreenProps> = ({route, navigation}) => {
       {/* <Button title="Get Random Words" onPress={handleGetRandomWords} /> */}
       {words.length > 0 && (
         <View style={styles.wordsContainer}>
-          <Text style={styles.title}>Random Words:</Text>
+          <Text style={styles.title}>Next five words that you can learn:</Text>
           {words.map((single, index) => (
             <TouchableOpacity
               key={index}
