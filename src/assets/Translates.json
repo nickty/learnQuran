@@ -24655,7 +24655,7 @@
     "Percentage So Far": 95.63422465664475,
     "Translations": {
       "en": "Greedy",
-    "bn": "ক্ষুদ্র"
+      "bn": "ক্ষুদ্র"
     }
   },
   {
@@ -25895,7 +25895,7 @@
     "Percentage So Far": 95.96880818110454,
     "Translations": {
       "en": "Strong",
-    "bn": "শক্ত"
+      "bn": "শক্ত"
     }
   },
   {
@@ -27625,7 +27625,7 @@
     "Percentage So Far": 96.43560616281053,
     "Translations": {
       "en": "Fine",
-    "bn": "ভাল"
+      "bn": "ভাল"
     }
   },
   {
@@ -30685,7 +30685,7 @@
     "Percentage So Far": 97.15064353363127,
     "Translations": {
       "en": "Affectionate",
-    "bn": "স্নেহময়"
+      "bn": "স্নেহময়"
     }
   },
   {
@@ -30944,7 +30944,7 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 97.18572083861477,
     "Translations": {
-      "en": "I", 
+      "en": "I",
       "bn": "আমি"
     }
   },
@@ -31904,8 +31904,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 97.31523704163078,
     "Translations": {
-    "en": "Minimization",
-    "bn": "ক্ষুদ্রীকরণ"
+      "en": "Minimization",
+      "bn": "ক্ষুদ্রীকরণ"
     }
   },
   {
@@ -31927,6 +31927,705 @@
       "en": "Inheritance",
       "bn": "আত্মীয়তা"
     }
+  },
+  {
+    "Word": "تَّرَاقِى",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.31928442297503,
+    "Translations": {
+      "en": "Ascension",
+      "bn": "উত্তরাধিকার"
+    }
+  },
+  {
+    "Word": "تَرَبُّص",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.32063355008978,
+    "Translations": {
+      "en": "Training",
+      "bn": "প্রশিক্ষণ"
+    }
+  },
+  {
+    "Word": "تَسْرِيح",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.32198267720453,
+    "Translations": {
+      "en": "Dismissal",
+      "bn": "অবশ্যকতা মোকাবেলা"
+    }
+  },
+  {
+    "Word": "تَسْمِيَة",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.32333180431928,
+    "Translations": {
+      "en": "Naming",
+      "bn": "নামকরণ"
+    }
+  },
+  {
+    "Word": "تَسْنِيم",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.32468093143403,
+    "Translations": {
+      "en": "Soothing",
+      "bn": "শান্তির জন্য"
+    }
+  },
+  {
+    "Word": "تَشَاوُر",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.32603005854878,
+    "Translations": {
+      "en": "Consultation",
+      "bn": "পরামর্শ"
+    }
+  },
+  {
+    "Word": "تَصْدِيَة",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.32737918566353,
+    "Translations": {
+      "en": "Targeting",
+      "bn": "লক্ষ্য করা"
+    }
+  },
+  {
+    "Word": "تَصْلِيَة",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.32872831277828,
+    "Translations": {
+      "en": "Prayer",
+      "bn": "নামাজ"
+    }
+  },
+  {
+    "Word": "تَضْلِيل",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.33007743989303,
+    "Translations": {
+      "en": "Shading",
+      "bn": "ছায়া"
+    }
+  },
+  {
+    "Word": "تَطْهِير",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.33142656700778,
+    "Translations": {
+      "en": "Purification",
+      "bn": "শুদ্ধিকরণ"
+    }
+  },
+  {
+    "Word": "تَعْس",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.33277569412253,
+    "Translations": {
+      "en": "Misfortune",
+      "bn": "দুর্ভাগ্য"
+    }
+  },
+  {
+    "Word": "تَّعَفُّف",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.33412482123728,
+    "Translations": {
+      "en": "Chastity",
+      "bn": "পবিত্রতা"
+    }
+  },
+  {
+    "Word": "تَّغَابُن",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.33547394835203,
+    "Translations": {
+      "en": "Mutual Disillusionment",
+      "bn": "পরস্পর মোহান"
+    }
+  },
+  {
+    "Word": "تَغَيُّظ",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.33682307546678,
+    "Translations": {
+      "en": "Anger",
+      "bn": "ক্রোধ"
+    }
+  },
+  {
+    "Word": "تَفَاخُر",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.33817220258153,
+    "Translations": {
+      "en": "Boasting",
+      "bn": "ডাকবয়াজ"
+    }
+  },
+  {
+    "Word": "تَفَٰوُت",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.33952132969628,
+    "Translations": {
+      "en": "Neglect",
+      "bn": "উপেক্ষা"
+    }
+  },
+  {
+    "Word": "تَفَث",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.34087045681103,
+    "Translations": {
+      "en": "Spitting",
+      "bn": "থুকতে"
+    }
+  },
+  {
+    "Word": "تَفْرِيق",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.34221958392578,
+    "Translations": {
+      "en": "Dispersion",
+      "bn": "ছুটি"
+    }
+  },
+  {
+    "Word": "تَفْسِير",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.34356871104053,
+    "Translations": {
+      "en": "Interpretation",
+      "bn": "ব্যাখ্যা"
+    }
+  },
+  {
+    "Word": "تَقْتِيل",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.34491783815528,
+    "Translations": {
+      "en": "Killing",
+      "bn": "হত্যা"
+    }
+  },
+  {
+    "Word": "تَقْوِيم",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.34626696527003,
+    "Translations": {
+      "en": "Calendar",
+      "bn": "পঞ্জিকা"
+    }
+  },
+  {
+    "Word": "تُقَىٰة",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.34761609238478,
+    "Translations": {
+      "en": "Piety",
+      "bn": "ভক্তি"
+    }
+  },
+  {
+    "Word": "تَكْبِير",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.34896521949953,
+    "Translations": {
+      "en": "Takbir (saying Allahu Akbar)",
+      "bn": "তাকবীর (আল্লাহু আকবার বলা)"
+    }
+  },
+  {
+    "Word": "تَكْذِيب",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.35031434661428,
+    "Translations": {
+      "en": "Denial",
+      "bn": "অস্তিত্ব অস্বীকার"
+    }
+  },
+  {
+    "Word": "تَكْلِيم",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.35166347372903,
+    "Translations": {
+      "en": "Speech",
+      "bn": "ভাষণ"
+    }
+  },
+  {
+    "Word": "تَّلَاق",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.35301260084378,
+    "Translations": {
+      "en": "Meeting",
+      "bn": "মিলন"
+    }
+  },
+  {
+    "Word": "تِلَاوَت",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.35436172795853,
+    "Translations": {
+      "en": "Recitation",
+      "bn": "তিলাওয়াত"
+    }
+  },
+  {
+    "Word": "تِلْقَآء",
+    "Frequency": 1,
+    "Part-of-speech": "Location adverb",
+    "Percentage So Far": 97.35571085507328,
+    "Translations": {
+      "en": "Meeting",
+      "bn": "মিলন"
+    }
+  },
+  {
+    "Word": "تَمَام",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.35705998218803,
+    "Translations": {
+      "en": "Completion",
+      "bn": "সমাপ্তি"
+    }
+  },
+  {
+    "Word": "تَمْهِيد",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.35840910930278,
+    "Translations": {
+      "en": "Preparation",
+      "bn": "প্রস্তুতি"
+    }
+  },
+  {
+    "Word": "تَّنَاد",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.35975823641753,
+    "Translations": {
+      "en": "Calling",
+      "bn": "ডাক"
+    }
+  },
+  {
+    "Word": "تَّنَاوُش",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.36110736353228,
+    "Translations": {
+      "en": "Whispering",
+      "bn": "ফিসফিস"
+    }
+  },
+  {
+    "Word": "تَنكِيل",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.36245649064703,
+    "Translations": {
+      "en": "Denigration",
+      "bn": "আক্ষেপ"
+    }
+  },
+  {
+    "Word": "تَّهْلُكَة",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.36380561776178,
+    "Translations": {
+      "en": "Destruction",
+      "bn": "ধ্বংস"
+    }
+  },
+  {
+    "Word": "تَوَّاب",
+    "Frequency": 1,
+    "Part-of-speech": "Adjective",
+    "Percentage So Far": 97.36515474487653,
+    "Translations": {
+      "en": "Repentant",
+      "bn": "তাওবা করা"
+    }
+  },
+  {
+    "Word": "تَّوْب",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.36650387199128,
+    "Translations": {
+      "en": "Repentance",
+      "bn": "তাওবা"
+    }
+  },
+  {
+    "Word": "تَوْصِيَة",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.36785299910603,
+    "Translations": {
+      "en": "Recommendation",
+      "bn": "সুপারিশ"
+    }
+  },
+  {
+    "Word": "تَوْكِيد",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.36920212622078,
+    "Translations": {
+      "en": "Confirmation",
+      "bn": "নিশ্চিতকরণ"
+    }
+  },
+  {
+    "Word": "تِّين",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.37055125333553,
+    "Translations": {
+      "en": "Fig",
+      "bn": "আঙ্গুর"
+    }
+  },
+  {
+    "Word": "ثَاقِب",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.37190038045028,
+    "Translations": {
+      "en": "Penetrating",
+      "bn": "অত্যন্ত মোচন"
+    }
+  },
+  {
+    "Word": "ثَاقِب",
+    "Frequency": 1,
+    "Part-of-speech": "Adjective",
+    "Percentage So Far": 97.37324950756503,
+    "Translations": {
+      "en": "Penetrating",
+      "bn": "অত্যন্ত মোচন"
+    }
+  },
+  {
+    "Word": "ثَّالِثَة",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.37459863467978,
+    "Translations": {
+      "en": "Third",
+      "bn": "তৃতীয়"
+    }
+  },
+  {
+    "Word": "ثَامِن",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.37594776179454,
+    "Translations": {
+      "en": "Eighth",
+      "bn": "আটম"
+    }
+  },
+  {
+    "Word": "ثَاوِي",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.37729688890929,
+    "Translations": {
+      "en": "Dwelling",
+      "bn": "বসবাস"
+    }
+  },
+  {
+    "Word": "ثُبَات",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.37864601602404,
+    "Translations": {
+      "en": "Stability",
+      "bn": "স্থিতিস্থাপন"
+    }
+  },
+  {
+    "Word": "ثُبُوت",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.37999514313879,
+    "Translations": {
+      "en": "Evidence",
+      "bn": "প্রমাণ"
+    }
+  },
+  {
+    "Word": "ثَجَّاج",
+    "Frequency": 1,
+    "Part-of-speech": "Adjective",
+    "Percentage So Far": 97.38134427025354,
+    "Translations": {
+      "en": "Hardened",
+      "bn": "কঠোর"
+    }
+  },
+  {
+    "Word": "ثَّرَىٰ",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.38269339736829,
+    "Translations": {
+      "en": "Soil",
+      "bn": "মাটি"
+    }
+  },
+  {
+    "Word": "ثَقِيل",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.38404252448304,
+    "Translations": {
+      "en": "Heavy",
+      "bn": "ভারী"
+    }
+  },
+  {
+    "Word": "ثَلَٰث",
+    "Frequency": 1,
+    "Part-of-speech": "Time adverb",
+    "Percentage So Far": 97.38539165159779,
+    "Translations": {
+      "en": "Three",
+      "bn": "তিন"
+    }
+  },
+  {
+    "Word": "ثَلَٰثَة",
+    "Frequency": 1,
+    "Part-of-speech": "Time adverb",
+    "Percentage So Far": 97.38674077871254,
+    "Translations": {
+      "en": "Three",
+      "bn": "তিন"
+    }
+  },
+  {
+    "Word": "ثُّلُث",
+    "Frequency": 1,
+    "Part-of-speech": "Time adverb",
+    "Percentage So Far": 97.38808990582729,
+    "Translations": {
+      "en": "One-third",
+      "bn": "এক তৃতীয়"
+    }
+  },
+  {
+    "Word": "ثَمَٰنِى",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.38943903294204,
+    "Translations": {
+      "en": "Eight",
+      "bn": "আট"
+    }
+  },
+  {
+    "Word": "ثَمَٰنِين",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.39078816005679,
+    "Translations": {
+      "en": "Eighty",
+      "bn": "আস্ত"
+    }
+  },
+  {
+    "Word": "ثَمَٰنِيَة",
+    "Frequency": 1,
+    "Part-of-speech": "Time adverb",
+    "Percentage So Far": 97.39213728717154,
+    "Translations": {
+      "en": "Eight",
+      "bn": "আট"
+    }
+  },
+  {
+    "Word": "ثَمَرَة",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.39348641428629,
+    "Translations": {
+      "en": "Fruit",
+      "bn": "ফল"
+    }
+  },
+  {
+    "Word": "ثُّمُن",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.39483554140104,
+    "Translations": {
+      "en": "Price",
+      "bn": "মূল্য"
+    }
+  },
+  {
+    "Word": "ثَيِّبَٰت",
+    "Frequency": 1,
+    "Part-of-speech": "Adjective",
+    "Percentage So Far": 97.39618466851579,
+    "Translations": {
+      "en": "Chaste",
+      "bn": "শীল"
+    }
+  },
+  {
+    "Word": "جَآئِر",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.39753379563054,
+    "Translations": {
+      "en": "Unjust",
+      "bn": "অবিচারী"
+    }
+  },
+  {
+    "Word": "جَاثِيَة",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.39888292274529,
+    "Translations": {
+      "en": "Sitting",
+      "bn": "বসবাস"
+    }
+  },
+  {
+    "Word": "جَٰرِيَٰت",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.40023204986004,
+    "Translations": {
+      "en": "Running",
+      "bn": "পালা"
+    }
+  },
+  {
+    "Word": "جَارِيَة",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.40158117697479,
+    "Translations": {
+      "en": "Girl",
+      "bn": "মেয়ে"
+    }
+  },
+  {
+    "Word": "جَارِيَة",
+    "Frequency": 1,
+    "Part-of-speech": "Adjective",
+    "Percentage So Far": 97.40293030408954,
+    "Translations": {
+      "en": "Current",
+      "bn": "বর্তমান"
+    }
+  },
+  {
+    "Word": "جَاز",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.40427943120429,
+    "Translations": {
+      "en": "Permissible",
+      "bn": "অনুমোদিত"
+    }
+  },
+  {
+    "Word": "جَامِدَة",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.40562855831904,
+    "Translations": {
+      "en": "Solid",
+      "bn": "দ্রব্য"
+    }
+  },
+  {
+    "Word": "جَانِب",
+    "Frequency": 1,
+    "Part-of-speech": "Location adverb",
+    "Percentage So Far": 97.40697768543379,
+    "Translations": {
+      "en": "Side",
+      "bn": "পাশ"
+    }
+  },
+  {
+    "Word": "جَٰهِلِيَّة",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.40832681254854,
+    "Translations": {
+      "en": "Ignorance",
+      "bn": "অজ্ঞান"
+    }
+  },
+  {
+    "Word": "جِبَاه",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.40967593966329,
+    "Translations": {
+      "en": "Forehead",
+      "bn": "মাথা"
+    }
+  },
+  {
+    "Word": "جِبْت",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.41102506677804,
+    "Translations": {
+      "en": "Abundance",
+      "bn": "প্রচুরতা"
+    }
+  },
+  {
+    "Word": "جَبِين",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.41237419389279,
+    "Translations": {
+      "en": "Forehead",
+      "bn": "মাথা"
+    }
   }
 ]
-
