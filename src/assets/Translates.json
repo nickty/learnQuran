@@ -32627,5 +32627,1265 @@
       "en": "Forehead",
       "bn": "মাথা"
     }
+  },
+  {
+    "Word": "جَدّ",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.41372332100754,
+    "Translations": {
+      "en": "grandfather",
+      "bn": "দাদা"
+    }
+  },
+  {
+    "Word": "جُدَد",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.41507244812229,
+    "Translations": {
+      "en": "renewed",
+      "bn": "নতুনভাবে পুনর্নির্মিত"
+    }
+  },
+  {
+    "Word": "جُدُر",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.41642157523704,
+    "Translations": {
+      "en": "cloth or garment",
+      "bn": "কাপড় বা বস্ত্র"
+    }
+  },
+  {
+    "Word": "جُذَٰذ",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.41777070235179,
+    "Translations": {
+      "en": "embers",
+      "bn": "অঙ্গার"
+    }
+  },
+  {
+    "Word": "جَذْوَة",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.41911982946654,
+    "Translations": {
+      "en": "spark",
+      "bn": "প্রকাশ"
+    }
+  },
+  {
+    "Word": "جُرُف",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.42046895658129,
+    "Translations": {
+      "en": "cliff",
+      "bn": "শঙ্কু"
+    }
+  },
+  {
+    "Word": "جُرُوح",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.42181808369604,
+    "Translations": {
+      "en": "wounds",
+      "bn": "আঘাত"
+    }
+  },
+  {
+    "Word": "جَزُوع",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.42316721081079,
+    "Translations": {
+      "en": "frightened",
+      "bn": "ভীত"
+    }
+  },
+  {
+    "Word": "جِزْيَة",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.42451633792554,
+    "Translations": {
+      "en": "tribute",
+      "bn": "খরচ"
+    }
+  },
+  {
+    "Word": "جَسَد",
+    "Frequency": 1,
+    "Part-of-speech": "Adjective",
+    "Percentage So Far": 97.42586546504029,
+    "Translations": {
+      "en": "corporeal",
+      "bn": "শারীরিক"
+    }
+  },
+  {
+    "Word": "جُفَآء",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.42721459215504,
+    "Translations": {
+      "en": "arrogance",
+      "bn": "অহঙ্কার"
+    }
+  },
+  {
+    "Word": "جِفَان",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.42856371926979,
+    "Translations": {
+      "en": "hide or skin",
+      "bn": "চামড়া বা চার"
+    }
+  },
+  {
+    "Word": "جَلَآء",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.42991284638454,
+    "Translations": {
+      "en": "crystal",
+      "bn": "স্ফটিক"
+    }
+  },
+  {
+    "Word": "جَلَٰبِيب",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.43126197349929,
+    "Translations": {
+      "en": "cheeks",
+      "bn": "গাল"
+    }
+  },
+  {
+    "Word": "جَمّ",
+    "Frequency": 1,
+    "Part-of-speech": "Adjective",
+    "Percentage So Far": 97.43261110061404,
+    "Translations": {
+      "en": "handsome",
+      "bn": "সুন্দর"
+    }
+  },
+  {
+    "Word": "جَمَال",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.43396022772879,
+    "Translations": {
+      "en": "beauty",
+      "bn": "সৌন্দর্য"
+    }
+  },
+  {
+    "Word": "جِمَٰلَت",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.43530935484354,
+    "Translations": {
+      "en": "camels",
+      "bn": "উট"
+    }
+  },
+  {
+    "Word": "جُمُعَة",
+    "Frequency": 1,
+    "Part-of-speech": "Proper noun",
+    "Percentage So Far": 97.43665848195829,
+    "Translations": {
+      "en": "Friday",
+      "bn": "শুক্রবার"
+    }
+  },
+  {
+    "Word": "جَمَل",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.43800760907304,
+    "Translations": {
+      "en": "camel",
+      "bn": "উট"
+    }
+  },
+  {
+    "Word": "جُمْلَة",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.43935673618779,
+    "Translations": {
+      "en": "sentence",
+      "bn": "বাক্য"
+    }
+  },
+  {
+    "Word": "جُنُب",
+    "Frequency": 1,
+    "Part-of-speech": "Adjective",
+    "Percentage So Far": 97.44070586330254,
+    "Translations": {
+      "en": "south",
+      "bn": "দক্ষিণ"
+    }
+  },
+  {
+    "Word": "جَنَف",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.44205499041729,
+    "Translations": {
+      "en": "wing",
+      "bn": "পাখির চোখ"
+    }
+  },
+  {
+    "Word": "جَنِيّ",
+    "Frequency": 1,
+    "Part-of-speech": "Adjective",
+    "Percentage So Far": 97.44340411753204,
+    "Translations": {
+      "en": "productive",
+      "bn": "উৎপাদক"
+    }
+  },
+  {
+    "Word": "جَنَى",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.44475324464679,
+    "Translations": {
+      "en": "garden",
+      "bn": "বাগান"
+    }
+  },
+  {
+    "Word": "جِهَار",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.44610237176154,
+    "Translations": {
+      "en": "openly",
+      "bn": "সোজা অবস্থায়"
+    }
+  },
+  {
+    "Word": "جُهْد",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.44745149887629,
+    "Translations": {
+      "en": "effort",
+      "bn": "প্রচেষ্টা"
+    }
+  },
+  {
+    "Word": "جَهُول",
+    "Frequency": 1,
+    "Part-of-speech": "Adjective",
+    "Percentage So Far": 97.44880062599104,
+    "Translations": {
+      "en": "ignorant",
+      "bn": "অজ্ঞ"
+    }
+  },
+  {
+    "Word": "جَوّ",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.45014975310579,
+    "Translations": {
+      "en": "weather",
+      "bn": "আবহাওয়া"
+    }
+  },
+  {
+    "Word": "جَوَاب",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.45149888022054,
+    "Translations": {
+      "en": "answer",
+      "bn": "উত্তর"
+    }
+  },
+  {
+    "Word": "جَوَار",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.45284800733529,
+    "Translations": {
+      "en": "neighbour",
+      "bn": "প্রতিবাদী"
+    }
+  },
+  {
+    "Word": "جَوَارِح",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.45419713445004,
+    "Translations": {
+      "en": "limbs",
+      "bn": "অঙ্গদেশ"
+    }
+  },
+  {
+    "Word": "جُودِىّ",
+    "Frequency": 1,
+    "Part-of-speech": "Proper noun",
+    "Percentage So Far": 97.45554626156479,
+    "Translations": {
+      "en": "Judy",
+      "bn": "জুডি"
+    }
+  },
+  {
+    "Word": "جَوْف",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.45689538867954,
+    "Translations": {
+      "en": "cavity",
+      "bn": "খালি স্থান"
+    }
+  },
+  {
+    "Word": "جِيَاد",
+    "Frequency": 1,
+    "Part-of-speech": "Adjective",
+    "Percentage So Far": 97.45824451579429,
+    "Translations": {
+      "en": "generous",
+      "bn": "উদার"
+    }
+  },
+  {
+    "Word": "جِيد",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.45959364290904,
+    "Translations": {
+      "en": "good",
+      "bn": "ভাল"
+    }
+  },
+  {
+    "Word": "حَآجّ",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.46094277002379,
+    "Translations": {
+      "en": "pilgrim",
+      "bn": "হজ"
+    }
+  },
+  {
+    "Word": "حَآفِّين",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.46229189713854,
+    "Translations": {
+      "en": "barefooted",
+      "bn": "বেদ"
+    }
+  },
+  {
+    "Word": "حَاجِز",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.46364102425329,
+    "Translations": {
+      "en": "barrier",
+      "bn": "বাধা"
+    }
+  },
+  {
+    "Word": "حَٰجِزِين",
+    "Frequency": 1,
+    "Part-of-speech": "Adjective",
+    "Percentage So Far": 97.46499015136804,
+    "Translations": {
+      "en": "reserved",
+      "bn": "সংরক্ষিত"
+    }
+  },
+  {
+    "Word": "حَٰذِرُون",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.46633927848279,
+    "Translations": {
+      "en": "cautious",
+      "bn": "সতর্ক"
+    }
+  },
+  {
+    "Word": "حَاسِد",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.46768840559754,
+    "Translations": {
+      "en": "envier",
+      "bn": "ঈর্ষার"
+    }
+  },
+  {
+    "Word": "حَاضِر",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.46903753271229,
+    "Translations": {
+      "en": "present",
+      "bn": "উপস্থিত"
+    }
+  },
+  {
+    "Word": "حَاضِرِى",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.47038665982704,
+    "Translations": {
+      "en": "present",
+      "bn": "উপস্থিত"
+    }
+  },
+  {
+    "Word": "حَاضِرَة",
+    "Frequency": 1,
+    "Part-of-speech": "Adjective",
+    "Percentage So Far": 97.47173578694179,
+    "Translations": {
+      "en": "present",
+      "bn": "উপস্থিত"
+    }
+  },
+  {
+    "Word": "حَاضِرَة",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.47308491405654,
+    "Translations": {
+      "en": "present",
+      "bn": "উপস্থিত"
+    }
+  },
+  {
+    "Word": "حَافِرَة",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.47443404117129,
+    "Translations": {
+      "en": "digger",
+      "bn": "খননকারী"
+    }
+  },
+  {
+    "Word": "حَام",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.47578316828604,
+    "Translations": {
+      "en": "African",
+      "bn": "আফ্রিকান"
+    }
+  },
+  {
+    "Word": "حَٰمِدُون",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.47713229540079,
+    "Translations": {
+      "en": "praisers",
+      "bn": "প্রশংসক"
+    }
+  },
+  {
+    "Word": "حَٰمِلَٰت",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.47848142251554,
+    "Translations": {
+      "en": "pregnant women",
+      "bn": "গর্ভবতী নারী"
+    }
+  },
+  {
+    "Word": "حَٰمِلِين",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.4798305496303,
+    "Translations": {
+      "en": "carrying",
+      "bn": "চালানো"
+    }
+  },
+  {
+    "Word": "حُبُك",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.48117967674504,
+    "Translations": {
+      "en": "your love",
+      "bn": "তোমার ভালোবাসা"
+    }
+  },
+  {
+    "Word": "حَتْم",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.4825288038598,
+    "Translations": {
+      "en": "fate",
+      "bn": "ভাগ্য"
+    }
+  },
+  {
+    "Word": "حَثِيث",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.48387793097454,
+    "Translations": {
+      "en": "swift",
+      "bn": "দ্রুত"
+    }
+  },
+  {
+    "Word": "حِجّ",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.4852270580893,
+    "Translations": {
+      "en": "pilgrimage",
+      "bn": "হজ"
+    }
+  },
+  {
+    "Word": "حِجَج",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.48657618520404,
+    "Translations": {
+      "en": "arguments",
+      "bn": "তর্ক"
+    }
+  },
+  {
+    "Word": "حِجْر",
+    "Frequency": 1,
+    "Part-of-speech": "Adjective",
+    "Percentage So Far": 97.4879253123188,
+    "Translations": {
+      "en": "stone",
+      "bn": "পাথর"
+    }
+  },
+  {
+    "Word": "حُجُرَٰت",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.48927443943354,
+    "Translations": {
+      "en": "barriers",
+      "bn": "বাধা"
+    }
+  },
+  {
+    "Word": "حُجُور",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.4906235665483,
+    "Translations": {
+      "en": "closed",
+      "bn": "বন্ধ"
+    }
+  },
+  {
+    "Word": "حِدَاد",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.49197269366304,
+    "Translations": {
+      "en": "blacksmiths",
+      "bn": "কারিগর"
+    }
+  },
+  {
+    "Word": "حَدَب",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.4933218207778,
+    "Translations": {
+      "en": "thorn",
+      "bn": "কাঁটা"
+    }
+  },
+  {
+    "Word": "حَرَج",
+    "Frequency": 1,
+    "Part-of-speech": "Adjective",
+    "Percentage So Far": 97.49467094789254,
+    "Translations": {
+      "en": "difficult",
+      "bn": "কঠিন"
+    }
+  },
+  {
+    "Word": "حَرْد",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.4960200750073,
+    "Translations": {
+      "en": "envy",
+      "bn": "ঈর্ষা"
+    }
+  },
+  {
+    "Word": "حَرَس",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.49736920212204,
+    "Translations": {
+      "en": "guard",
+      "bn": "পালক"
+    }
+  },
+  {
+    "Word": "حَرَض",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.4987183292368,
+    "Translations": {
+      "en": "incitement",
+      "bn": "উৎসাহ"
+    }
+  },
+  {
+    "Word": "حَرْف",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.50006745635154,
+    "Translations": {
+      "en": "letter",
+      "bn": "অক্ষর"
+    }
+  },
+  {
+    "Word": "حَرُور",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.5014165834663,
+    "Translations": {
+      "en": "silkworm",
+      "bn": "রেশম কোকিল"
+    }
+  },
+  {
+    "Word": "حَرِيص",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.50276571058104,
+    "Translations": {
+      "en": "eager",
+      "bn": "উদ্যমী"
+    }
+  },
+  {
+    "Word": "حِسَاب",
+    "Frequency": 1,
+    "Part-of-speech": "Adjective",
+    "Percentage So Far": 97.5041148376958,
+    "Translations": {
+      "en": "reckoning",
+      "bn": "হিসেব"
+    }
+  },
+  {
+    "Word": "حَسَد",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.50546396481055,
+    "Translations": {
+      "en": "envy",
+      "bn": "ঈর্ষা"
+    }
+  },
+  {
+    "Word": "حَسْرَت",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.5068130919253,
+    "Translations": {
+      "en": "regret",
+      "bn": "অসুখ"
+    }
+  },
+  {
+    "Word": "حَسْرَتَىٰ",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.50816221904005,
+    "Translations": {
+      "en": "regret",
+      "bn": "অসুখ"
+    }
+  },
+  {
+    "Word": "حَسَن",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.5095113461548,
+    "Translations": {
+      "en": "beautiful",
+      "bn": "সুন্দর"
+    }
+  },
+  {
+    "Word": "حُسْنَيَيْن",
+    "Frequency": 1,
+    "Part-of-speech": "Adjective",
+    "Percentage So Far": 97.51086047326955,
+    "Translations": {
+      "en": "two beautiful things",
+      "bn": "দুটি সুন্দর জিনিস"
+    }
+  },
+  {
+    "Word": "حُسُوم",
+    "Frequency": 1,
+    "Part-of-speech": "Adjective",
+    "Percentage So Far": 97.5122096003843,
+    "Translations": {
+      "en": "harsh",
+      "bn": "কঠোর"
+    }
+  },
+  {
+    "Word": "حَسِيب",
+    "Frequency": 1,
+    "Part-of-speech": "Adjective",
+    "Percentage So Far": 97.51355872749905,
+    "Translations": {
+      "en": "just",
+      "bn": "ন্যায়িক"
+    }
+  },
+  {
+    "Word": "حَسِير",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.5149078546138,
+    "Translations": {
+      "en": "easy",
+      "bn": "সহজ"
+    }
+  },
+  {
+    "Word": "حَسِيس",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.51625698172855,
+    "Translations": {
+      "en": "sensation",
+      "bn": "অনুভূতি"
+    }
+  },
+  {
+    "Word": "حَصَاد",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.5176061088433,
+    "Translations": {
+      "en": "harvest",
+      "bn": "ফসল"
+    }
+  },
+  {
+    "Word": "حَصَب",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.51895523595805,
+    "Translations": {
+      "en": "sand",
+      "bn": "বালু"
+    }
+  },
+  {
+    "Word": "حَصُور",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.5203043630728,
+    "Translations": {
+      "en": "a kind of tree",
+      "bn": "এক ধরণের গাছ"
+    }
+  },
+  {
+    "Word": "حُصُون",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.52165349018755,
+    "Translations": {
+      "en": "fortresses",
+      "bn": "দুর্গ"
+    }
+  },
+  {
+    "Word": "حَصِير",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.5230026173023,
+    "Translations": {
+      "en": "mat",
+      "bn": "তক"
+    }
+  },
+  {
+    "Word": "حَفَدَة",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.52435174441705,
+    "Translations": {
+      "en": "trench",
+      "bn": "খাদ"
+    }
+  },
+  {
+    "Word": "حُفْرَة",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.5257008715318,
+    "Translations": {
+      "en": "hole",
+      "bn": "গর্ত"
+    }
+  },
+  {
+    "Word": "حُقُب",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.52704999864655,
+    "Translations": {
+      "en": "squirrel",
+      "bn": "কাঠবুঁড়ো"
+    }
+  },
+  {
+    "Word": "حَقِيق",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.5283991257613,
+    "Translations": {
+      "en": "reality",
+      "bn": "বাস্তবতা"
+    }
+  },
+  {
+    "Word": "حُكَّام",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.52974825287605,
+    "Translations": {
+      "en": "rulers",
+    "bn": "নেতা"
+    }
+  },
+  {
+    "Word": "حَلَٰٓئِل",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.5310973799908,
+    "Translations": {
+      "en": "obstacles",
+      "bn": "অস্ততি"
+    }
+  },
+  {
+    "Word": "حَلَّاف",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.53244650710555,
+    "Translations": {
+      "en": "trader",
+      "bn": "বাণিজ্যিক"
+    }
+  },
+  {
+    "Word": "حُلْقُوم",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.5337956342203,
+    "Translations": {
+      "en": "pen",
+      "bn": "পেন"
+    }
+  },
+  {
+    "Word": "حُلِيّ",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.53514476133505,
+    "Translations": {
+      "en": "ornaments",
+      "bn": "আভুষণ"
+    }
+  },
+  {
+    "Word": "حَمَّالَة",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.5364938884498,
+    "Translations": {
+      "en": "porter",
+      "bn": "পোর্টার"
+    }
+  },
+  {
+    "Word": "حُمْر",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.53784301556455,
+    "Translations": {
+      "en": "red",
+      "bn": "লাল"
+    }
+  },
+  {
+    "Word": "حَمُولَة",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.5391921426793,
+    "Translations": {
+      "en": "load",
+      "bn": "বোঝা"
+    }
+  },
+  {
+    "Word": "حَمِيد",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.54054126979405,
+    "Translations": {
+      "en": "praiseworthy",
+      "bn": "মহিমান্বিত"
+    }
+  },
+  {
+    "Word": "حَمِئَة",
+    "Frequency": 1,
+    "Part-of-speech": "Adjective",
+    "Percentage So Far": 97.5418903969088,
+    "Translations": {
+      "en": "disgusting",
+      "bn": "ঘৃণিত"
+    }
+  },
+  {
+    "Word": "حَنَان",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.54323952402355,
+    "Translations": {
+      "en": "affection",
+      "bn": "ভালোবাসা"
+    }
+  },
+  {
+    "Word": "حِنث",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.5445886511383,
+    "Translations": {
+      "en": "betrayal",
+      "bn": "বিশ্বাসঘাত"
+    }
+  },
+  {
+    "Word": "حَنِيذ",
+    "Frequency": 1,
+    "Part-of-speech": "Adjective",
+    "Percentage So Far": 97.54593777825305,
+    "Translations": {
+      "en": "delicious",
+      "bn": "সুস্বাদু"
+    }
+  },
+  {
+    "Word": "حُنَيْن",
+    "Frequency": 1,
+    "Part-of-speech": "Proper noun",
+    "Percentage So Far": 97.5472869053678,
+    "Translations": {
+      "en": "Hunayn",
+      "bn": "হুনায়ন"
+    }
+  },
+  {
+    "Word": "حَوَايَآ",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.54863603248255,
+    "Translations": {
+      "en": "marvels",
+      "bn": "বিস্ময়কর বস্তু"
+    }
+  },
+  {
+    "Word": "حُوب",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.5499851595973,
+    "Translations": {
+      "en": "love",
+      "bn": "ভালোবাসা"
+    }
+  },
+  {
+    "Word": "حَوْل",
+    "Frequency": 1,
+    "Part-of-speech": "Time adverb",
+    "Percentage So Far": 97.55133428671205,
+    "Translations": {
+      "en": "around",
+      "bn": "পাশে"
+    }
+  },
+  {
+    "Word": "حِوَل",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.5526834138268,
+    "Translations": {
+      "en": "circumstances",
+      "bn": "পরিস্থিতি"
+    }
+  },
+  {
+    "Word": "حَيّ",
+    "Frequency": 1,
+    "Part-of-speech": "Adjective",
+    "Percentage So Far": 97.55403254094155,
+    "Translations": {
+      "en": "alive",
+      "bn": "জীবন্ত"
+    }
+  },
+  {
+    "Word": "حَيْرَان",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.5553816680563,
+    "Translations": {
+      "en": "astonished",
+      "bn": "অবাক"
+    }
+  },
+  {
+    "Word": "حِيلَة",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.55673079517105,
+    "Translations": {
+      "en": "trick",
+      "bn": "কৌশল"
+    }
+  },
+  {
+    "Word": "حَيَوَان",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.5580799222858,
+    "Translations": {
+      "en": "animal",
+      "bn": "প্রাণী"
+    }
+  },
+  {
+    "Word": "حَيَّة",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.55942904940055,
+    "Translations": {
+      "en": "snake",
+      "bn": "সাপ"
+    }
+  },
+  {
+    "Word": "خَآصَّة",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.5607781765153,
+    "Translations": {
+      "en": "private",
+      "bn": "ব্যক্তিগত"
+    }
+  },
+  {
+    "Word": "خَآئِبِين",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.56212730363005,
+    "Translations": {
+      "en": "disappointed",
+      "bn": "নিরাশ"
+    }
+  },
+  {
+    "Word": "خَآئِضِين",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.5634764307448,
+    "Translations": {
+      "en": "failing",
+      "bn": "প্রস্তুত হতে অক্ষম"
+    }
+  },
+  {
+    "Word": "خَاتَم",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.56482555785955,
+    "Translations": {
+      "en": "ring",
+      "bn": "আংঠি"
+    }
+  },
+  {
+    "Word": "خَٰدِع",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.5661746849743,
+    "Translations": {
+      "en": "deceiver",
+      "bn": "প্রতারক"
+    }
+  },
+  {
+    "Word": "خَٰزِنِين",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.56752381208905,
+    "Translations": {
+      "en": "treasuries",
+      "bn": "খজনা"
+    }
+  },
+  {
+    "Word": "خَاسِرَة",
+    "Frequency": 1,
+    "Part-of-speech": "Adjective",
+    "Percentage So Far": 97.5688729392038,
+    "Translations": {
+      "en": "losing",
+      "bn": "হারানো"
+    }
+  },
+  {
+    "Word": "خَاسِئ",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.57022206631855,
+    "Translations": {
+      "en": "loser",
+      "bn": "হারানো"
+    }
+  },
+  {
+    "Word": "خَٰضِعِين",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.5715711934333,
+    "Translations": {
+      "en": "submissive",
+      "bn": "অধীনস্থ"
+    }
+  },
+  {
+    "Word": "خَاطِئَة",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.57292032054805,
+    "Translations": {
+      "en": "sinful",
+      "bn": "পাপী"
+    }
+  },
+  {
+    "Word": "خَاطِئَة",
+    "Frequency": 1,
+    "Part-of-speech": "Adjective",
+    "Percentage So Far": 97.5742694476628,
+    "Translations": {
+      "en": "wrong",
+      "bn": "ভুল"
+    }
+  },
+  {
+    "Word": "خَافِضَة",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.57561857477755,
+    "Translations": {
+      "en": "lowering",
+      "bn": "নিচু"
+    }
+  },
+  {
+    "Word": "خَافِيَة",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.5769677018923,
+    "Translations": {
+      "en": "hidden",
+      "bn": "লুকানো"
+    }
+  },
+  {
+    "Word": "خَٰلِفِين",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 97.57831682900705,
+    "Translations": {
+      "en": "opponents",
+      "bn": "বিরোধী"
+    }
+  },
+  {
+    "Word": "خَٰلِق",
+    "Frequency": 1,
+    "Part-of-speech": "Adjective",
+    "Percentage So Far": 97.5796659561218,
+    "Translations": {
+      "en": "creator",
+      "bn": "সৃষ্টিকর্তা"
+    }
+  },
+  {
+    "Word": "خَالِيَة",
+    "Frequency": 1,
+    "Part-of-speech": "Adjective",
+    "Percentage So Far": 97.58101508323655,
+    "Translations": {
+      "en": "empty",
+      "bn": "খালি"
+    }
+  },
+  {
+    "Word": "خَاوِيَة",
+    "Frequency": 1,
+    "Part-of-speech": "Adjective",
+    "Percentage So Far": 97.5823642103513,
+    "Translations": {
+      "en": "void",
+      "bn": "শূন্য"
+    }
   }
 ]
