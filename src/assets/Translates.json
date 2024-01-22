@@ -38957,5 +38957,445 @@
       "en": "Opener",
       "bn": "উদ্বারক"
     }
+  },
+  {
+    "Word": "فَتْرَة",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 98.26772078464435,
+    "Translations": {
+      "en": "Period",
+      "bn": "সময়কাল"
+    }
+  },
+  {
+    "Word": "فُتُون",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 98.2690699117591,
+    "Translations": {
+      "en": "Tribulations",
+      "bn": "প্রতিকূল"
+    }
+  },
+  {
+    "Word": "فَتًى",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 98.27041903887385,
+    "Translations": {
+      "en": "Youth",
+      "bn": "তরুণ"
+    }
+  },
+  {
+    "Word": "فَتَيَان",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 98.2717681659886,
+    "Translations": {
+      "en": "Boys",
+      "bn": "ছেলেরা"
+    }
+  },
+  {
+    "Word": "فَجّ",
+    "Frequency": 1,
+    "Part-of-speech": "Adjective",
+    "Percentage So Far": 98.27311729310335,
+    "Translations": {
+      "en": "Fierce",
+      "bn": "তীব্র"
+    }
+  },
+  {
+    "Word": "فُجَّار",
+    "Frequency": 1,
+    "Part-of-speech": "Adjective",
+    "Percentage So Far": 98.2744664202181,
+    "Translations": {
+      "en": "Sinful",
+      "bn": "পাপী"
+    }
+  },
+  {
+    "Word": "فُجُور",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 98.27581554733285,
+    "Translations": {
+      "en": "Wickedness",
+      "bn": "অধর্ম"
+    }
+  },
+  {
+    "Word": "فَجْوَة",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 98.2771646744476,
+    "Translations": {
+      "en": "Gap",
+      "bn": "ফাস"
+    }
+  },
+  {
+    "Word": "فَخَّار",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 98.27851380156235,
+    "Translations": {
+      "en": "Potter",
+      "bn": "মৃত্যুকর"
+    }
+  },
+  {
+    "Word": "فِدَآء",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 98.2798629286771,
+    "Translations": {
+      "en": "Redemption",
+      "bn": "মুক্তি"
+    }
+  },
+  {
+    "Word": "فَرَاش",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 98.28121205579185,
+    "Translations": {
+      "en": "Bed",
+      "bn": "শয়্যা"
+    }
+  },
+  {
+    "Word": "فَرْث",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 98.2825611829066,
+    "Translations": {
+      "en": "Rubbish",
+      "bn": "আবর্জনা"
+    }
+  },
+  {
+    "Word": "فَرْش",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 98.28391031002135,
+    "Translations": {
+      "en": "Carpet",
+      "bn": "আলিম"
+    }
+  },
+  {
+    "Word": "فُرُط",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 98.2852594371361,
+    "Translations": {
+      "en": "Excess",
+      "bn": "অতিরিক্ত"
+    }
+  },
+  {
+    "Word": "فَرْع",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 98.28660856425086,
+    "Translations": {
+      "en": "Branch",
+      "bn": "শাখা"
+    }
+  },
+  {
+    "Word": "فَرْق",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 98.2879576913656,
+    "Translations": {
+      "en": "Difference",
+      "bn": "প্রতিরোধ"
+    }
+  },
+  {
+    "Word": "فِرْق",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 98.28930681848036,
+    "Translations": {
+      "en": "Groups",
+      "bn": "গোষ্ঠী"
+    }
+  },
+  {
+    "Word": "فِرْقَة",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 98.2906559455951,
+    "Translations": {
+      "en": "Group",
+      "bn": "গ্রুপ"
+    }
+  },
+  {
+    "Word": "فَرِيّ",
+    "Frequency": 1,
+    "Part-of-speech": "Adjective",
+    "Percentage So Far": 98.29200507270986,
+    "Translations": {
+      "en": "Free",
+      "bn": "মুক্ত"
+    }
+  },
+  {
+    "Word": "فَصْل",
+    "Frequency": 1,
+    "Part-of-speech": "Adjective",
+    "Percentage So Far": 98.2933541998246,
+    "Translations": {
+      "en": "Sharp",
+      "bn": "তীক্ষ্ণ"
+    }
+  },
+  {
+    "Word": "فَصِيلَت",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 98.29470332693936,
+    "Translations": {
+      "en": "Family",
+      "bn": "পরিবার"
+    }
+  },
+  {
+    "Word": "فِطْرَت",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 98.2960524540541,
+    "Translations": {
+      "en": "Nature",
+      "bn": "প্রকৃতি"
+    }
+  },
+  {
+    "Word": "فُطُور",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 98.29740158116886,
+    "Translations": {
+      "en": "Breakfast",
+      "bn": "নাস্তা"
+    }
+  },
+  {
+    "Word": "فَظّ",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 98.2987507082836,
+    "Translations": {
+      "en": "Harsh",
+      "bn": "কঠোর"
+    }
+  },
+  {
+    "Word": "فِعْل",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 98.30009983539836,
+    "Translations": {
+      "en": "Action",
+      "bn": "কর্ম"
+    }
+  },
+  {
+    "Word": "فَعْلَت",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 98.3014489625131,
+    "Translations": {
+      "en": "Deed",
+      "bn": "কৃত্য"
+    }
+  },
+  {
+    "Word": "فَقْر",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 98.30279808962786,
+    "Translations": {
+      "en": "Poverty",
+      "bn": "দারিদ্র্য"
+    }
+  },
+  {
+    "Word": "فَكّ",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 98.3041472167426,
+    "Translations": {
+      "en": "Jaw",
+      "bn": "জানু"
+    }
+  },
+  {
+    "Word": "فَكِهِين",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 98.30549634385736,
+    "Translations": {
+      "en": "Intelligent",
+      "bn": "বুদ্ধিমান"
+    }
+  },
+  {
+    "Word": "فُلَان",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 98.3068454709721,
+    "Translations": {
+      "en": "So-and-so",
+      "bn": "এমন এমন"
+    }
+  },
+  {
+    "Word": "فَلَق",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 98.30819459808686,
+    "Translations": {
+      "en": "Splitting",
+      "bn": "বিভাজন"
+    }
+  },
+  {
+    "Word": "فَوَاق",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 98.3095437252016,
+    "Translations": {
+      "en": "Upper atmosphere",
+      "bn": "উচ্চমণ্ডল"
+    }
+  },
+  {
+    "Word": "فَوْت",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 98.31089285231636,
+    "Translations": {
+      "en": "Missed",
+      "bn": "অনুপস্থিত"
+    }
+  },
+  {
+    "Word": "فَوْر",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 98.3122419794311,
+    "Translations": {
+      "en": "Immediately",
+      "bn": "তাতপর"
+    }
+  },
+  {
+    "Word": "فُوم",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 98.31359110654586,
+    "Translations": {
+      "en": "Foam",
+      "bn": "ফোম"
+    }
+  },
+  {
+    "Word": "فِئَت",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 98.31494023366061,
+    "Translations": {
+      "en": "Group",
+      "bn": "গোষ্ঠী"
+    }
+  },
+  {
+    "Word": "فِيل",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 98.31628936077536,
+    "Translations": {
+      "en": "Elephant",
+      "bn": "হাতি"
+    }
+  },
+  {
+    "Word": "قَآئِلُون",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 98.31763848789011,
+    "Translations": {
+      "en": "Creators",
+      "bn": "সৃষ্টিকর্তা"
+    }
+  },
+  {
+    "Word": "قَآئِمَة",
+    "Frequency": 1,
+    "Part-of-speech": "Adjective",
+    "Percentage So Far": 98.31898761500486,
+    "Translations": {
+      "en": "Standing",
+      "bn": "দাঁড়ান"
+    }
+  },
+  {
+    "Word": "قَاب",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 98.32033674211961,
+    "Translations": {
+      "en": "Handle",
+      "bn": "হ্যান্ডেল"
+    }
+  },
+  {
+    "Word": "قَابِل",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 98.32168586923436,
+    "Translations": {
+      "en": "Capable",
+      "bn": "সক্ষম"
+    }
+  },
+  {
+    "Word": "قَاصِد",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 98.32303499634911,
+    "Translations": {
+      "en": "Messenger",
+      "bn": "বার্তা-বাহক"
+    }
+  },
+  {
+    "Word": "قَاصِف",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 98.32438412346386,
+    "Translations": {
+      "en": "Sweeping",
+      "bn": "ঝাড়ু"
+    }
+  },
+  {
+    "Word": "قَاض",
+    "Frequency": 1,
+    "Part-of-speech": "Noun",
+    "Percentage So Far": 98.32573325057861,
+    "Translations": {
+      "en": "Judge",
+      "bn": "মাননীয়"
+    }
   }
 ]
