@@ -4,6 +4,7 @@ import {RouteProp} from '@react-navigation/native';
 import {StackNavigationProp} from '@react-navigation/stack';
 import {fetchWordDetails, translateText} from '../api/api';
 import {TouchableOpacity} from 'react-native-gesture-handler';
+import RoundBadge from '../components/RoundBadge';
 
 type RootStackParamList = {
   Initial: undefined;
@@ -22,7 +23,7 @@ interface WordsScreenProps {
 }
 
 const WordsScreen: React.FC<WordsScreenProps> = ({route, navigation}) => {
-  const {words} = route.params;
+  const {words} = route?.params;
   const [translatedWords, setTranslatedWords] = useState<[]>([]);
 
   useEffect(() => {
@@ -70,12 +71,39 @@ const WordsScreen: React.FC<WordsScreenProps> = ({route, navigation}) => {
         <View style={styles.wordsContainer}>
           <Text style={styles.title}>Next five words that you can learn:</Text>
           {words.map((single, index) => (
-            <TouchableOpacity
-              key={index}
-              style={styles.wordItem}
-              onPress={() => fetchWords(single.Word)}>
-              <Text style={styles.wordText}>{single.Word}</Text>
-            </TouchableOpacity>
+            <View
+              style={{
+                display: 'flex',
+                flexDirection: 'row',
+                justifyContent: 'flex-end',
+              }}>
+              <TouchableOpacity
+                key={index}
+                style={styles.wordItem}
+                onPress={() => fetchWords(single.Word)}>
+                <Text style={styles.wordText}>{single.Word}</Text>
+              </TouchableOpacity>
+              <View style={{margin: 10}}>
+                <RoundBadge text={single.Frequency} />
+                <Text
+                  style={{
+                    fontSize: 16,
+                    textAlign: 'center',
+                    marginVertical: 5,
+                    color: '#666',
+                  }}>
+                  {single.Translations.en}
+                </Text>
+                <Text
+                  style={{
+                    fontSize: 16,
+                    textAlign: 'center',
+                    marginVertical: 5,
+                  }}>
+                  {single.Translations.bn}
+                </Text>
+              </View>
+            </View>
           ))}
         </View>
       )}
@@ -91,6 +119,8 @@ const styles = StyleSheet.create({
     backgroundColor: '#fff',
   },
   wordsContainer: {
+    flex: 1,
+    // backgroundColor: 'red',
     alignItems: 'center',
     padding: 20,
   },

@@ -1,6 +1,6 @@
 // File: quranWordsService.ts
 
-import quranWords from '../assets/Quran-All-Words.json'; // Replace with your JSON file path
+import quranWords from '../assets/Translates.json'; // Replace with your JSON file path
 
 interface QuranWord {
   Word: string;
@@ -16,7 +16,7 @@ export const getRandomWords = (): Promise<QuranWord[]> => {
   return new Promise((resolve, reject) => {
     try {
       const shuffledWords = quranWords.sort(() => Math.random() - 0.5);
-      console.log("total words from json", shuffledWords.length)
+      console.log('total words from json', shuffledWords.length);
       const randomWords = shuffledWords.slice(0, 5);
       resolve(randomWords);
     } catch (error) {

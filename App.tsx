@@ -14,7 +14,11 @@ const App: React.FC = () => {
       <Stack.Navigator initialRouteName="Initial">
         <Stack.Screen name="Initial" component={InitialScreen} />
         <Stack.Screen name="Words" component={WordsScreen} />
-        <Stack.Screen name="WordDetails" component={WordDetailsScreen} />
+        <Stack.Screen
+          name="WordDetails"
+          component={WordDetailsScreen}
+          options={{title: 'Word Details'}}
+        />
       </Stack.Navigator>
     </NavigationContainer>
   );

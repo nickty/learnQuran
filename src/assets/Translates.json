@@ -39565,7 +39565,7 @@
     "Percentage So Far": 98.34866841152936,
     "Translations": {
       "en": "Dark",
-    "bn": "অন্ধকার"
+      "bn": "অন্ধকার"
     }
   },
   {
@@ -39835,7 +39835,7 @@
     "Percentage So Far": 98.38509484362761,
     "Translations": {
       "en": "Valuable",
-    "bn": "মূল্যবান"
+      "bn": "মূল্যবান"
     }
   },
   {
@@ -40385,7 +40385,7 @@
     "Percentage So Far": 98.45929683493887,
     "Translations": {
       "en": "Radiant",
-    "bn": "আলোকিত"
+      "bn": "আলোকিত"
     }
   },
   {
@@ -40695,7 +40695,7 @@
     "Percentage So Far": 98.50111977549612,
     "Translations": {
       "en": "Scattered",
-    "bn": "ছিটছিটে"
+      "bn": "ছিটছিটে"
     }
   },
   {
@@ -41145,7 +41145,7 @@
     "Percentage So Far": 98.56183049565988,
     "Translations": {
       "en": "Parable",
-    "bn": "উপমেয়"
+      "bn": "উপমেয়"
     }
   },
   {
@@ -41405,7 +41405,7 @@
     "Percentage So Far": 98.59690780064338,
     "Translations": {
       "en": "Praised",
-    "bn": "প্রশংসিত"
+      "bn": "প্রশংসিত"
     }
   },
   {
@@ -41855,7 +41855,7 @@
     "Percentage So Far": 98.65761852080713,
     "Translations": {
       "en": "Sent",
-    "bn": "প্রেরিত"
+      "bn": "প্রেরিত"
     }
   },
   {
@@ -43265,7 +43265,7 @@
     "Percentage So Far": 98.84649631687215,
     "Translations": {
       "en": "Angry",
-    "bn": "ক্রুদ্ধ"
+      "bn": "ক্রুদ্ধ"
     }
   },
   {
@@ -43715,7 +43715,7 @@
     "Percentage So Far": 98.9072070370359,
     "Translations": {
       "en": "Written",
-    "bn": "লেখিত"
+      "bn": "লেখিত"
     }
   },
   {
@@ -44198,14 +44198,14 @@
       "bn": "বিক্ষিপ্ত"
     }
   },
-   {
+  {
     "Word": "مَنطِق",
     "Frequency": 1,
     "Part-of-speech": "Noun",
     "Percentage So Far": 98.97331426565866,
     "Translations": {
-      "English": "Logic",
-      "Bengali": "তার্কিকতা"
+      "en": "Logic",
+      "bn": "তার্কিকতা"
     }
   },
   {
@@ -44214,8 +44214,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 98.97466339277341,
     "Translations": {
-      "English": "Broken",
-      "Bengali": "ভাঙা"
+      "en": "Broken",
+      "bn": "ভাঙা"
     }
   },
   {
@@ -44224,8 +44224,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 98.97601251988816,
     "Translations": {
-      "English": "Hypocrites",
-      "Bengali": "মুনাফিক"
+      "en": "Hypocrites",
+      "bn": "মুনাফিক"
     }
   },
   {
@@ -44234,8 +44234,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 98.97736164700291,
     "Translations": {
-      "English": "Exploding",
-      "Bengali": "বিস্ফোরণ"
+      "en": "Exploding",
+      "bn": "বিস্ফোরণ"
     }
   },
   {
@@ -44244,8 +44244,8 @@
     "Part-of-speech": "Adjective",
     "Percentage So Far": 98.97871077411766,
     "Translations": {
-      "English": "Bloated",
-      "Bengali": "ফোলা"
+      "en": "Bloated",
+      "bn": "ফোলা"
     }
   },
   {
@@ -44254,8 +44254,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 98.98005990123241,
     "Translations": {
-      "English": "Dug",
-      "Bengali": "খোদা"
+      "en": "Dug",
+      "bn": "খোদা"
     }
   },
   {
@@ -44264,8 +44264,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 98.98140902834716,
     "Translations": {
-      "English": "Deficient",
-      "Bengali": "অভাবগ্রস্ত"
+      "en": "Deficient",
+      "bn": "অভাবগ্রস্ত"
     }
   },
   {
@@ -44274,8 +44274,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 98.98275815546191,
     "Translations": {
-      "English": "Denier",
-      "Bengali": "অস্বীকারক"
+      "en": "Denier",
+      "bn": "অস্বীকারক"
     }
   },
   {
@@ -44284,8 +44284,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 98.98410728257666,
     "Translations": {
-      "English": "Path",
-      "Bengali": "পথ"
+      "en": "Path",
+      "bn": "পথ"
     }
   },
   {
@@ -44294,8 +44294,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 98.98545640969141,
     "Translations": {
-      "English": "Roaring",
-      "Bengali": "গর্জন"
+      "en": "Roaring",
+      "bn": "গর্জন"
     }
   },
   {
@@ -44304,8 +44304,8 @@
     "Part-of-speech": "Proper noun",
     "Percentage So Far": 98.98680553680616,
     "Translations": {
-      "English": "Manwah",
-      "Bengali": "মানওয়া"
+      "en": "Manwah",
+      "bn": "মানওয়া"
     }
   },
   {
@@ -44314,8 +44314,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 98.98815466392091,
     "Translations": {
-      "English": "Prohibited",
-      "Bengali": "নিষিদ্ধ"
+      "en": "Prohibited",
+      "bn": "নিষিদ্ধ"
     }
   },
   {
@@ -44324,8 +44324,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 98.98950379103566,
     "Translations": {
-      "English": "Favorable",
-      "Bengali": "অনুকূল"
+      "en": "Favorable",
+      "bn": "অনুকূল"
     }
   },
   {
@@ -44334,8 +44334,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 98.99085291815041,
     "Translations": {
-      "English": "Hope",
-      "Bengali": "আশা"
+      "en": "Hope",
+      "bn": "আশা"
     }
   },
   {
@@ -44344,8 +44344,8 @@
     "Part-of-speech": "Adjective",
     "Percentage So Far": 98.99220204526516,
     "Translations": {
-      "English": "Repentant",
-      "Bengali": "তৌবার অনুভূত"
+      "en": "Repentant",
+      "bn": "তৌবার অনুভূত"
     }
   },
   {
@@ -44354,8 +44354,8 @@
     "Part-of-speech": "Adjective",
     "Percentage So Far": 98.99355117237991,
     "Translations": {
-      "English": "Radiant",
-      "Bengali": "আলোকিত"
+      "en": "Radiant",
+      "bn": "আলোকিত"
     }
   },
   {
@@ -44364,8 +44364,8 @@
     "Part-of-speech": "Adjective",
     "Percentage So Far": 98.99490029949466,
     "Translations": {
-      "English": "Migrant",
-      "Bengali": "আবাসিক"
+      "en": "Migrant",
+      "bn": "আবাসিক"
     }
   },
   {
@@ -44374,8 +44374,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 98.99624942660941,
     "Translations": {
-      "English": "Migrants",
-      "Bengali": "আবাসিক"
+      "en": "Migrants",
+      "bn": "আবাসিক"
     }
   },
   {
@@ -44384,8 +44384,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 98.99759855372416,
     "Translations": {
-      "English": "Insulted",
-      "Bengali": "অপমানিত"
+      "en": "Insulted",
+      "bn": "অপমানিত"
     }
   },
   {
@@ -44394,8 +44394,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 98.99894768083891,
     "Translations": {
-      "English": "Guided",
-      "Bengali": "নির্দেশিত"
+      "en": "Guided",
+      "bn": "নির্দেশিত"
     }
   },
   {
@@ -44404,8 +44404,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.00029680795366,
     "Translations": {
-      "English": "Abandoned",
-      "Bengali": "পরিত্যক্ত"
+      "en": "Abandoned",
+      "bn": "পরিত্যক্ত"
     }
   },
   {
@@ -44414,8 +44414,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.00164593506841,
     "Translations": {
-      "English": "Defeated",
-      "Bengali": "পরাজিত"
+      "en": "Defeated",
+      "bn": "পরাজিত"
     }
   },
   {
@@ -44424,8 +44424,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.00299506218316,
     "Translations": {
-      "English": "Destructive",
-      "Bengali": "ধ্বংসক"
+      "en": "Destructive",
+      "bn": "ধ্বংসক"
     }
   },
   {
@@ -44434,8 +44434,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.00434418929791,
     "Translations": {
-      "English": "Destroyers",
-      "Bengali": "ধ্বংসক"
+      "en": "Destroyers",
+      "bn": "ধ্বংসক"
     }
   },
   {
@@ -44444,8 +44444,8 @@
     "Part-of-speech": "Conditional particle",
     "Percentage So Far": 99.00569331641266,
     "Translations": {
-      "English": "Whatever",
-      "Bengali": "যা হোক"
+      "en": "Whatever",
+      "bn": "যা হোক"
     }
   },
   {
@@ -44454,8 +44454,8 @@
     "Part-of-speech": "Adjective",
     "Percentage So Far": 99.00704244352741,
     "Translations": {
-      "English": "Admirable",
-      "Bengali": "শ্রদ্ধাশীল"
+      "en": "Admirable",
+      "bn": "শ্রদ্ধাশীল"
     }
   },
   {
@@ -44464,8 +44464,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.00839157064216,
     "Translations": {
-      "English": "Protector",
-      "Bengali": "পালনকর্তা"
+      "en": "Protector",
+      "bn": "পালনকর্তা"
     }
   },
   {
@@ -44474,8 +44474,8 @@
     "Part-of-speech": "Adjective",
     "Percentage So Far": 99.00974069775691,
     "Translations": {
-      "English": "Guardian",
-      "Bengali": "পালনকর্তা"
+      "en": "Guardian",
+      "bn": "পালনকর্তা"
     }
   },
   {
@@ -44484,8 +44484,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.01108982487166,
     "Translations": {
-    "English": "Dishonored",
-    "Bengali": "অবমানিত"
+      "en": "Dishonored",
+      "bn": "অবমানিত"
     }
   },
   {
@@ -44494,8 +44494,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.01243895198641,
     "Translations": {
-      "English": "Citizens",
-      "Bengali": "নাগরিক"
+      "en": "Citizens",
+      "bn": "নাগরিক"
     }
   },
   {
@@ -44504,8 +44504,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.01378807910116,
     "Translations": {
-      "English": "Sites",
-      "Bengali": "সাইটস"
+      "en": "Sites",
+      "bn": "সাইটস"
     }
   },
   {
@@ -44514,8 +44514,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.01648633333066,
     "Translations": {
-      "English": "Allies",
-      "Bengali": "সঙ্গী"
+      "en": "Allies",
+      "bn": "সঙ্গী"
     }
   },
   {
@@ -44524,8 +44524,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.01783546044541,
     "Translations": {
-      "English": "Destructive",
-      "Bengali": "ধ্বংসক"
+      "en": "Destructive",
+      "bn": "ধ্বংসক"
     }
   },
   {
@@ -44534,8 +44534,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.01918458756016,
     "Translations": {
-      "English": "Given",
-      "Bengali": "প্রদত্ত"
+      "en": "Given",
+      "bn": "প্রদত্ত"
     }
   },
   {
@@ -44544,8 +44544,8 @@
     "Part-of-speech": "Adjective",
     "Percentage So Far": 99.02053371467491,
     "Translations": {
-      "English": "Postponed",
-      "Bengali": "স্থগিত"
+      "en": "Postponed",
+      "bn": "স্থগিত"
     }
   },
   {
@@ -44554,8 +44554,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.02188284178966,
     "Translations": {
-      "English": "Bitter",
-      "Bengali": "তিক্ত"
+      "en": "Bitter",
+      "bn": "তিক্ত"
     }
   },
   {
@@ -44564,8 +44564,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.02323196890441,
     "Translations": {
-      "English": "Received",
-      "Bengali": "প্রাপ্ত"
+      "en": "Received",
+      "bn": "প্রাপ্ত"
     }
   },
   {
@@ -44574,8 +44574,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.02458109601916,
     "Translations": {
-      "English": "Myrrh",
-      "Bengali": "গন্ধ"
+      "en": "Myrrh",
+      "bn": "গন্ধ"
     }
   },
   {
@@ -44584,8 +44584,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.02593022313391,
     "Translations": {
-      "English": "Balanced",
-      "Bengali": "সাময়িক"
+      "en": "Balanced",
+      "bn": "সাময়িক"
     }
   },
   {
@@ -44594,8 +44594,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.02727935024866,
     "Translations": {
-      "English": "Happening",
-      "Bengali": "ঘটতেছে"
+      "en": "Happening",
+      "bn": "ঘটতেছে"
     }
   },
   {
@@ -44604,8 +44604,8 @@
     "Part-of-speech": "Adjective",
     "Percentage So Far": 99.02862847736341,
     "Translations": {
-      "English": "Closed",
-      "Bengali": "বন্ধ"
+      "en": "Closed",
+      "bn": "বন্ধ"
     }
   },
   {
@@ -44614,8 +44614,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.02997760447816,
     "Translations": {
-      "English": "Closed",
-      "Bengali": "বন্ধ"
+      "en": "Closed",
+      "bn": "বন্ধ"
     }
   },
   {
@@ -44624,8 +44624,8 @@
     "Part-of-speech": "Adjective",
     "Percentage So Far": 99.03132673159291,
     "Translations": {
-      "English": "Subject",
-      "Bengali": "বিষয়"
+      "en": "Subject",
+      "bn": "বিষয়"
     }
   },
   {
@@ -44634,8 +44634,8 @@
     "Part-of-speech": "Adjective",
     "Percentage So Far": 99.03267585870766,
     "Translations": {
-      "English": "Chosen",
-      "Bengali": "নির্বাচিত"
+      "en": "Chosen",
+      "bn": "নির্বাচিত"
     }
   },
   {
@@ -44644,8 +44644,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.03402498582241,
     "Translations": {
-      "English": "Place",
-      "Bengali": "স্থান"
+      "en": "Place",
+      "bn": "স্থান"
     }
   },
   {
@@ -44654,8 +44654,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.03537411293716,
     "Translations": {
-      "English": "Appointment",
-      "Bengali": "আবেগ"
+      "en": "Appointment",
+      "bn": "আবেগ"
     }
   },
   {
@@ -44664,8 +44664,8 @@
     "Part-of-speech": "Adjective",
     "Percentage So Far": 99.03672324005191,
     "Translations": {
-      "English": "Promised",
-      "Bengali": "প্রতিশ্রুত"
+      "en": "Promised",
+      "bn": "প্রতিশ্রুত"
     }
   },
   {
@@ -44674,8 +44674,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.03807236716666,
     "Translations": {
-      "English": "Given",
-      "Bengali": "প্রদত্ত"
+      "en": "Given",
+      "bn": "প্রদত্ত"
     }
   },
   {
@@ -44684,8 +44684,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.03942149428141,
     "Translations": {
-      "English": "Abundant",
-      "Bengali": "প্রচুর"
+      "en": "Abundant",
+      "bn": "প্রচুর"
     }
   },
   {
@@ -44694,8 +44694,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.04077062139616,
     "Translations": {
-      "English": "Given",
-      "Bengali": "প্রদত্ত"
+      "en": "Given",
+      "bn": "প্রদত্ত"
     }
   },
   {
@@ -44704,8 +44704,8 @@
     "Part-of-speech": "Adjective",
     "Percentage So Far": 99.04211974851091,
     "Translations": {
-      "English": "Ignited",
-      "Bengali": "প্রজ্বলিত"
+      "en": "Ignited",
+      "bn": "প্রজ্বলিত"
     }
   },
   {
@@ -44714,8 +44714,8 @@
     "Part-of-speech": "Adjective",
     "Percentage So Far": 99.04346887562566,
     "Translations": {
-      "English": "Doomed",
-      "Bengali": "নিবৃত্ত"
+      "en": "Doomed",
+      "bn": "নিবৃত্ত"
     }
   },
   {
@@ -44724,8 +44724,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.04481800274041,
     "Translations": {
-      "English": "Captured",
-      "Bengali": "জব্দ"
+      "en": "Captured",
+      "bn": "জব্দ"
     }
   },
   {
@@ -44734,8 +44734,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.04616712985516,
     "Translations": {
-      "English": "Detained",
-      "Bengali": "বন্ধিত"
+      "en": "Detained",
+      "bn": "বন্ধিত"
     }
   },
   {
@@ -44744,8 +44744,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.04751625696991,
     "Translations": {
-      "English": "Authoress",
-      "Bengali": "লেখিকা"
+      "en": "Authoress",
+      "bn": "লেখিকা"
     }
   },
   {
@@ -44754,8 +44754,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.04886538408466,
     "Translations": {
-      "English": "Guardian",
-      "Bengali": "অভিভাবক"
+      "en": "Guardian",
+      "bn": "অভিভাবক"
     }
   },
   {
@@ -44764,8 +44764,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.05021451119941,
     "Translations": {
-      "English": "Humiliator",
-      "Bengali": "হমক"
+      "en": "Humiliator",
+      "bn": "হমক"
     }
   },
   {
@@ -44774,8 +44774,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.05156363831416,
     "Translations": {
-      "English": "Shelter",
-      "Bengali": "আশ্রয়"
+      "en": "Shelter",
+      "bn": "আশ্রয়"
     }
   },
   {
@@ -44784,8 +44784,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.05291276542891,
     "Translations": {
-      "English": "Table spread",
-      "Bengali": "সাজানো টেবিল"
+      "en": "Table spread",
+      "bn": "সাজানো টেবিল"
     }
   },
   {
@@ -44794,8 +44794,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.05426189254366,
     "Translations": {
-      "English": "Dead",
-      "Bengali": "মৃত"
+      "en": "Dead",
+      "bn": "মৃত"
     }
   },
   {
@@ -44804,8 +44804,8 @@
     "Part-of-speech": "Adjective",
     "Percentage So Far": 99.05561101965841,
     "Translations": {
-      "English": "Dead",
-      "Bengali": "মৃত"
+      "en": "Dead",
+      "bn": "মৃত"
     }
   },
   {
@@ -44814,8 +44814,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.05696014677316,
     "Translations": {
-      "English": "Easy",
-      "Bengali": "সহজ"
+      "en": "Easy",
+      "bn": "সহজ"
     }
   },
   {
@@ -44824,8 +44824,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.05830927388791,
     "Translations": {
-      "English": "Plentiful",
-      "Bengali": "অধিক"
+      "en": "Plentiful",
+      "bn": "অধিক"
     }
   },
   {
@@ -44834,8 +44834,8 @@
     "Part-of-speech": "Proper noun",
     "Percentage So Far": 99.05965840100266,
     "Translations": {
-      "English": "Michael",
-      "Bengali": "মাইকেল"
+      "en": "Michael",
+      "bn": "মাইকেল"
     }
   },
   {
@@ -44844,8 +44844,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.06100752811741,
     "Translations": {
-      "English": "Inclination",
-      "Bengali": "প্রবৃত্তি"
+      "en": "Inclination",
+      "bn": "প্রবৃত্তি"
     }
   },
   {
@@ -44854,8 +44854,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.06235665523216,
     "Translations": {
-      "English": "Desires",
-      "Bengali": "ইচ্ছা"
+      "en": "Desires",
+      "bn": "ইচ্ছা"
     }
   },
   {
@@ -44864,8 +44864,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.06370578234691,
     "Translations": {
-      "English": "Escaping",
-      "Bengali": "পারার চেষ্টা করছে"
+      "en": "Escaping",
+      "bn": "পারার চেষ্টা করছে"
     }
   },
   {
@@ -44874,8 +44874,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.06505490946167,
     "Translations": {
-      "English": "Pullers",
-      "Bengali": "টেনার"
+      "en": "Pullers",
+      "bn": "টেনার"
     }
   },
   {
@@ -44884,8 +44884,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.06640403657642,
     "Translations": {
-    "English": "Deserted",
-    "Bengali": "পরিত্যক্ত"
+      "en": "Deserted",
+      "bn": "পরিত্যক্ত"
     }
   },
   {
@@ -44894,8 +44894,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.06775316369117,
     "Translations": {
-      "English": "Dispersing",
-      "Bengali": "ছড়িয়ে"
+      "en": "Dispersing",
+      "bn": "ছড়িয়ে"
     }
   },
   {
@@ -44904,8 +44904,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.06910229080592,
     "Translations": {
-      "English": "Active",
-      "Bengali": "কার্যক্ষম"
+      "en": "Active",
+      "bn": "কার্যক্ষম"
     }
   },
   {
@@ -44914,8 +44914,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.07045141792067,
     "Translations": {
-      "English": "Young",
-      "Bengali": "কিশোরী"
+      "en": "Young",
+      "bn": "কিশোরী"
     }
   },
   {
@@ -44924,8 +44924,8 @@
     "Part-of-speech": "Adjective",
     "Percentage So Far": 99.07180054503542,
     "Translations": {
-      "English": "Apportioning",
-      "Bengali": "বিনিয়োগ"
+      "en": "Apportioning",
+      "bn": "বিনিয়োগ"
     }
   },
   {
@@ -44934,8 +44934,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.07314967215017,
     "Translations": {
-      "English": "Watcher",
-      "Bengali": "দর্শক"
+      "en": "Watcher",
+      "bn": "দর্শক"
     }
   },
   {
@@ -44944,8 +44944,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.07449879926492,
     "Translations": {
-      "English": "Soft",
-      "Bengali": "নরম"
+      "en": "Soft",
+      "bn": "নরম"
     }
   },
   {
@@ -44954,8 +44954,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.07584792637967,
     "Translations": {
-      "English": "Cawing",
-      "Bengali": "কাকচোখা"
+      "en": "Cawing",
+      "bn": "কাকচোখা"
     }
   },
   {
@@ -44964,8 +44964,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.07719705349442,
     "Translations": {
-      "English": "Losers",
-      "Bengali": "হারানোকারও"
+      "en": "Losers",
+      "bn": "হারানোকারও"
     }
   },
   {
@@ -44974,8 +44974,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.07854618060917,
     "Translations": {
-      "English": "Neckless",
-      "Bengali": "গলার বিহীন"
+      "en": "Neckless",
+      "bn": "গলার বিহীন"
     }
   },
   {
@@ -44984,8 +44984,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.07989530772392,
     "Translations": {
-      "English": "Brawlers",
-      "Bengali": "কলাহকারী"
+      "en": "Brawlers",
+      "bn": "কলাহকারী"
     }
   },
   {
@@ -44994,8 +44994,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.08124443483867,
     "Translations": {
-      "English": "Two rib bones",
-      "Bengali": "দুই শক্তি হাড়"
+      "en": "Two rib bones",
+      "bn": "দুই শক্তি হাড়"
     }
   },
   {
@@ -45004,8 +45004,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.08259356195342,
     "Translations": {
-      "English": "Unclean",
-      "Bengali": "অশুদ্ধ"
+      "en": "Unclean",
+      "bn": "অশুদ্ধ"
     }
   },
   {
@@ -45014,8 +45014,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.08394268906817,
     "Translations": {
-      "English": "Deliverance",
-      "Bengali": "মুক্তি"
+      "en": "Deliverance",
+      "bn": "মুক্তি"
     }
   },
   {
@@ -45024,8 +45024,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.08529181618292,
     "Translations": {
-      "English": "Copper",
-      "Bengali": "তামা"
+      "en": "Copper",
+      "bn": "তামা"
     }
   },
   {
@@ -45034,8 +45034,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.08664094329767,
     "Translations": {
-      "English": "Affection",
-      "Bengali": "অনুরাগ"
+      "en": "Affection",
+      "bn": "অনুরাগ"
     }
   },
   {
@@ -45044,8 +45044,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.08799007041242,
     "Translations": {
-      "English": "Evil",
-      "Bengali": "শাপ"
+      "en": "Evil",
+      "bn": "শাপ"
     }
   },
   {
@@ -45054,8 +45054,8 @@
     "Part-of-speech": "Adjective",
     "Percentage So Far": 99.08933919752717,
     "Translations": {
-      "English": "Ill-omened",
-      "Bengali": "দুরূভাগ্যমূলক"
+      "en": "Ill-omened",
+      "bn": "দুরূভাগ্যমূলক"
     }
   },
   {
@@ -45064,8 +45064,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.09068832464192,
     "Translations": {
-      "English": "Bee",
-      "Bengali": "মৌমাছি"
+      "en": "Bee",
+      "bn": "মৌমাছি"
     }
   },
   {
@@ -45074,8 +45074,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.09203745175667,
     "Translations": {
-      "English": "Bee",
-      "Bengali": "মৌমাছি"
+      "en": "Bee",
+      "bn": "মৌমাছি"
     }
   },
   {
@@ -45084,8 +45084,8 @@
     "Part-of-speech": "Adjective",
     "Percentage So Far": 99.09338657887142,
     "Translations": {
-      "English": "Eaten",
-      "Bengali": "খাওয়া"
+      "en": "Eaten",
+      "bn": "খাওয়া"
     }
   },
   {
@@ -45094,8 +45094,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.09473570598617,
     "Translations": {
-      "English": "Dew",
-      "Bengali": "ওয়েত"
+      "en": "Dew",
+      "bn": "ওয়েত"
     }
   },
   {
@@ -45104,8 +45104,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.09608483310092,
     "Translations": {
-      "English": "Vow",
-      "Bengali": "শপথ"
+      "en": "Vow",
+      "bn": "শপথ"
     }
   },
   {
@@ -45114,8 +45114,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.09743396021567,
     "Translations": {
-      "English": "Vow",
-      "Bengali": "শপথ"
+      "en": "Vow",
+      "bn": "শপথ"
     }
   },
   {
@@ -45124,8 +45124,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.09878308733042,
     "Translations": {
-      "English": "Puller",
-      "Bengali": "টেনশন বা সমস্যা তৈরি করবে বা তৈরি করে"
+      "en": "Puller",
+      "bn": "টেনশন বা সমস্যা তৈরি করবে বা তৈরি করে"
     }
   },
   {
@@ -45134,8 +45134,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.10013221444517,
     "Translations": {
-      "English": "Attack",
-      "Bengali": "আক্রমণ"
+      "en": "Attack",
+      "bn": "আক্রমণ"
     }
   },
   {
@@ -45144,8 +45144,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.10148134155992,
     "Translations": {
-      "English": "Copy",
-      "Bengali": "কপি"
+      "en": "Copy",
+      "bn": "কপি"
     }
   },
   {
@@ -45154,8 +45154,8 @@
     "Part-of-speech": "Proper noun",
     "Percentage So Far": 99.10283046867467,
     "Translations": {
-      "English": "Eagle",
-      "Bengali": "ঈগল"
+      "en": "Eagle",
+      "bn": "ঈগল"
     }
   },
   {
@@ -45164,8 +45164,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.10417959578942,
     "Translations": {
-      "English": "Forgetfulness",
-      "Bengali": "বিসর্জন"
+      "en": "Forgetfulness",
+      "bn": "বিসর্জন"
     }
   },
   {
@@ -45174,8 +45174,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.10552872290417,
     "Translations": {
-      "English": "Forgetfulness",
-      "Bengali": "বিসর্জন"
+      "en": "Forgetfulness",
+      "bn": "বিসর্জন"
     }
   },
   {
@@ -45184,8 +45184,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.10687785001892,
     "Translations": {
-      "English": "Forgetful",
-      "Bengali": "ভুলতে পারে"
+      "en": "Forgetful",
+      "bn": "ভুলতে পারে"
     }
   },
   {
@@ -45194,8 +45194,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.10822697713367,
     "Translations": {
-    "English": "Publication",
-    "Bengali": "প্রকাশন"
+      "en": "Publication",
+      "bn": "প্রকাশন"
     }
   },
   {
@@ -45204,8 +45204,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.10957610424842,
     "Translations": {
-      "English": "Active",
-      "Bengali": "সক্রিয়"
+      "en": "Active",
+      "bn": "সক্রিয়"
     }
   },
   {
@@ -45214,8 +45214,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.11092523136317,
     "Translations": {
-      "English": "Appointment",
-      "Bengali": "নিয়োগ"
+      "en": "Appointment",
+      "bn": "নিয়োগ"
     }
   },
   {
@@ -45224,8 +45224,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.11227435847792,
     "Translations": {
-      "English": "Advice",
-      "Bengali": "পরামর্শ"
+      "en": "Advice",
+      "bn": "পরামর্শ"
     }
   },
   {
@@ -45234,8 +45234,8 @@
     "Part-of-speech": "Time adverb",
     "Percentage So Far": 99.11362348559267,
     "Translations": {
-      "English": "Half",
-      "Bengali": "অর্ধেক"
+      "en": "Half",
+      "bn": "অর্ধেক"
     }
   },
   {
@@ -45244,8 +45244,8 @@
     "Part-of-speech": "Adjective",
     "Percentage So Far": 99.11497261270742,
     "Translations": {
-      "English": "Sincere",
-      "Bengali": "আসল"
+      "en": "Sincere",
+      "bn": "আসল"
     }
   },
   {
@@ -45254,8 +45254,8 @@
     "Part-of-speech": "Adjective",
     "Percentage So Far": 99.11632173982217,
     "Translations": {
-      "English": "Helper",
-      "Bengali": "সাহায্যকারী"
+      "en": "Helper",
+      "bn": "সাহায্যকারী"
     }
   },
   {
@@ -45264,8 +45264,8 @@
     "Part-of-speech": "Adjective",
     "Percentage So Far": 99.11767086693692,
     "Translations": {
-      "English": "Hairy",
-      "Bengali": "কেশযুক্ত"
+      "en": "Hairy",
+      "bn": "কেশযুক্ত"
     }
   },
   {
@@ -45274,8 +45274,8 @@
     "Part-of-speech": "Adjective",
     "Percentage So Far": 99.11901999405167,
     "Translations": {
-      "English": "Smooth",
-      "Bengali": "সমতল"
+      "en": "Smooth",
+      "bn": "সমতল"
     }
   },
   {
@@ -45284,8 +45284,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.12036912116642,
     "Translations": {
-      "English": "Falling",
-      "Bengali": "পড়া"
+      "en": "Falling",
+      "bn": "পড়া"
     }
   },
   {
@@ -45294,8 +45294,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.12171824828117,
     "Translations": {
-      "English": "Opinion",
-      "Bengali": "মতামত"
+      "en": "Opinion",
+      "bn": "মতামত"
     }
   },
   {
@@ -45304,8 +45304,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.12306737539592,
     "Translations": {
-      "English": "Look",
-      "Bengali": "চোখে দেখা"
+      "en": "Look",
+      "bn": "চোখে দেখা"
     }
   },
   {
@@ -45314,8 +45314,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.12441650251067,
     "Translations": {
-      "English": "Look",
-      "Bengali": "চোখে দেখা"
+      "en": "Look",
+      "bn": "চোখে দেখা"
     }
   },
   {
@@ -45324,8 +45324,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.12576562962542,
     "Translations": {
-      "English": "Sandal",
-      "Bengali": "স্যান্ডাল"
+      "en": "Sandal",
+      "bn": "স্যান্ডাল"
     }
   },
   {
@@ -45334,8 +45334,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.12711475674017,
     "Translations": {
-      "English": "Blessing",
-      "Bengali": "আশীর্বাদ"
+      "en": "Blessing",
+      "bn": "আশীর্বাদ"
     }
   },
   {
@@ -45344,8 +45344,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.12846388385492,
     "Translations": {
-      "English": "Exhale",
-      "Bengali": "শ্বাসপ্রশ্বাস"
+      "en": "Exhale",
+      "bn": "শ্বাসপ্রশ্বাস"
     }
   },
   {
@@ -45354,8 +45354,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.12981301096967,
     "Translations": {
-      "English": "Exhaustion",
-      "Bengali": "অবশেষ"
+      "en": "Exhaustion",
+      "bn": "অবশেষ"
     }
   },
   {
@@ -45364,8 +45364,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.13116213808442,
     "Translations": {
-      "English": "Whiff",
-      "Bengali": "বায়ুমণ্ডল"
+      "en": "Whiff",
+      "bn": "বায়ুমণ্ডল"
     }
   },
   {
@@ -45374,8 +45374,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.13251126519917,
     "Translations": {
-      "English": "Breath",
-      "Bengali": "শ্বাস"
+      "en": "Breath",
+      "bn": "শ্বাস"
     }
   },
   {
@@ -45384,8 +45384,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.13386039231392,
     "Translations": {
-      "English": "Canal",
-      "Bengali": "খাল"
+      "en": "Canal",
+      "bn": "খাল"
     }
   },
   {
@@ -45394,8 +45394,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.13520951942867,
     "Translations": {
-      "English": "Trenches",
-      "Bengali": "খাদে"
+      "en": "Trenches",
+      "bn": "খাদে"
     }
   },
   {
@@ -45404,8 +45404,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.13655864654342,
     "Translations": {
-      "English": "Trumpet",
-      "Bengali": "ঝঙ্কার"
+      "en": "Trumpet",
+      "bn": "ঝঙ্কার"
     }
   },
   {
@@ -45414,8 +45414,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.13790777365817,
     "Translations": {
-      "English": "Hole",
-      "Bengali": "আস্তি"
+      "en": "Hole",
+      "bn": "আস্তি"
     }
   },
   {
@@ -45424,8 +45424,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.13925690077292,
     "Translations": {
-      "English": "Soaking",
-      "Bengali": "ভিজানো"
+      "en": "Soaking",
+      "bn": "ভিজানো"
     }
   },
   {
@@ -45434,8 +45434,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.14060602788767,
     "Translations": {
-      "English": "Captain",
-      "Bengali": "ক্যাপ্টেন"
+      "en": "Captain",
+      "bn": "ক্যাপ্টেন"
     }
   },
   {
@@ -45444,8 +45444,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.14195515500242,
     "Translations": {
-      "English": "Trouble",
-      "Bengali": "ঝামেলা"
+      "en": "Trouble",
+      "bn": "ঝামেলা"
     }
   },
   {
@@ -45454,8 +45454,8 @@
     "Part-of-speech": "Adjective",
     "Percentage So Far": 99.14330428211717,
     "Translations": {
-      "English": "Unknown",
-      "Bengali": "অজানা"
+      "en": "Unknown",
+      "bn": "অজানা"
     }
   },
   {
@@ -45464,8 +45464,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.14465340923192,
     "Translations": {
-      "English": "Insult",
-      "Bengali": "অপমান"
+      "en": "Insult",
+      "bn": "অপমান"
     }
   },
   {
@@ -45474,8 +45474,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.14600253634667,
     "Translations": {
-      "English": "Tiger",
-      "Bengali": "বাঘ"
+      "en": "Tiger",
+      "bn": "বাঘ"
     }
   },
   {
@@ -45484,8 +45484,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.14735166346142,
     "Translations": {
-      "English": "Ant",
-      "Bengali": "পিপড়"
+      "en": "Ant",
+      "bn": "পিপড়"
     }
   },
   {
@@ -45494,8 +45494,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.14870079057617,
     "Translations": {
-      "English": "Malicious gossip",
-      "Bengali": "কুসংস্কার"
+      "en": "Malicious gossip",
+      "bn": "কুসংস্কার"
     }
   },
   {
@@ -45504,8 +45504,8 @@
     "Part-of-speech": "Time adverb",
     "Percentage So Far": 99.15004991769092,
     "Translations": {
-      "English": "Day",
-      "Bengali": "দিন"
+      "en": "Day",
+      "bn": "দিন"
     }
   },
   {
@@ -45514,8 +45514,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.15139904480567,
     "Translations": {
-      "English": "Command",
-      "Bengali": "হুকুম"
+      "en": "Command",
+      "bn": "হুকুম"
     }
   },
   {
@@ -45524,8 +45524,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.15274817192042,
     "Translations": {
-    "English": "Noon",
-    "Bengali": "দুপুর"
+      "en": "Noon",
+      "bn": "দুপুর"
     }
   },
   {
@@ -45534,8 +45534,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.15409729903517,
     "Translations": {
-      "English": "Intend",
-      "Bengali": "ইচ্ছা"
+      "en": "Intend",
+      "bn": "ইচ্ছা"
     }
   },
   {
@@ -45544,8 +45544,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.15544642614992,
     "Translations": {
-      "English": "Nile",
-      "Bengali": "নীল"
+      "en": "Nile",
+      "bn": "নীল"
     }
   },
   {
@@ -45554,8 +45554,8 @@
     "Part-of-speech": "Imperative verbal noun",
     "Percentage So Far": 99.15679555326467,
     "Translations": {
-      "English": "Go on",
-      "Bengali": "চলো"
+      "en": "Go on",
+      "bn": "চলো"
     }
   },
   {
@@ -45564,8 +45564,8 @@
     "Part-of-speech": "Demonstrative pronoun",
     "Percentage So Far": 99.15814468037942,
     "Translations": {
-      "English": "These two",
-      "Bengali": "এই দুটি"
+      "en": "These two",
+      "bn": "এই দুটি"
     }
   },
   {
@@ -45574,8 +45574,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.15949380749417,
     "Translations": {
-      "English": "Guide",
-      "Bengali": "দরকার"
+      "en": "Guide",
+      "bn": "দরকার"
     }
   },
   {
@@ -45584,8 +45584,8 @@
     "Part-of-speech": "Relative pronoun",
     "Percentage So Far": 99.16084293460892,
     "Translations": {
-      "English": "This",
-      "Bengali": "এই"
+      "en": "This",
+      "bn": "এই"
     }
   },
   {
@@ -45594,8 +45594,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.16219206172367,
     "Translations": {
-      "English": "War",
-      "Bengali": "যুদ্ধ"
+      "en": "War",
+      "bn": "যুদ্ধ"
     }
   },
   {
@@ -45604,8 +45604,8 @@
     "Part-of-speech": "Proper noun",
     "Percentage So Far": 99.16354118883842,
     "Translations": {
-      "English": "Harut",
-      "Bengali": "হারুত"
+      "en": "Harut",
+      "bn": "হারুত"
     }
   },
   {
@@ -45614,8 +45614,8 @@
     "Part-of-speech": "Demonstrative pronoun",
     "Percentage So Far": 99.16489031595317,
     "Translations": {
-      "English": "Like this",
-      "Bengali": "এভাবে"
+      "en": "Like this",
+      "bn": "এভাবে"
     }
   },
   {
@@ -45624,8 +45624,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.16623944306792,
     "Translations": {
-      "English": "Stationary",
-      "Bengali": "অচল"
+      "en": "Stationary",
+      "bn": "অচল"
     }
   },
   {
@@ -45634,8 +45634,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.16758857018267,
     "Translations": {
-      "English": "Hobby",
-      "Bengali": "শখ"
+      "en": "Hobby",
+      "bn": "শখ"
     }
   },
   {
@@ -45644,8 +45644,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.16893769729742,
     "Translations": {
-      "English": "Abandonment",
-      "Bengali": "পরিত্যাগ"
+      "en": "Abandonment",
+      "bn": "পরিত্যাগ"
     }
   },
   {
@@ -45654,8 +45654,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.17028682441217,
     "Translations": {
-      "English": "Gift",
-      "Bengali": "উপহার"
+      "en": "Gift",
+      "bn": "উপহার"
     }
   },
   {
@@ -45664,8 +45664,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.17163595152692,
     "Translations": {
-      "English": "Hoopoe bird",
-      "Bengali": "হুদহুদ"
+      "en": "Hoopoe bird",
+      "bn": "হুদহুদ"
     }
   },
   {
@@ -45674,8 +45674,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.17298507864167,
     "Translations": {
-      "English": "Escape",
-      "Bengali": "পালাও"
+      "en": "Escape",
+      "bn": "পালাও"
     }
   },
   {
@@ -45684,8 +45684,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.17433420575642,
     "Translations": {
-      "English": "Joke",
-      "Bengali": "মিথ্যা"
+      "en": "Joke",
+      "bn": "মিথ্যা"
     }
   },
   {
@@ -45694,8 +45694,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.17568333287117,
     "Translations": {
-      "English": "Digestion",
-      "Bengali": "পাচন"
+      "en": "Digestion",
+      "bn": "পাচন"
     }
   },
   {
@@ -45704,8 +45704,8 @@
     "Part-of-speech": "Adjective",
     "Percentage So Far": 99.17703245998592,
     "Translations": {
-      "English": "Degrading",
-      "Bengali": "পতনকারী"
+      "en": "Degrading",
+      "bn": "পতনকারী"
     }
   },
   {
@@ -45714,8 +45714,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.17838158710067,
     "Translations": {
-      "English": "Screaming",
-      "Bengali": "চিৎকার"
+      "en": "Screaming",
+      "bn": "চিৎকার"
     }
   },
   {
@@ -45724,8 +45724,8 @@
     "Part-of-speech": "Adjective",
     "Percentage So Far": 99.17973071421542,
     "Translations": {
-      "English": "Slanderer",
-      "Bengali": "কিংকর্তব্য বা মোচন করে"
+      "en": "Slanderer",
+      "bn": "কিংকর্তব্য বা মোচন করে"
     }
   },
   {
@@ -45734,8 +45734,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.18107984133017,
     "Translations": {
-      "English": "Backbiting",
-      "Bengali": "পিছুটান"
+      "en": "Backbiting",
+      "bn": "পিছুটান"
     }
   },
   {
@@ -45744,8 +45744,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.18242896844492,
     "Translations": {
-      "English": "Derisive",
-      "Bengali": "উপহাসকারী"
+      "en": "Derisive",
+      "bn": "উপহাসকারী"
     }
   },
   {
@@ -45754,8 +45754,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.18377809555967,
     "Translations": {
-      "English": "Whisper",
-      "Bengali": "মুক্তি"
+      "en": "Whisper",
+      "bn": "মুক্তি"
     }
   },
   {
@@ -45764,8 +45764,8 @@
     "Part-of-speech": "Location adverb",
     "Percentage So Far": 99.18512722267442,
     "Translations": {
-      "English": "There",
-      "Bengali": "ওই স্থানে"
+      "en": "There",
+      "bn": "ওই স্থানে"
     }
   },
   {
@@ -45774,8 +45774,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.18647634978917,
     "Translations": {
-      "English": "Ease",
-      "Bengali": "সহজ"
+      "en": "Ease",
+      "bn": "সহজ"
     }
   },
   {
@@ -45784,8 +45784,8 @@
     "Part-of-speech": "Adjective",
     "Percentage So Far": 99.18782547690392,
     "Translations": {
-      "English": "Easy",
-      "Bengali": "সহজ"
+      "en": "Easy",
+      "bn": "সহজ"
     }
   },
   {
@@ -45794,8 +45794,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.18917460401867,
     "Translations": {
-      "English": "Hymn",
-      "Bengali": "স্তুতি"
+      "en": "Hymn",
+      "bn": "স্তুতি"
     }
   },
   {
@@ -45804,8 +45804,8 @@
     "Part-of-speech": "Adjective",
     "Percentage So Far": 99.19052373113342,
     "Translations": {
-      "English": "Refreshing",
-      "Bengali": "শীতল"
+      "en": "Refreshing",
+      "bn": "শীতল"
     }
   },
   {
@@ -45814,8 +45814,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.19187285824817,
     "Translations": {
-      "English": "Valley",
-      "Bengali": "উপত্যকা"
+      "en": "Valley",
+      "bn": "উপত্যকা"
     }
   },
   {
@@ -45824,8 +45824,8 @@
     "Part-of-speech": "Adjective",
     "Percentage So Far": 99.19322198536292,
     "Translations": {
-      "English": "Vast",
-      "Bengali": "বিশাল"
+      "en": "Vast",
+      "bn": "বিশাল"
     }
   },
   {
@@ -45834,8 +45834,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.19457111247768,
     "Translations": {
-    "English": "Advisers",
-    "Bengali": "উপদেষ্টা"
+      "en": "Advisers",
+      "bn": "উপদেষ্টা"
     }
   },
   {
@@ -45844,8 +45844,8 @@
     "Part-of-speech": "Adjective",
     "Percentage So Far": 99.19592023959243,
     "Translations": {
-      "English": "Conscious",
-      "Bengali": "সচেতন"
+      "en": "Conscious",
+      "bn": "সচেতন"
     }
   },
   {
@@ -45854,8 +45854,8 @@
     "Part-of-speech": "Adjective",
     "Percentage So Far": 99.19726936670718,
     "Translations": {
-      "English": "Real",
-      "Bengali": "বাস্তব"
+      "en": "Real",
+      "bn": "বাস্তব"
     }
   },
   {
@@ -45864,8 +45864,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.19861849382193,
     "Translations": {
-      "English": "Oath",
-      "Bengali": "শপথ"
+      "en": "Oath",
+      "bn": "শপথ"
     }
   },
   {
@@ -45874,8 +45874,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.19996762093668,
     "Translations": {
-      "English": "Parents",
-      "Bengali": "মাতৃপিতৃ"
+      "en": "Parents",
+      "bn": "মাতৃপিতৃ"
     }
   },
   {
@@ -45884,8 +45884,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.20131674805143,
     "Translations": {
-      "English": "Vague",
-      "Bengali": "অস্বস্তি"
+      "en": "Vague",
+      "bn": "অস্বস্তি"
     }
   },
   {
@@ -45894,8 +45894,8 @@
     "Part-of-speech": "Adjective",
     "Percentage So Far": 99.20266587516618,
     "Translations": {
-      "English": "Pathway",
-      "Bengali": "পথ"
+      "en": "Pathway",
+      "bn": "পথ"
     }
   },
   {
@@ -45904,8 +45904,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.20401500228093,
     "Translations": {
-      "English": "Odd",
-      "Bengali": "বিষম"
+      "en": "Odd",
+      "bn": "বিষম"
     }
   },
   {
@@ -45914,8 +45914,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.20536412939568,
     "Translations": {
-      "English": "Even",
-      "Bengali": "সম"
+      "en": "Even",
+      "bn": "সম"
     }
   },
   {
@@ -45924,8 +45924,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.20671325651043,
     "Translations": {
-      "English": "Discovery",
-      "Bengali": "আবিষ্কার"
+      "en": "Discovery",
+      "bn": "আবিষ্কার"
     }
   },
   {
@@ -45934,8 +45934,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.20806238362518,
     "Translations": {
-      "English": "Respectful",
-      "Bengali": "শ্রদ্ধাশীল"
+      "en": "Respectful",
+      "bn": "শ্রদ্ধাশীল"
     }
   },
   {
@@ -45944,8 +45944,8 @@
     "Part-of-speech": "Adjective",
     "Percentage So Far": 99.20941151073993,
     "Translations": {
-      "English": "Reverent",
-      "Bengali": "শ্রদ্ধাশীল"
+      "en": "Reverent",
+      "bn": "শ্রদ্ধাশীল"
     }
   },
   {
@@ -45954,8 +45954,8 @@
     "Part-of-speech": "Time adverb",
     "Percentage So Far": 99.21076063785468,
     "Translations": {
-      "English": "Face",
-      "Bengali": "মুখ"
+      "en": "Face",
+      "bn": "মুখ"
     }
   },
   {
@@ -45964,8 +45964,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.21210976496943,
     "Translations": {
-      "English": "Aspect",
-      "Bengali": "দিক"
+      "en": "Aspect",
+      "bn": "দিক"
     }
   },
   {
@@ -45974,8 +45974,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.21345889208418,
     "Translations": {
-      "English": "Beasts",
-      "Bengali": "পশুবিশেষ"
+      "en": "Beasts",
+      "bn": "পশুবিশেষ"
     }
   },
   {
@@ -45984,8 +45984,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.21480801919893,
     "Translations": {
-      "English": "Lonely",
-      "Bengali": "একাকী"
+      "en": "Lonely",
+      "bn": "একাকী"
     }
   },
   {
@@ -45994,8 +45994,8 @@
     "Part-of-speech": "Proper noun",
     "Percentage So Far": 99.21615714631368,
     "Translations": {
-      "English": "Love",
-      "Bengali": "ভালোবাসা"
+      "en": "Love",
+      "bn": "ভালোবাসা"
     }
   },
   {
@@ -46004,8 +46004,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.21750627342843,
     "Translations": {
-      "English": "Affection",
-      "Bengali": "আদর"
+      "en": "Affection",
+      "bn": "আদর"
     }
   },
   {
@@ -46014,8 +46014,8 @@
     "Part-of-speech": "Adjective",
     "Percentage So Far": 99.21885540054318,
     "Translations": {
-      "English": "Kind",
-      "Bengali": "মিলনশীল"
+      "en": "Kind",
+      "bn": "মিলনশীল"
     }
   },
   {
@@ -46024,8 +46024,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.22020452765793,
     "Translations": {
-      "English": "Friendly",
-      "Bengali": "মিত্রভাবে"
+      "en": "Friendly",
+      "bn": "মিত্রভাবে"
     }
   },
   {
@@ -46034,8 +46034,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.22155365477268,
     "Translations": {
-      "English": "Rose",
-      "Bengali": "গোলাপ"
+      "en": "Rose",
+      "bn": "গোলাপ"
     }
   },
   {
@@ -46044,8 +46044,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.22290278188743,
     "Translations": {
-      "English": "Leaf",
-      "Bengali": "পাতা"
+      "en": "Leaf",
+      "bn": "পাতা"
     }
   },
   {
@@ -46054,8 +46054,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.22425190900218,
     "Translations": {
-      "English": "Sheet",
-      "Bengali": "শীট"
+      "en": "Sheet",
+      "bn": "শীট"
     }
   },
   {
@@ -46064,8 +46064,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.22560103611693,
     "Translations": {
-      "English": "Desire",
-      "Bengali": "কামনা"
+      "en": "Desire",
+      "bn": "কামনা"
     }
   },
   {
@@ -46074,8 +46074,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.22695016323168,
     "Translations": {
-      "English": "Burden",
-      "Bengali": "বোঝাই"
+      "en": "Burden",
+      "bn": "বোঝাই"
     }
   },
   {
@@ -46084,8 +46084,8 @@
     "Part-of-speech": "Adjective",
     "Percentage So Far": 99.22829929034643,
     "Translations": {
-      "English": "Middle",
-      "Bengali": "মধ্য"
+      "en": "Middle",
+      "bn": "মধ্য"
     }
   },
   {
@@ -46094,8 +46094,8 @@
     "Part-of-speech": "Adjective",
     "Percentage So Far": 99.22964841746118,
     "Translations": {
-    "English": "Average",
-    "Bengali": "গড়"
+      "en": "Average",
+      "bn": "গড়"
     }
   },
   {
@@ -46104,8 +46104,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.23099754457593,
     "Translations": {
-      "English": "Whispering",
-      "Bengali": "ফুসফুসে"
+      "en": "Whispering",
+      "bn": "ফুসফুসে"
     }
   },
   {
@@ -46114,8 +46114,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.23234667169068,
     "Translations": {
-      "English": "Description",
-      "Bengali": "বর্ণনা"
+      "en": "Description",
+      "bn": "বর্ণনা"
     }
   },
   {
@@ -46124,8 +46124,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.23369579880543,
     "Translations": {
-      "English": "Trap",
-      "Bengali": "ফাঁদ"
+      "en": "Trap",
+      "bn": "ফাঁদ"
     }
   },
   {
@@ -46134,8 +46134,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.23504492592018,
     "Translations": {
-      "English": "Instrument",
-      "Bengali": "যন্ত্র"
+      "en": "Instrument",
+      "bn": "যন্ত্র"
     }
   },
   {
@@ -46144,8 +46144,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.23639405303493,
     "Translations": {
-      "English": "Piece",
-      "Bengali": "টুকরা"
+      "en": "Piece",
+      "bn": "টুকরা"
     }
   },
   {
@@ -46154,8 +46154,8 @@
     "Part-of-speech": "Adjective",
     "Percentage So Far": 99.23774318014968,
     "Translations": {
-      "English": "Concordant",
-      "Bengali": "মিলমিশিত"
+      "en": "Concordant",
+      "bn": "মিলমিশিত"
     }
   },
   {
@@ -46164,8 +46164,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.23909230726443,
     "Translations": {
-      "English": "Delegation",
-      "Bengali": "প্রতিষ্ঠান"
+      "en": "Delegation",
+      "bn": "প্রতিষ্ঠান"
     }
   },
   {
@@ -46174,8 +46174,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.24044143437918,
     "Translations": {
-      "English": "Dignity",
-      "Bengali": "মর্যাদা"
+      "en": "Dignity",
+      "bn": "মর্যাদা"
     }
   },
   {
@@ -46184,8 +46184,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.24179056149393,
     "Translations": {
-      "English": "Humility",
-      "Bengali": "মন্নতা"
+      "en": "Humility",
+      "bn": "মন্নতা"
     }
   },
   {
@@ -46194,8 +46194,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.24313968860868,
     "Translations": {
-      "English": "Incident",
-      "Bengali": "ঘটনা"
+      "en": "Incident",
+      "bn": "ঘটনা"
     }
   },
   {
@@ -46204,8 +46204,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.24448881572343,
     "Translations": {
-      "English": "Flotilla",
-      "Bengali": "দল"
+      "en": "Flotilla",
+      "bn": "দল"
     }
   },
   {
@@ -46214,8 +46214,8 @@
     "Part-of-speech": "Adjective",
     "Percentage So Far": 99.24583794283818,
     "Translations": {
-      "English": "Generous",
-      "Bengali": "উদার"
+      "en": "Generous",
+      "bn": "উদার"
     }
   },
   {
@@ -46224,8 +46224,8 @@
     "Part-of-speech": "Adjective",
     "Percentage So Far": 99.24718706995293,
     "Translations": {
-      "English": "Blazing",
-      "Bengali": "উজ্জ্বল"
+      "en": "Blazing",
+      "bn": "উজ্জ্বল"
     }
   },
   {
@@ -46234,8 +46234,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.24853619706768,
     "Translations": {
-      "English": "Dry",
-      "Bengali": "শুষ্ক"
+      "en": "Dry",
+      "bn": "শুষ্ক"
     }
   },
   {
@@ -46244,8 +46244,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.24988532418243,
     "Translations": {
-      "English": "Ruby",
-      "Bengali": "রত্ন"
+      "en": "Ruby",
+      "bn": "রত্ন"
     }
   },
   {
@@ -46254,8 +46254,8 @@
     "Part-of-speech": "Adjective",
     "Percentage So Far": 99.25123445129718,
     "Translations": {
-      "English": "Dry",
-      "Bengali": "শুষ্ক"
+      "en": "Dry",
+      "bn": "শুষ্ক"
     }
   },
   {
@@ -46264,8 +46264,8 @@
     "Part-of-speech": "Proper noun",
     "Percentage So Far": 99.25258357841193,
     "Translations": {
-      "English": "Yathrib",
-      "Bengali": "ইয়াথরিব"
+      "en": "Yathrib",
+      "bn": "ইয়াথরিব"
     }
   },
   {
@@ -46274,8 +46274,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.25393270552668,
     "Translations": {
-      "English": "Hot",
-    "Bengali": "গরম"
+      "en": "Hot",
+      "bn": "গরম"
     }
   },
   {
@@ -46284,8 +46284,8 @@
     "Part-of-speech": "Proper noun",
     "Percentage So Far": 99.25528183264143,
     "Translations": {
-      "English": "Ya'uq",
-      "Bengali": "ইয়াউক"
+      "en": "Ya'uq",
+      "bn": "ইয়াউক"
     }
   },
   {
@@ -46294,8 +46294,8 @@
     "Part-of-speech": "Proper noun",
     "Percentage So Far": 99.25663095975618,
     "Translations": {
-      "English": "Yaghuth",
-      "Bengali": "ইয়াঘুঠ"
+      "en": "Yaghuth",
+      "bn": "ইয়াঘুঠ"
     }
   },
   {
@@ -46304,8 +46304,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.25798008687093,
     "Translations": {
-      "English": "Pumpkin",
-      "Bengali": "কুমড়া"
+      "en": "Pumpkin",
+      "bn": "কুমড়া"
     }
   },
   {
@@ -46314,8 +46314,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.25932921398568,
     "Translations": {
-      "English": "He who refuses",
-      "Bengali": "যে যে অস্বীকার করে"
+      "en": "He who refuses",
+      "bn": "যে যে অস্বীকার করে"
     }
   },
   {
@@ -46324,8 +46324,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.26067834110043,
     "Translations": {
-      "English": "Silent",
-      "Bengali": "শান্ত"
+      "en": "Silent",
+      "bn": "শান্ত"
     }
   },
   {
@@ -46334,8 +46334,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.26202746821518,
     "Translations": {
-      "English": "Extravagant",
-      "Bengali": "অত্যধিক"
+      "en": "Extravagant",
+      "bn": "অত্যধিক"
     }
   },
   {
@@ -46344,8 +46344,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.26337659532993,
     "Translations": {
-      "English": "Commanders",
-      "Bengali": "কমান্ডার"
+      "en": "Commanders",
+      "bn": "কমান্ডার"
     }
   },
   {
@@ -46354,8 +46354,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.26472572244468,
     "Translations": {
-      "English": "Safe",
-      "Bengali": "নিরাপদ"
+      "en": "Safe",
+      "bn": "নিরাপদ"
     }
   },
   {
@@ -46364,8 +46364,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.26607484955943,
     "Translations": {
-      "English": "An",
-      "Bengali": "একটি"
+      "en": "An",
+      "bn": "একটি"
     }
   },
   {
@@ -46374,8 +46374,8 @@
     "Part-of-speech": "Time adverb",
     "Percentage So Far": 99.26742397667418,
     "Translations": {
-      "English": "Periods",
-      "Bengali": "পিরিয়ড"
+      "en": "Periods",
+      "bn": "পিরিয়ড"
     }
   },
   {
@@ -46384,8 +46384,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.26877310378893,
     "Translations": {
-      "English": "Anif",
-      "Bengali": "আনিফ"
+      "en": "Anif",
+      "bn": "আনিফ"
     }
   },
   {
@@ -46394,8 +46394,8 @@
     "Part-of-speech": "Noun",
     "Percentage So Far": 99.27012223090368,
     "Translations": {
-      "English": "Moment",
-      "Bengali": "মুহূর্ত"
+      "en": "Moment",
+      "bn": "মুহূর্ত"
     }
   },
   {
@@ -46404,8 +46404,8 @@
     "Part-of-speech": "Adjective",
     "Percentage So Far": 99.27147135801843,
     "Translations": {
-      "English": "Brief",
-      "Bengali": "সংক্ষেপ"
+      "en": "Brief",
+      "bn": "সংক্ষেপ"
     }
   },
   {
@@ -46414,8 +46414,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.27282048513318,
     "Translations": {
-      "English": "Survive",
-      "Bengali": "বাঁচা"
+      "en": "Survive",
+      "bn": "বাঁচা"
     }
   },
   {
@@ -46424,8 +46424,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.27416961224793,
     "Translations": {
-      "English": "Is preferred",
-      "Bengali": "পছন্দ করা হয়"
+      "en": "Is preferred",
+      "bn": "পছন্দ করা হয়"
     }
   },
   {
@@ -46434,8 +46434,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.27551873936268,
     "Translations": {
-      "English": "Rent",
-      "Bengali": "ভাড়া"
+      "en": "Rent",
+      "bn": "ভাড়া"
     }
   },
   {
@@ -46444,8 +46444,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.27686786647743,
     "Translations": {
-      "English": "Azar",
-      "Bengali": "আজার"
+      "en": "Azar",
+      "bn": "আজার"
     }
   },
   {
@@ -46454,8 +46454,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.27821699359218,
     "Translations": {
-      "English": "They shrink",
-      "Bengali": "তাদের ছোট হয়ে যায়"
+      "en": "They shrink",
+      "bn": "তাদের ছোট হয়ে যায়"
     }
   },
   {
@@ -46464,8 +46464,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.27956612070693,
     "Translations": {
-      "English": "Azifat",
-      "Bengali": "আজিফাত"
+      "en": "Azifat",
+      "bn": "আজিফাত"
     }
   },
   {
@@ -46474,8 +46474,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.28091524782168,
     "Translations": {
-      "English": "They will be delighted",
-      "Bengali": "তারা আনন্দিত হবে"
+      "en": "They will be delighted",
+      "bn": "তারা আনন্দিত হবে"
     }
   },
   {
@@ -46484,8 +46484,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.28226437493643,
     "Translations": {
-      "English": "He regretted",
-      "Bengali": "তিনি অফুরায়া পাচ্ছেন"
+      "en": "He regretted",
+      "bn": "তিনি অফুরায়া পাচ্ছেন"
     }
   },
   {
@@ -46494,8 +46494,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.28361350205118,
     "Translations": {
-      "English": "Has rebelled",
-      "Bengali": "বিদ্রুপ্ত হয়েছে"
+      "en": "Has rebelled",
+      "bn": "বিদ্রুপ্ত হয়েছে"
     }
   },
   {
@@ -46504,8 +46504,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.28496262916593,
     "Translations": {
-      "English": "He gets",
-      "Bengali": "তিনি পাচ্ছেন"
+      "en": "He gets",
+      "bn": "তিনি পাচ্ছেন"
     }
   },
   {
@@ -46514,8 +46514,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.28631175628068,
     "Translations": {
-      "English": "Is obtained",
-      "Bengali": "প্রাপ্ত"
+      "en": "Is obtained",
+      "bn": "প্রাপ্ত"
     }
   },
   {
@@ -46524,8 +46524,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.28766088339543,
     "Translations": {
-      "English": "It comes",
-      "Bengali": "এটি আসে"
+      "en": "It comes",
+      "bn": "এটি আসে"
     }
   },
   {
@@ -46534,8 +46534,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.28901001051018,
     "Translations": {
-      "English": "Is believed",
-      "Bengali": "বিশ্বাস করা হয়েছে"
+      "en": "Is believed",
+      "bn": "বিশ্বাস করা হয়েছে"
     }
   },
   {
@@ -46544,8 +46544,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.29035913762493,
     "Translations": {
-      "English": "She is comforted",
-      "Bengali": "তিনি সান্ত্বনা পাচ্ছেন"
+      "en": "She is comforted",
+      "bn": "তিনি সান্ত্বনা পাচ্ছেন"
     }
   },
   {
@@ -46554,8 +46554,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.29170826473968,
     "Translations": {
-      "English": "He came",
-      "Bengali": "তিনি এসেছেন"
+      "en": "He came",
+      "bn": "তিনি এসেছেন"
     }
   },
   {
@@ -46564,8 +46564,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.29305739185443,
     "Translations": {
-      "English": "Owabi",
-      "Bengali": "অব্বি"
+      "en": "Owabi",
+      "bn": "অব্বি"
     }
   },
   {
@@ -46574,8 +46574,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.29440651896918,
     "Translations": {
-      "English": "He wants",
-      "Bengali": "তিনি চায়"
+      "en": "He wants",
+      "bn": "তিনি চায়"
     }
   },
   {
@@ -46584,8 +46584,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.29575564608393,
     "Translations": {
-      "English": "Yubatik",
-      "Bengali": "ইউবাটিক"
+      "en": "Yubatik",
+      "bn": "ইউবাটিক"
     }
   },
   {
@@ -46594,8 +46594,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.29710477319868,
     "Translations": {
-      "English": "Talbatl",
-      "Bengali": "তালবাতল"
+      "en": "Talbatl",
+      "bn": "তালবাতল"
     }
   },
   {
@@ -46604,8 +46604,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.29845390031343,
     "Translations": {
-      "English": "Exploded",
-      "Bengali": "বিস্ফোরিত"
+      "en": "Exploded",
+      "bn": "বিস্ফোরিত"
     }
   },
   {
@@ -46614,8 +46614,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.29980302742818,
     "Translations": {
-      "English": "He looks for",
-      "Bengali": "তিনি খোঁজে"
+      "en": "He looks for",
+      "bn": "তিনি খোঁজে"
     }
   },
   {
@@ -46624,8 +46624,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.30115215454293,
     "Translations": {
-      "English": "Innovate",
-      "Bengali": "বিস্তৃত করা"
+      "en": "Innovate",
+      "bn": "বিস্তৃত করা"
     }
   },
   {
@@ -46634,8 +46634,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.30250128165768,
     "Translations": {
-      "English": "He is extravagant",
-      "Bengali": "তিনি অত্যধিক"
+      "en": "He is extravagant",
+      "bn": "তিনি অত্যধিক"
     }
   },
   {
@@ -46644,8 +46644,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.30385040877243,
     "Translations": {
-    "English": "Innocent",
-    "Bengali": "নিরাপদ"
+      "en": "Innocent",
+      "bn": "নিরাপদ"
     }
   },
   {
@@ -46654,8 +46654,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.30519953588718,
     "Translations": {
-      "English": "Tbarraj",
-      "Bengali": "ত্বরাজ"
+      "en": "Tbarraj",
+      "bn": "ত্বরাজ"
     }
   },
   {
@@ -46664,8 +46664,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.30654866300193,
     "Translations": {
-      "English": "Lightning",
-      "Bengali": "বজ্রপাত"
+      "en": "Lightning",
+      "bn": "বজ্রপাত"
     }
   },
   {
@@ -46674,8 +46674,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.30789779011668,
     "Translations": {
-      "English": "I confirm",
-      "Bengali": "আমি নিশ্চিত করছি"
+      "en": "I confirm",
+      "bn": "আমি নিশ্চিত করছি"
     }
   },
   {
@@ -46684,8 +46684,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.30924691723143,
     "Translations": {
-      "English": "Basar",
-      "Bengali": "বাসার"
+      "en": "Basar",
+      "bn": "বাসার"
     }
   },
   {
@@ -46694,8 +46694,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.31059604434618,
     "Translations": {
-      "English": "Bust",
-      "Bengali": "বাস্তি"
+      "en": "Bust",
+      "bn": "বাস্তি"
     }
   },
   {
@@ -46704,8 +46704,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.31194517146093,
     "Translations": {
-      "English": "Smile",
-      "Bengali": "হাসি"
+      "en": "Smile",
+      "bn": "হাসি"
     }
   },
   {
@@ -46714,8 +46714,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.31329429857568,
     "Translations": {
-      "English": "I am delighted",
-      "Bengali": "আমি আনন্দিত"
+      "en": "I am delighted",
+      "bn": "আমি আনন্দিত"
     }
   },
   {
@@ -46724,8 +46724,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.31464342569043,
     "Translations": {
-      "English": "It is seen",
-      "Bengali": "দেখা যায়"
+      "en": "It is seen",
+      "bn": "দেখা যায়"
     }
   },
   {
@@ -46734,8 +46734,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.31599255280518,
     "Translations": {
-      "English": "Delays",
-      "Bengali": "দেরি করে"
+      "en": "Delays",
+      "bn": "দেরি করে"
     }
   },
   {
@@ -46744,8 +46744,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.31734167991993,
     "Translations": {
-      "English": "It sank",
-      "Bengali": "এটি ডুবে গিয়েছিল"
+      "en": "It sank",
+      "bn": "এটি ডুবে গিয়েছিল"
     }
   },
   {
@@ -46754,8 +46754,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.31869080703468,
     "Translations": {
-      "English": "He stopped",
-      "Bengali": "তিনি আস্থান দিয়েছিলেন"
+      "en": "He stopped",
+      "bn": "তিনি আস্থান দিয়েছিলেন"
     }
   },
   {
@@ -46764,8 +46764,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.32003993414943,
     "Translations": {
-      "English": "Sent",
-      "Bengali": "পাঠানো হয়েছিল"
+      "en": "Sent",
+      "bn": "পাঠানো হয়েছিল"
     }
   },
   {
@@ -46774,8 +46774,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.32138906126418,
     "Translations": {
-      "English": "Far away",
-      "Bengali": "দূরে"
+      "en": "Far away",
+      "bn": "দূরে"
     }
   },
   {
@@ -46784,8 +46784,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.32273818837893,
     "Translations": {
-      "English": "Remain",
-      "Bengali": "অবশিষ্ট"
+      "en": "Remain",
+      "bn": "অবশিষ্ট"
     }
   },
   {
@@ -46794,8 +46794,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.32408731549368,
     "Translations": {
-      "English": "Crying",
-      "Bengali": "কান্না"
+      "en": "Crying",
+      "bn": "কান্না"
     }
   },
   {
@@ -46804,8 +46804,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.32543644260844,
     "Translations": {
-      "English": "Blessed",
-      "Bengali": "ধন্য"
+      "en": "Blessed",
+      "bn": "ধন্য"
     }
   },
   {
@@ -46814,8 +46814,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.32678556972319,
     "Translations": {
-      "English": "Swallow",
-      "Bengali": "গেল"
+      "en": "Swallow",
+      "bn": "গেল"
     }
   },
   {
@@ -46824,8 +46824,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.32813469683794,
     "Translations": {
-      "English": "We implore",
-      "Bengali": "আমরা অনুবাদ করতে চাই"
+      "en": "We implore",
+      "bn": "আমরা অনুবাদ করতে চাই"
     }
   },
   {
@@ -46834,8 +46834,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.32948382395269,
     "Translations": {
-      "English": "He stays",
-      "Bengali": "তিনি থাকেন"
+      "en": "He stays",
+      "bn": "তিনি থাকেন"
     }
   },
   {
@@ -46844,8 +46844,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.33083295106744,
     "Translations": {
-      "English": "Destroy",
-      "Bengali": "ধ্বংস করুন"
+      "en": "Destroy",
+      "bn": "ধ্বংস করুন"
     }
   },
   {
@@ -46854,8 +46854,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.33218207818219,
     "Translations": {
-      "English": "Trade",
-      "Bengali": "বাণিজ্য"
+      "en": "Trade",
+      "bn": "বাণিজ্য"
     }
   },
   {
@@ -46864,8 +46864,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.33353120529694,
     "Translations": {
-      "English": "Explains",
-      "Bengali": "ব্যাখ্যা করে"
+      "en": "Explains",
+      "bn": "ব্যাখ্যা করে"
     }
   },
   {
@@ -46874,8 +46874,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.33488033241169,
     "Translations": {
-      "English": "Seek to ascertain",
-      "Bengali": "নিরীক্ষণ করতে"
+      "en": "Seek to ascertain",
+      "bn": "নিরীক্ষণ করতে"
     }
   },
   {
@@ -46884,8 +46884,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.33622945952644,
     "Translations": {
-      "English": "It mastered",
-      "Bengali": "এটি প্রযুক্ত হয়েছিল"
+      "en": "It mastered",
+      "bn": "এটি প্রযুক্ত হয়েছিল"
     }
   },
   {
@@ -46894,8 +46894,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.33757858664119,
     "Translations": {
-      "English": "Revert",
-      "Bengali": "প্রতিরোধ"
+      "en": "Revert",
+      "bn": "প্রতিরোধ"
     }
   },
   {
@@ -46904,8 +46904,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.33892771375594,
     "Translations": {
-      "English": "He wanders",
-      "Bengali": "তিনি ভ্রমণ করেন"
+      "en": "He wanders",
+      "bn": "তিনি ভ্রমণ করেন"
     }
   },
   {
@@ -46914,8 +46914,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.34027684087069,
     "Translations": {
-      "English": "Establish",
-      "Bengali": "স্থাপন"
+      "en": "Establish",
+      "bn": "স্থাপন"
     }
   },
   {
@@ -46924,8 +46924,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.34162596798544,
     "Translations": {
-      "English": "It slows",
-      "Bengali": "এটি মন্দ হয়েছিল"
+      "en": "It slows",
+      "bn": "এটি মন্দ হয়েছিল"
     }
   },
   {
@@ -46934,8 +46934,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.34297509510019,
     "Translations": {
-      "English": "Heavy",
-      "Bengali": "ভারী"
+      "en": "Heavy",
+      "bn": "ভারী"
     }
   },
   {
@@ -46944,8 +46944,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.34432422221494,
     "Translations": {
-      "English": "It weighs",
-      "Bengali": "এটি ওজন করে"
+      "en": "It weighs",
+      "bn": "এটি ওজন করে"
     }
   },
   {
@@ -46954,8 +46954,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.34567334932969,
     "Translations": {
-      "English": "They praise",
-      "Bengali": "তারা প্রশংসা করে"
+      "en": "They praise",
+      "bn": "তারা প্রশংসা করে"
     }
   },
   {
@@ -46964,8 +46964,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.34702247644444,
     "Translations": {
-      "English": "Excludes",
-      "Bengali": "বাদ দেয়"
+      "en": "Excludes",
+      "bn": "বাদ দেয়"
     }
   },
   {
@@ -46974,8 +46974,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.34837160355919,
     "Translations": {
-    "English": "Reward",
-    "Bengali": "মুকাবিলা"
+      "en": "Reward",
+      "bn": "মুকাবিলা"
     }
   },
   {
@@ -46984,8 +46984,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.34972073067394,
     "Translations": {
-    "English": "He brings",
-    "Bengali": "তিনি আনেন"
+      "en": "He brings",
+      "bn": "তিনি আনেন"
     }
   },
   {
@@ -46994,8 +46994,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.35106985778869,
     "Translations": {
-    "English": "Plucked",
-    "Bengali": "টোঁকা হয়েছিল"
+      "en": "Plucked",
+      "bn": "টোঁকা হয়েছিল"
     }
   },
   {
@@ -47004,8 +47004,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.35241898490344,
     "Translations": {
-    "English": "Injury",
-    "Bengali": "আঘাত"
+      "en": "Injury",
+      "bn": "আঘাত"
     }
   },
   {
@@ -47014,8 +47014,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.35376811201819,
     "Translations": {
-    "English": "I was wounded",
-    "Bengali": "আমি আঘাত হয়েছি"
+      "en": "I was wounded",
+      "bn": "আমি আঘাত হয়েছি"
     }
   },
   {
@@ -47024,8 +47024,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.35511723913294,
     "Translations": {
-    "English": "He drags",
-    "Bengali": "তিনি খিসি"
+      "en": "He drags",
+      "bn": "তিনি খিসি"
     }
   },
   {
@@ -47034,8 +47034,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.35646636624769,
     "Translations": {
-    "English": "He sips",
-    "Bengali": "তিনি চুবকি নেয়"
+      "en": "He sips",
+      "bn": "তিনি চুবকি নেয়"
     }
   },
   {
@@ -47044,8 +47044,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.35781549336244,
     "Translations": {
-      "English": "Frightened",
-      "Bengali": "ভয়ানক"
+      "en": "Frightened",
+      "bn": "ভয়ানক"
     }
   },
   {
@@ -47054,8 +47054,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.35916462047719,
     "Translations": {
-      "English": "I'm glad",
-      "Bengali": "আমি আনন্দিত"
+      "en": "I'm glad",
+      "bn": "আমি আনন্দিত"
     }
   },
   {
@@ -47064,8 +47064,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.36051374759194,
     "Translations": {
-      "English": "Spying",
-      "Bengali": "গোপন অনুসন্ধান"
+      "en": "Spying",
+      "bn": "গোপন অনুসন্ধান"
     }
   },
   {
@@ -47074,8 +47074,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.36186287470669,
     "Translations": {
-      "English": "Avoid",
-      "Bengali": "এড়িয়ে চলা"
+      "en": "Avoid",
+      "bn": "এড়িয়ে চলা"
     }
   },
   {
@@ -47084,8 +47084,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.36321200182144,
     "Translations": {
-      "English": "Bring",
-      "Bengali": "আনা"
+      "en": "Bring",
+      "bn": "আনা"
     }
   },
   {
@@ -47094,8 +47094,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.36456112893619,
     "Translations": {
-      "English": "He rushes",
-      "Bengali": "তিনি অত্যধিক চালাচ্ছে"
+      "en": "He rushes",
+      "bn": "তিনি অত্যধিক চালাচ্ছে"
     }
   },
   {
@@ -47104,8 +47104,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.36591025605094,
     "Translations": {
-      "English": "Avoid",
-      "Bengali": "এড়িয়ে চলা"
+      "en": "Avoid",
+      "bn": "এড়িয়ে চলা"
     }
   },
   {
@@ -47114,8 +47114,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.36725938316569,
     "Translations": {
-      "English": "Avoids",
-      "Bengali": "এড়িয়ে চলে"
+      "en": "Avoids",
+      "bn": "এড়িয়ে চলে"
     }
   },
   {
@@ -47124,8 +47124,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.36860851028044,
     "Translations": {
-      "English": "Avoids",
-      "Bengali": "এড়িয়ে চলে"
+      "en": "Avoids",
+      "bn": "এড়িয়ে চলে"
     }
   },
   {
@@ -47134,8 +47134,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.36995763739519,
     "Translations": {
-      "English": "Garden",
-      "Bengali": "বাগান"
+      "en": "Garden",
+      "bn": "বাগান"
     }
   },
   {
@@ -47144,8 +47144,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.37130676450994,
     "Translations": {
-      "English": "I get",
-      "Bengali": "আমি পাই"
+      "en": "I get",
+      "bn": "আমি পাই"
     }
   },
   {
@@ -47154,8 +47154,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.37265589162469,
     "Translations": {
-      "English": "He neighbors",
-      "Bengali": "তিনি প্রতিবার সন্নিহিত থাকেন"
+      "en": "He neighbors",
+      "bn": "তিনি প্রতিবার সন্নিহিত থাকেন"
     }
   },
   {
@@ -47164,8 +47164,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.37400501873944,
     "Translations": {
-      "English": "Seek help",
-      "Bengali": "সাহায্য চান"
+      "en": "Seek help",
+      "bn": "সাহায্য চান"
     }
   },
   {
@@ -47174,8 +47174,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.37535414585419,
     "Translations": {
-      "English": "We will cross",
-      "Bengali": "আমরা দাঁড়াব"
+      "en": "We will cross",
+      "bn": "আমরা দাঁড়াব"
     }
   },
   {
@@ -47184,8 +47184,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.37670327296894,
     "Translations": {
-      "English": "Spies",
-      "Bengali": "গোপন অনুসন্ধানকারী"
+      "en": "Spies",
+      "bn": "গোপন অনুসন্ধানকারী"
     }
   },
   {
@@ -47194,8 +47194,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.37805240008369,
     "Translations": {
-      "English": "Hungry",
-      "Bengali": "ক্ষুধিত"
+      "en": "Hungry",
+      "bn": "ক্ষুধিত"
     }
   },
   {
@@ -47204,8 +47204,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.37940152719844,
     "Translations": {
-      "English": "Made it dear",
-      "Bengali": "এটি প্রিয়"
+      "en": "Made it dear",
+      "bn": "এটি প্রিয়"
     }
   },
   {
@@ -47214,8 +47214,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.38075065431319,
     "Translations": {
-      "English": "Pilgrimage",
-      "Bengali": "হজ"
+      "en": "Pilgrimage",
+      "bn": "হজ"
     }
   },
   {
@@ -47224,8 +47224,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.38209978142794,
     "Translations": {
-      "English": "He argues",
-      "Bengali": "তিনি আথবা আলোচনা করেন"
+      "en": "He argues",
+      "bn": "তিনি আথবা আলোচনা করেন"
     }
   },
   {
@@ -47234,8 +47234,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.38344890854269,
     "Translations": {
-      "English": "You cultivate",
-      "Bengali": "আপনি চাষ কর"
+      "en": "You cultivate",
+      "bn": "আপনি চাষ কর"
     }
   },
   {
@@ -47244,8 +47244,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.38479803565744,
     "Translations": {
-      "English": "Burned",
-      "Bengali": "পুড়ে গিয়েছিল"
+      "en": "Burned",
+      "bn": "পুড়ে গিয়েছিল"
     }
   },
   {
@@ -47254,8 +47254,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.38614716277219,
     "Translations": {
-      "English": "Move",
-      "Bengali": "চলাফেরা করা"
+      "en": "Move",
+      "bn": "চলাফেরা করা"
     }
   },
   {
@@ -47264,8 +47264,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.38749628988694,
     "Translations": {
-      "English": "Move",
-      "Bengali": "চলাফেরা করা"
+      "en": "Move",
+      "bn": "চলাফেরা করা"
     }
   },
   {
@@ -47274,8 +47274,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.38884541700169,
     "Translations": {
-      "English": "He is surprised",
-      "Bengali": "তিনি অবাক হয়"
+      "en": "He is surprised",
+      "bn": "তিনি অবাক হয়"
     }
   },
   {
@@ -47284,8 +47284,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.39019454411644,
     "Translations": {
-      "English": "You feel",
-      "Bengali": "আপনি অনুভব কর"
+      "en": "You feel",
+      "bn": "আপনি অনুভব কর"
     }
   },
   {
@@ -47294,8 +47294,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.39154367123119,
     "Translations": {
-      "English": "Feel",
-      "Bengali": "অনুভূত"
+      "en": "Feel",
+      "bn": "অনুভূত"
     }
   },
   {
@@ -47304,8 +47304,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.39289279834594,
     "Translations": {
-      "English": "Whisper",
-      "Bengali": "ফুসফুসি"
+      "en": "Whisper",
+      "bn": "ফুসফুসি"
     }
   },
   {
@@ -47314,8 +47314,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.39424192546069,
     "Translations": {
-      "English": "Harvest",
-      "Bengali": "ফসল"
+      "en": "Harvest",
+      "bn": "ফসল"
     }
   },
   {
@@ -47324,8 +47324,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.39559105257544,
     "Translations": {
-      "English": "Was obtained",
-      "Bengali": "প্রাপ্তি হয়েছিল"
+      "en": "Was obtained",
+      "bn": "প্রাপ্তি হয়েছিল"
     }
   },
   {
@@ -47334,8 +47334,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.39694017969019,
     "Translations": {
-      "English": "He urges",
-      "Bengali": "তিনি উৎসাহিত করছেন"
+      "en": "He urges",
+      "bn": "তিনি উৎসাহিত করছেন"
     }
   },
   {
@@ -47344,8 +47344,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.39828930680494,
     "Translations": {
-      "English": "He breaks",
-      "Bengali": "তিনি ভাঙতেন"
+      "en": "He breaks",
+      "bn": "তিনি ভাঙতেন"
     }
   },
   {
@@ -47354,8 +47354,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.39963843391969,
     "Translations": {
-      "English": "Is preserved",
-      "Bengali": "সংরক্ষিত"
+      "en": "Is preserved",
+      "bn": "সংরক্ষিত"
     }
   },
   {
@@ -47364,8 +47364,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.40098756103444,
     "Translations": {
-      "English": "Fenced",
-      "Bengali": "বেড়া দেওয়া"
+      "en": "Fenced",
+      "bn": "বেড়া দেওয়া"
     }
   },
   {
@@ -47374,8 +47374,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.40233668814919,
     "Translations": {
-      "English": "He fences",
-      "Bengali": "তিনি বেড়া দেয়"
+      "en": "He fences",
+      "bn": "তিনি বেড়া দেয়"
     }
   },
   {
@@ -47384,18 +47384,18 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.40368581526394,
     "Translations": {
-    "English": "He is judging",
-    "Bengali": "তিনি মুক্তিদাতা দেখছেন"
-  }
-},
+      "en": "He is judging",
+      "bn": "তিনি মুক্তিদাতা দেখছেন"
+    }
+  },
   {
     "Word": "تَحْلِقُ",
     "Frequency": 1,
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.40503494237869,
     "Translations": {
-      "English": "Shave",
-      "Bengali": "শেভ"
+      "en": "Shave",
+      "bn": "শেভ"
     }
   },
   {
@@ -47404,8 +47404,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.40638406949344,
     "Translations": {
-      "English": "He is praised",
-      "Bengali": "তিনি প্রশংসিত"
+      "en": "He is praised",
+      "bn": "তিনি প্রশংসিত"
     }
   },
   {
@@ -47414,8 +47414,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.40773319660819,
     "Translations": {
-      "English": "He is heated",
-      "Bengali": "তিনি তাপ পেয়েছেন"
+      "en": "He is heated",
+      "bn": "তিনি তাপ পেয়েছেন"
     }
   },
   {
@@ -47424,8 +47424,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.40908232372294,
     "Translations": {
-      "English": "Defecate",
-      "Bengali": "পায়খানা করা"
+      "en": "Defecate",
+      "bn": "পায়খানা করা"
     }
   },
   {
@@ -47434,8 +47434,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.41043145083769,
     "Translations": {
-      "English": "He was trapped",
-      "Bengali": "তিনি আটকে যায়ছিলেন"
+      "en": "He was trapped",
+      "bn": "তিনি আটকে যায়ছিলেন"
     }
   },
   {
@@ -47444,8 +47444,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.41178057795244,
     "Translations": {
-      "English": "He becomes black",
-      "Bengali": "উনি কালো হয়ে যায়"
+      "en": "He becomes black",
+      "bn": "উনি কালো হয়ে যায়"
     }
   },
   {
@@ -47454,8 +47454,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.41312970506719,
     "Translations": {
-      "English": "Deviate",
-      "Bengali": "পাল্টা"
+      "en": "Deviate",
+      "bn": "পাল্টা"
     }
   },
   {
@@ -47464,8 +47464,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.41447883218194,
     "Translations": {
-      "English": "He menstruates",
-      "Bengali": "উনি মাসিক হয়"
+      "en": "He menstruates",
+      "bn": "উনি মাসিক হয়"
     }
   },
   {
@@ -47474,8 +47474,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.41582795929669,
     "Translations": {
-      "English": "He becomes greedy",
-      "Bengali": "উনি কোমল হয়"
+      "en": "He becomes greedy",
+      "bn": "উনি কোমল হয়"
     }
   },
   {
@@ -47484,8 +47484,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.41717708641144,
     "Translations": {
-      "English": "He became wicked",
-      "Bengali": "উনি দুষ্ট হয়ে গিয়েছিলেন"
+      "en": "He became wicked",
+      "bn": "উনি দুষ্ট হয়ে গিয়েছিলেন"
     }
   },
   {
@@ -47494,8 +47494,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.41852621352619,
     "Translations": {
-      "English": "He stumbles",
-      "Bengali": "উনি একটি ভুলে পড়তেন"
+      "en": "He stumbles",
+      "bn": "উনি একটি ভুলে পড়তেন"
     }
   },
   {
@@ -47504,8 +47504,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.41987534064094,
     "Translations": {
-      "English": "She swallowed",
-      "Bengali": "উনি নিগড়ে গিয়েছিলেন"
+      "en": "She swallowed",
+      "bn": "উনি নিগড়ে গিয়েছিলেন"
     }
   },
   {
@@ -47514,8 +47514,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.42122446775569,
     "Translations": {
-      "English": "He disappoints",
-      "Bengali": "উনি হতাশ হয়ে যায়"
+      "en": "He disappoints",
+      "bn": "উনি হতাশ হয়ে যায়"
     }
   },
   {
@@ -47524,8 +47524,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.42257359487044,
     "Translations": {
-      "English": "He destroys",
-      "Bengali": "উনি ধ্বংস করেন"
+      "en": "He destroys",
+      "bn": "উনি ধ্বংস করেন"
     }
   },
   {
@@ -47534,8 +47534,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.42392272198519,
     "Translations": {
-      "English": "We humiliate",
-      "Bengali": "আমরা অবমাননা করি"
+      "en": "We humiliate",
+      "bn": "আমরা অবমাননা করি"
     }
   },
   {
@@ -47544,8 +47544,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.42527184909994,
     "Translations": {
-      "English": "He is lowly",
-      "Bengali": "তিনি নীচ"
+      "en": "He is lowly",
+      "bn": "তিনি নীচ"
     }
   },
   {
@@ -47554,8 +47554,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.42662097621469,
     "Translations": {
-      "English": "It is subjected",
-      "Bengali": "এটি অধীনে আছে"
+      "en": "It is subjected",
+      "bn": "এটি অধীনে আছে"
     }
   },
   {
@@ -47564,8 +47564,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.42797010332944,
     "Translations": {
-      "English": "He crosses",
-      "Bengali": "উনি পার করেন"
+      "en": "He crosses",
+      "bn": "উনি পার করেন"
     }
   },
   {
@@ -47574,8 +47574,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.4293192304442,
     "Translations": {
-      "English": "It is feared",
-      "Bengali": "এটি ভয় পায়"
+      "en": "It is feared",
+      "bn": "এটি ভয় পায়"
     }
   },
   {
@@ -47584,8 +47584,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.43066835755894,
     "Translations": {
-      "English": "He finishes",
-      "Bengali": "উনি শেষ করেন"
+      "en": "He finishes",
+      "bn": "উনি শেষ করেন"
     }
   },
   {
@@ -47594,8 +47594,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.4320174846737,
     "Translations": {
-      "English": "I seek refuge",
-      "Bengali": "আমি পানি চাই"
+      "en": "I seek refuge",
+      "bn": "আমি পানি চাই"
     }
   },
   {
@@ -47604,8 +47604,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.43336661178844,
     "Translations": {
-      "English": "Mixing",
-      "Bengali": "মিশ্রণ"
+      "en": "Mixing",
+      "bn": "মিশ্রণ"
     }
   },
   {
@@ -47614,8 +47614,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.4347157389032,
     "Translations": {
-      "English": "Mix",
-      "Bengali": "মিশান"
+      "en": "Mix",
+      "bn": "মিশান"
     }
   },
   {
@@ -47624,8 +47624,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.43606486601794,
     "Translations": {
-      "English": "Take off",
-      "Bengali": "খোল"
+      "en": "Take off",
+      "bn": "খোল"
     }
   },
   {
@@ -47634,8 +47634,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.4374139931327,
     "Translations": {
-      "English": "Succeed",
-      "Bengali": "সফল হত্তয়া"
+      "en": "Succeed",
+      "bn": "সফল হত্তয়া"
     }
   },
   {
@@ -47644,8 +47644,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.43876312024744,
     "Translations": {
-      "English": "He lags behind",
-      "Bengali": "তিনি পিছনে পড়ে"
+      "en": "He lags behind",
+      "bn": "তিনি পিছনে পড়ে"
     }
   },
   {
@@ -47654,8 +47654,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.4401122473622,
     "Translations": {
-      "English": "Khalu",
-      "Bengali": "খালু"
+      "en": "Khalu",
+      "bn": "খালু"
     }
   },
   {
@@ -47664,8 +47664,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.44146137447694,
     "Translations": {
-      "English": "She took off",
-      "Bengali": "ও খোলে নিয়েছিল"
+      "en": "She took off",
+      "bn": "ও খোলে নিয়েছিল"
     }
   },
   {
@@ -47674,8 +47674,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.4428105015917,
     "Translations": {
-      "English": "It seems",
-      "Bengali": "এটি মনে হয়"
+      "en": "It seems",
+      "bn": "এটি মনে হয়"
     }
   },
   {
@@ -47684,8 +47684,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.44415962870644,
     "Translations": {
-      "English": "It is pushed",
-      "Bengali": "এটি ধাক্কা খায়"
+      "en": "It is pushed",
+      "bn": "এটি ধাক্কা খায়"
     }
   },
   {
@@ -47694,8 +47694,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.4455087558212,
     "Translations": {
-      "English": "Addarar",
-      "Bengali": "আদ্দারার"
+      "en": "Addarar",
+      "bn": "আদ্দারার"
     }
   },
   {
@@ -47704,8 +47704,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.44685788293594,
     "Translations": {
-      "English": "He dives",
-      "Bengali": "উনি ডাইভ করেন"
+      "en": "He dives",
+      "bn": "উনি ডাইভ করেন"
     }
   },
   {
@@ -47714,8 +47714,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.4482070100507,
     "Translations": {
-    "English": "He put",
-    "Bengali": "উনি রাখেন"
+      "en": "He put",
+      "bn": "উনি রাখেন"
     }
   },
   {
@@ -47724,8 +47724,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.44955613716544,
     "Translations": {
-      "English": "He defends",
-      "Bengali": "উনি রক্ষা করেন"
+      "en": "He defends",
+      "bn": "উনি রক্ষা করেন"
     }
   },
   {
@@ -47734,8 +47734,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.4509052642802,
     "Translations": {
-      "English": "He swung",
-      "Bengali": "উনি দোলা দিয়েছেন"
+      "en": "He swung",
+      "bn": "উনি দোলা দিয়েছেন"
     }
   },
   {
@@ -47744,8 +47744,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.45225439139494,
     "Translations": {
-      "English": "He mumbled",
-      "Bengali": "উনি কোঁপান"
+      "en": "He mumbled",
+      "bn": "উনি কোঁপান"
     }
   },
   {
@@ -47754,8 +47754,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.4536035185097,
     "Translations": {
-      "English": "He bites",
-      "Bengali": "উনি কামড়েন"
+      "en": "He bites",
+      "bn": "উনি কামড়েন"
     }
   },
   {
@@ -47764,8 +47764,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.45495264562445,
     "Translations": {
-      "English": "It revolves",
-      "Bengali": "এটি ঘূর্ণন করে"
+      "en": "It revolves",
+      "bn": "এটি ঘূর্ণন করে"
     }
   },
   {
@@ -47774,8 +47774,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.4563017727392,
     "Translations": {
-      "English": "He rotates",
-      "Bengali": "উনি ঘূর্ণন করেন"
+      "en": "He rotates",
+      "bn": "উনি ঘূর্ণন করেন"
     }
   },
   {
@@ -47784,8 +47784,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.45765089985395,
     "Translations": {
-      "English": "We exchange",
-      "Bengali": "আমরা পরিবর্তন করি"
+      "en": "We exchange",
+      "bn": "আমরা পরিবর্তন করি"
     }
   },
   {
@@ -47794,8 +47794,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.4590000269687,
     "Translations": {
-      "English": "He blames",
-      "Bengali": "উনি দোষী মনে করেন"
+      "en": "He blames",
+      "bn": "উনি দোষী মনে করেন"
     }
   },
   {
@@ -47804,8 +47804,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.46034915408345,
     "Translations": {
-      "English": "They owe",
-      "Bengali": "তারা ঋণী"
+      "en": "They owe",
+      "bn": "তারা ঋণী"
     }
   },
   {
@@ -47814,8 +47814,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.4616982811982,
     "Translations": {
-      "English": "Save",
-      "Bengali": "সংরক্ষণ করা"
+      "en": "Save",
+      "bn": "সংরক্ষণ করা"
     }
   },
   {
@@ -47824,8 +47824,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.46304740831295,
     "Translations": {
-      "English": "Tazroo",
-      "Bengali": "তাজরু"
+      "en": "Tazroo",
+      "bn": "তাজরু"
     }
   },
   {
@@ -47834,8 +47834,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.4643965354277,
     "Translations": {
-      "English": "Adcock",
-      "Bengali": "এডকক"
+      "en": "Adcock",
+      "bn": "এডকক"
     }
   },
   {
@@ -47844,8 +47844,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.46574566254245,
     "Translations": {
-      "English": "Dakkay",
-      "Bengali": "ডাক্কায়"
+      "en": "Dakkay",
+      "bn": "ডাক্কায়"
     }
   },
   {
@@ -47854,8 +47854,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.4670947896572,
     "Translations": {
-      "English": "Nazzil",
-      "Bengali": "নাজিল"
+      "en": "Nazzil",
+      "bn": "নাজিল"
     }
   },
   {
@@ -47864,8 +47864,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.46844391677195,
     "Translations": {
-      "English": "It humiliates",
-      "Bengali": "এটি অপমান করে"
+      "en": "It humiliates",
+      "bn": "এটি অপমান করে"
     }
   },
   {
@@ -47874,8 +47874,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.4697930438867,
     "Translations": {
-      "English": "It astonishes",
-      "Bengali": "এটি অবাক করে"
+      "en": "It astonishes",
+      "bn": "এটি অবাক করে"
     }
   },
   {
@@ -47884,8 +47884,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.47114217100145,
     "Translations": {
-      "English": "Tazuda",
-      "Bengali": "তাজুদা"
+      "en": "Tazuda",
+      "bn": "তাজুদা"
     }
   },
   {
@@ -47894,8 +47894,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.4724912981162,
     "Translations": {
-      "English": "Broadcast",
-      "Bengali": "ব্রডকাস্ট"
+      "en": "Broadcast",
+      "bn": "ব্রডকাস্ট"
     }
   },
   {
@@ -47904,8 +47904,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.47384042523095,
     "Translations": {
-      "English": "Won",
-      "Bengali": "জিতেছিল"
+      "en": "Won",
+      "bn": "জিতেছিল"
     }
   },
   {
@@ -47914,8 +47914,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.4751895523457,
     "Translations": {
-      "English": "Rabbit",
-      "Bengali": "র্যাবিট"
+      "en": "Rabbit",
+      "bn": "র্যাবিট"
     }
   },
   {
@@ -47924,8 +47924,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.47653867946045,
     "Translations": {
-      "English": "He grazes",
-      "Bengali": "উনি পশু খায়"
+      "en": "He grazes",
+      "bn": "উনি পশু খায়"
     }
   },
   {
@@ -47934,8 +47934,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.4778878065752,
     "Translations": {
-      "English": "It shook",
-      "Bengali": "এটি ঝুলে গিয়েছিল"
+      "en": "It shook",
+      "bn": "এটি ঝুলে গিয়েছিল"
     }
   },
   {
@@ -47944,8 +47944,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.47923693368995,
     "Translations": {
-      "English": "He retreats",
-      "Bengali": "উনি প্রত্যাহার করেন"
+      "en": "He retreats",
+      "bn": "উনি প্রত্যাহার করেন"
     }
   },
   {
@@ -47954,8 +47954,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.4805860608047,
     "Translations": {
-      "English": "He hesitates",
-      "Bengali": "উনি দ্বিধা করেন"
+      "en": "He hesitates",
+      "bn": "উনি দ্বিধা করেন"
     }
   },
   {
@@ -47964,8 +47964,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.48193518791945,
     "Translations": {
-      "English": "Ride",
-      "Bengali": "যাওয়া"
+      "en": "Ride",
+      "bn": "যাওয়া"
     }
   },
   {
@@ -47974,8 +47974,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.4832843150342,
     "Translations": {
-      "English": "Fell",
-      "Bengali": "পড়ল"
+      "en": "Fell",
+      "bn": "পড়ল"
     }
   },
   {
@@ -47984,8 +47984,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.48463344214895,
     "Translations": {
-      "English": "Tardar",
-      "Bengali": "তারদার"
+      "en": "Tardar",
+      "bn": "তারদার"
     }
   },
   {
@@ -47994,8 +47994,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.4859825692637,
     "Translations": {
-      "English": "Arsy",
-      "Bengali": "আর্সি"
+      "en": "Arsy",
+      "bn": "আর্সি"
     }
   },
   {
@@ -48004,8 +48004,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.48733169637845,
     "Translations": {
-      "English": "He guides",
-      "Bengali": "উনি প্রমাণিত করেন"
+      "en": "He guides",
+      "bn": "উনি প্রমাণিত করেন"
     }
   },
   {
@@ -48014,8 +48014,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.4886808234932,
     "Translations": {
-      "English": "He nurses",
-      "Bengali": "উনি শিশুকে খাওয়ায়"
+      "en": "He nurses",
+      "bn": "উনি শিশুকে খাওয়ায়"
     }
   },
   {
@@ -48024,8 +48024,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.49002995060795,
     "Translations": {
-      "English": "She breastfeeds",
-      "Bengali": "উনি যৌবনে খায়"
+      "en": "She breastfeeds",
+      "bn": "উনি যৌবনে খায়"
     }
   },
   {
@@ -48034,8 +48034,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.4913790777227,
     "Translations": {
-      "English": "He climbed",
-      "Bengali": "উনি চঢ়ানো"
+      "en": "He climbed",
+      "bn": "উনি চঢ়ানো"
     }
   },
   {
@@ -48044,8 +48044,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.49272820483745,
     "Translations": {
-      "English": "He ascends",
-      "Bengali": "উনি উন্নত হয়"
+      "en": "He ascends",
+      "bn": "উনি উন্নত হয়"
     }
   },
   {
@@ -48054,8 +48054,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.4940773319522,
     "Translations": {
-      "English": "He rode",
-      "Bengali": "উনি চলে গিয়েছিলেন"
+      "en": "He rode",
+      "bn": "উনি চলে গিয়েছিলেন"
     }
   },
   {
@@ -48064,8 +48064,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.49542645906695,
     "Translations": {
-    "English": "He throws",
-    "Bengali": "উনি ফেলেন"
+      "en": "He throws",
+      "bn": "উনি ফেলেন"
     }
   },
   {
@@ -48074,8 +48074,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.4967755861817,
     "Translations": {
-      "English": "She terrifies",
-      "Bengali": "উনি ভয় পায়"
+      "en": "She terrifies",
+      "bn": "উনি ভয় পায়"
     }
   },
   {
@@ -48084,8 +48084,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.49812471329645,
     "Translations": {
-      "English": "It terrorizes",
-      "Bengali": "এটি আতঙ্ক"
+      "en": "It terrorizes",
+      "bn": "এটি আতঙ্ক"
     }
   },
   {
@@ -48094,8 +48094,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.4994738404112,
     "Translations": {
-      "English": "She relieves",
-      "Bengali": "উনি রাহাত দান করেন"
+      "en": "She relieves",
+      "bn": "উনি রাহাত দান করেন"
     }
   },
   {
@@ -48104,8 +48104,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.50082296752595,
     "Translations": {
-      "English": "Ran",
-      "Bengali": "দৌড়ানো"
+      "en": "Ran",
+      "bn": "দৌড়ানো"
     }
   },
   {
@@ -48114,8 +48114,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.5021720946407,
     "Translations": {
-      "English": "Izdjer",
-      "Bengali": "ইজডজের"
+      "en": "Izdjer",
+      "bn": "ইজডজের"
     }
   },
   {
@@ -48124,8 +48124,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.50352122175545,
     "Translations": {
-      "English": "Moved",
-      "Bengali": "সরিয়ে নেওয়া"
+      "en": "Moved",
+      "bn": "সরিয়ে নেওয়া"
     }
   },
   {
@@ -48134,8 +48134,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.5048703488702,
     "Translations": {
-      "English": "Tazdari",
-      "Bengali": "তাজডারি"
+      "en": "Tazdari",
+      "bn": "তাজডারি"
     }
   },
   {
@@ -48144,8 +48144,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.50621947598495,
     "Translations": {
-      "English": "He graduates",
-      "Bengali": "উনি ডিগ্রী প্রাপ্ত করেন"
+      "en": "He graduates",
+      "bn": "উনি ডিগ্রী প্রাপ্ত করেন"
     }
   },
   {
@@ -48154,8 +48154,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.5075686030997,
     "Translations": {
-      "English": "It was purified",
-      "Bengali": "এটি পবিত্র করা হয়েছিল"
+      "en": "It was purified",
+      "bn": "এটি পবিত্র করা হয়েছিল"
     }
   },
   {
@@ -48164,8 +48164,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.50891773021445,
     "Translations": {
-      "English": "It slides",
-      "Bengali": "এটি স্লাইড হয়"
+      "en": "It slides",
+      "bn": "এটি স্লাইড হয়"
     }
   },
   {
@@ -48174,8 +48174,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.5102668573292,
     "Translations": {
-      "English": "He did",
-      "Bengali": "তিনি করেছিলেন"
+      "en": "He did",
+      "bn": "তিনি করেছিলেন"
     }
   },
   {
@@ -48184,8 +48184,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.51161598444395,
     "Translations": {
-      "English": "It became clear",
-      "Bengali": "এটি পরিষ্কার হয়েছিল"
+      "en": "It became clear",
+      "bn": "এটি পরিষ্কার হয়েছিল"
     }
   },
   {
@@ -48194,8 +48194,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.5129651115587,
     "Translations": {
-      "English": "He equipped",
-      "Bengali": "উনি সাজিয়েছিলেন"
+      "en": "He equipped",
+      "bn": "উনি সাজিয়েছিলেন"
     }
   },
   {
@@ -48204,8 +48204,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.51431423867345,
     "Translations": {
-      "English": "Button",
-      "Bengali": "বোতাম"
+      "en": "Button",
+      "bn": "বোতাম"
     }
   },
   {
@@ -48214,8 +48214,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.5156633657882,
     "Translations": {
-      "English": "It adorns",
-      "Bengali": "এটি সাজায়"
+      "en": "It adorns",
+      "bn": "এটি সাজায়"
     }
   },
   {
@@ -48224,8 +48224,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.51701249290295,
     "Translations": {
-      "English": "Zeyl",
-      "Bengali": "জেইল"
+      "en": "Zeyl",
+      "bn": "জেইল"
     }
   },
   {
@@ -48234,8 +48234,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.5183616200177,
     "Translations": {
-      "English": "She separates",
-      "Bengali": "উনি পৃথক করেন"
+      "en": "She separates",
+      "bn": "উনি পৃথক করেন"
     }
   },
   {
@@ -48244,8 +48244,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.51971074713245,
     "Translations": {
-      "English": "It adorned",
-      "Bengali": "এটি সাজিয়েছিল"
+      "en": "It adorned",
+      "bn": "এটি সাজিয়েছিল"
     }
   },
   {
@@ -48254,8 +48254,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.5210598742472,
     "Translations": {
-      "English": "He rests",
-      "Bengali": "উনি বিশ্রাম করেন"
+      "en": "He rests",
+      "bn": "উনি বিশ্রাম করেন"
     }
   },
   {
@@ -48264,8 +48264,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.52240900136195,
     "Translations": {
-      "English": "He poured",
-      "Bengali": "উনি ধারাবাহিক"
+      "en": "He poured",
+      "bn": "উনি ধারাবাহিক"
     }
   },
   {
@@ -48274,8 +48274,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.5237581284767,
     "Translations": {
-      "English": "Former",
-      "Bengali": "পূর্ববর্তী"
+      "en": "Former",
+      "bn": "পূর্ববর্তী"
     }
   },
   {
@@ -48284,8 +48284,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.52510725559145,
     "Translations": {
-      "English": "She covers",
-      "Bengali": "উনি ঢাকেন"
+      "en": "She covers",
+      "bn": "উনি ঢাকেন"
     }
   },
   {
@@ -48294,8 +48294,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.5264563827062,
     "Translations": {
-      "English": "He is drawn",
-      "Bengali": "উনি আঁকা হয়েছেন"
+      "en": "He is drawn",
+      "bn": "উনি আঁকা হয়েছেন"
     }
   },
   {
@@ -48304,8 +48304,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.52780550982095,
     "Translations": {
-      "English": "She was imprisoned",
-      "Bengali": "উনি কারাগারে ছিলেন"
+      "en": "She was imprisoned",
+      "bn": "উনি কারাগারে ছিলেন"
     }
   },
   {
@@ -48314,8 +48314,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.5291546369357,
     "Translations": {
-      "English": "Saja",
-      "Bengali": "সজা"
+      "en": "Saja",
+      "bn": "সজা"
     }
   },
   {
@@ -48324,8 +48324,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.53050376405045,
     "Translations": {
-    "English": "He laughs",
-    "Bengali": "উনি হাসে"
+      "en": "He laughs",
+      "bn": "উনি হাসে"
     }
   },
   {
@@ -48334,8 +48334,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.5318528911652,
     "Translations": {
-      "English": "He mocks",
-      "Bengali": "উনি ক্রূরভাবে হাসতে"
+      "en": "He mocks",
+      "bn": "উনি ক্রূরভাবে হাসতে"
     }
   },
   {
@@ -48344,8 +48344,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.53320201827995,
     "Translations": {
-      "English": "He angered",
-      "Bengali": "উনি ক্রুদ্ধ হন"
+      "en": "He angered",
+      "bn": "উনি ক্রুদ্ধ হন"
     }
   },
   {
@@ -48354,8 +48354,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.5345511453947,
     "Translations": {
-      "English": "She wanders",
-      "Bengali": "উনি ভ্রমণ করেন"
+      "en": "She wanders",
+      "bn": "উনি ভ্রমণ করেন"
     }
   },
   {
@@ -48364,8 +48364,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.53590027250945,
     "Translations": {
-      "English": "She delights",
-      "Bengali": "উনি আনন্দিত"
+      "en": "She delights",
+      "bn": "উনি আনন্দিত"
     }
   },
   {
@@ -48374,8 +48374,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.5372493996242,
     "Translations": {
-      "English": "He stole",
-      "Bengali": "উনি চুরি করেছেন"
+      "en": "He stole",
+      "bn": "উনি চুরি করেছেন"
     }
   },
   {
@@ -48384,8 +48384,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.53859852673895,
     "Translations": {
-      "English": "Facilitate",
-      "Bengali": "সুবিধা"
+      "en": "Facilitate",
+      "bn": "সুবিধা"
     }
   },
   {
@@ -48394,8 +48394,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.5399476538537,
     "Translations": {
-      "English": "It surfaced",
-      "Bengali": "এটি উত্তরাধিক।"
+      "en": "It surfaced",
+      "bn": "এটি উত্তরাধিক।"
     }
   },
   {
@@ -48404,8 +48404,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.54129678096845,
     "Translations": {
-      "English": "It records",
-      "Bengali": "এটি রেকর্ড করে"
+      "en": "It records",
+      "bn": "এটি রেকর্ড করে"
     }
   },
   {
@@ -48414,8 +48414,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.5426459080832,
     "Translations": {
-      "English": "It expands",
-      "Bengali": "এটি প্রসারিত হয়"
+      "en": "It expands",
+      "bn": "এটি প্রসারিত হয়"
     }
   },
   {
@@ -48424,8 +48424,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.54399503519795,
     "Translations": {
-      "English": "Sa'idu",
-      "Bengali": "সাইদু"
+      "en": "Sa'idu",
+      "bn": "সাইদু"
     }
   },
   {
@@ -48434,8 +48434,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.5453441623127,
     "Translations": {
-      "English": "She was burned",
-      "Bengali": "উনি জ্বলে উঠেছিলেন"
+      "en": "She was burned",
+      "bn": "উনি জ্বলে উঠেছিলেন"
     }
   },
   {
@@ -48444,8 +48444,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.54669328942745,
     "Translations": {
-      "English": "It turned white",
-      "Bengali": "এটি সাদা হয়ে গেছে"
+      "en": "It turned white",
+      "bn": "এটি সাদা হয়ে গেছে"
     }
   },
   {
@@ -48454,8 +48454,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.5480424165422,
     "Translations": {
-      "English": "Nasfa'an",
-      "Bengali": "নাসফান"
+      "en": "Nasfa'an",
+      "bn": "নাসফান"
     }
   },
   {
@@ -48464,8 +48464,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.54939154365695,
     "Translations": {
-      "English": "It was foolish",
-      "Bengali": "এটি মূর্খ ছিল"
+      "en": "It was foolish",
+      "bn": "এটি মূর্খ ছিল"
     }
   },
   {
@@ -48474,8 +48474,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.5507406707717,
     "Translations": {
-      "English": "It falls",
-      "Bengali": "এটি পড়ে"
+      "en": "It falls",
+      "bn": "এটি পড়ে"
     }
   },
   {
@@ -48484,8 +48484,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.55208979788645,
     "Translations": {
-      "English": "He was silent",
-      "Bengali": "তিনি শান্ত ছিলেন"
+      "en": "He was silent",
+      "bn": "তিনি শান্ত ছিলেন"
     }
   },
   {
@@ -48494,8 +48494,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.5534389250012,
     "Translations": {
-      "English": "She was intoxicated",
-      "Bengali": "উনি মদ্যাপন হয়েছিলেন"
+      "en": "She was intoxicated",
+      "bn": "উনি মদ্যাপন হয়েছিলেন"
     }
   },
   {
@@ -48504,8 +48504,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.55478805211595,
     "Translations": {
-      "English": "He steals",
-      "Bengali": "তিনি চুরি করে"
+      "en": "He steals",
+      "bn": "তিনি চুরি করে"
     }
   },
   {
@@ -48514,8 +48514,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.5561371792307,
     "Translations": {
-      "English": "We slaughter",
-      "Bengali": "আমরা কাটছি"
+      "en": "We slaughter",
+      "bn": "আমরা কাটছি"
     }
   },
   {
@@ -48524,8 +48524,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.55748630634545,
     "Translations": {
-      "English": "Boiling",
-      "Bengali": "উবাল"
+      "en": "Boiling",
+      "bn": "উবাল"
     }
   },
   {
@@ -48534,8 +48534,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.5588354334602,
     "Translations": {
-      "English": "It sneaks",
-      "Bengali": "এটি ধুর্তভাবে চলে"
+      "en": "It sneaks",
+      "bn": "এটি ধুর্তভাবে চলে"
     }
   },
   {
@@ -48544,8 +48544,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.56018456057495,
     "Translations": {
-      "English": "It listens",
-      "Bengali": "এটি শোনে"
+      "en": "It listens",
+      "bn": "এটি শোনে"
     }
   },
   {
@@ -48554,8 +48554,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.5615336876897,
     "Translations": {
-      "English": "It fattens",
-      "Bengali": "এটি মোটা হয়ে যায়"
+      "en": "It fattens",
+      "bn": "এটি মোটা হয়ে যায়"
     }
   },
   {
@@ -48564,8 +48564,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.56288281480445,
     "Translations": {
-      "English": "It is equipped",
-      "Bengali": "এটি সজ্জিত"
+      "en": "It is equipped",
+      "bn": "এটি সজ্জিত"
     }
   },
   {
@@ -48574,8 +48574,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.5642319419192,
     "Translations": {
-      "English": "He contributed",
-      "Bengali": "তিনি অবদান রেখেছিলেন"
+      "en": "He contributed",
+      "bn": "তিনি অবদান রেখেছিলেন"
     }
   },
   {
@@ -48584,8 +48584,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.56558106903395,
     "Translations": {
-      "English": "It dominates",
-      "Bengali": "এটি নিয়ন্ত্রণ করে"
+      "en": "It dominates",
+      "bn": "এটি নিয়ন্ত্রণ করে"
     }
   },
   {
@@ -48594,8 +48594,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.5669301961487,
     "Translations": {
-      "English": "He makes it possible",
-      "Bengali": "তিনি এটি সম্ভব করেন"
+      "en": "He makes it possible",
+      "bn": "তিনি এটি সম্ভব করেন"
     }
   },
   {
@@ -48604,8 +48604,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.56827932326345,
     "Translations": {
-      "English": "She is labeled",
-      "Bengali": "উনি লেবেল করা হয়েছে"
+      "en": "She is labeled",
+      "bn": "উনি লেবেল করা হয়েছে"
     }
   },
   {
@@ -48614,8 +48614,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.5696284503782,
     "Translations": {
-      "English": "It is leveled",
-      "Bengali": "এটি লেভেল হয়েছে"
+      "en": "It is leveled",
+      "bn": "এটি লেভেল হয়েছে"
     }
   },
   {
@@ -48624,8 +48624,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.57097757749295,
     "Translations": {
-      "English": "It is equal",
-      "Bengali": "এটি সমান"
+      "en": "It is equal",
+      "bn": "এটি সমান"
     }
   },
   {
@@ -48634,8 +48634,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.5723267046077,
     "Translations": {
-      "English": "It swims",
-      "Bengali": "এটি সান্নান"
+      "en": "It swims",
+      "bn": "এটি সান্নান"
     }
   },
   {
@@ -48644,8 +48644,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.57367583172245,
     "Translations": {
-      "English": "It flowed",
-      "Bengali": "এটি প্রবাহিত হয়েছিল"
+      "en": "It flowed",
+      "bn": "এটি প্রবাহিত হয়েছিল"
     }
   },
   {
@@ -48654,8 +48654,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.5750249588372,
     "Translations": {
-      "English": "He throw",
-      "Bengali": "তিনি ফেলেন"
+      "en": "He throw",
+      "bn": "তিনি ফেলেন"
     }
   },
   {
@@ -48664,8 +48664,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.57637408595195,
     "Translations": {
-      "English": "It was likened",
-      "Bengali": "এটি অনুকরণ করা হয়েছিল"
+      "en": "It was likened",
+      "bn": "এটি অনুকরণ করা হয়েছিল"
     }
   },
   {
@@ -48674,8 +48674,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.5777232130667,
     "Translations": {
-      "English": "He planted",
-      "Bengali": "তিনি বোনেন"
+      "en": "He planted",
+      "bn": "তিনি বোনেন"
     }
   },
   {
@@ -48684,8 +48684,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.57907234018145,
     "Translations": {
-      "English": "He diagnoses",
-      "Bengali": "তিনি ডায়াগনোস করেন"
+      "en": "He diagnoses",
+      "bn": "তিনি ডায়াগনোস করেন"
     }
   },
   {
@@ -48694,8 +48694,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.5804214672962,
     "Translations": {
-      "English": "It intensified",
-      "Bengali": "এটি তীব্র হয়েছিল"
+      "en": "It intensified",
+      "bn": "এটি তীব্র হয়েছিল"
     }
   },
   {
@@ -48704,8 +48704,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.58177059441095,
     "Translations": {
-      "English": "He is given to drink",
-      "Bengali": "তিনি পান করতে দেওয়া হয়"
+      "en": "He is given to drink",
+      "bn": "তিনি পান করতে দেওয়া হয়"
     }
   },
   {
@@ -48714,8 +48714,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.5831197215257,
     "Translations": {
-      "English": "He was dispersed",
-      "Bengali": "তিনি বিচ্ছিন্ন হয়েছিলেন"
+      "en": "He was dispersed",
+      "bn": "তিনি বিচ্ছিন্ন হয়েছিলেন"
     }
   },
   {
@@ -48724,8 +48724,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.58446884864046,
     "Translations": {
-      "English": "It has risen",
-      "Bengali": "এটি উঠেছে"
+      "en": "It has risen",
+      "bn": "এটি উঠেছে"
     }
   },
   {
@@ -48734,8 +48734,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.5858179757552,
     "Translations": {
-    "English": "Participate",
-    "Bengali": "অংশগ্রহণ করুন"
+      "en": "Participate",
+      "bn": "অংশগ্রহণ করুন"
     }
   },
   {
@@ -48744,8 +48744,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.58716710286996,
     "Translations": {
-      "English": "It is sprayed",
-      "Bengali": "এটি স্প্রে করা হয়"
+      "en": "It is sprayed",
+      "bn": "এটি স্প্রে করা হয়"
     }
   },
   {
@@ -48754,8 +48754,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.5885162299847,
     "Translations": {
-      "English": "It ignited",
-      "Bengali": "এটি আগুন লাগল"
+      "en": "It ignited",
+      "bn": "এটি আগুন লাগল"
     }
   },
   {
@@ -48764,8 +48764,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.58986535709946,
     "Translations": {
-      "English": "He was passionate",
-      "Bengali": "তিনি উৎসাহী ছিলেন"
+      "en": "He was passionate",
+      "bn": "তিনি উৎসাহী ছিলেন"
     }
   },
   {
@@ -48774,8 +48774,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.5912144842142,
     "Translations": {
-      "English": "It was busy",
-      "Bengali": "এটি ব্যস্ত ছিল"
+      "en": "It was busy",
+      "bn": "এটি ব্যস্ত ছিল"
     }
   },
   {
@@ -48784,8 +48784,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.59256361132896,
     "Translations": {
-      "English": "They complain",
-      "Bengali": "তারা অভিযোগ করে"
+      "en": "They complain",
+      "bn": "তারা অভিযোগ করে"
     }
   },
   {
@@ -48794,8 +48794,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.5939127384437,
     "Translations": {
-      "English": "She complains",
-      "Bengali": "উনি অভিযোগ করেন"
+      "en": "She complains",
+      "bn": "উনি অভিযোগ করেন"
     }
   },
   {
@@ -48804,8 +48804,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.59526186555846,
     "Translations": {
-      "English": "It mocks",
-      "Bengali": "এটি মক করে"
+      "en": "It mocks",
+      "bn": "এটি মক করে"
     }
   },
   {
@@ -48814,8 +48814,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.5966109926732,
     "Translations": {
-      "English": "It was disgusted",
-      "Bengali": "এটি ঘৃণিত ছিল"
+      "en": "It was disgusted",
+      "bn": "এটি ঘৃণিত ছিল"
     }
   },
   {
@@ -48824,8 +48824,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.59796011978796,
     "Translations": {
-      "English": "Consult",
-      "Bengali": "পরামর্শ করুন"
+      "en": "Consult",
+      "bn": "পরামর্শ করুন"
     }
   },
   {
@@ -48834,8 +48834,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.5993092469027,
     "Translations": {
-      "English": "She pointed",
-      "Bengali": "উনি ইঙ্গিত করলেন"
+      "en": "She pointed",
+      "bn": "উনি ইঙ্গিত করলেন"
     }
   },
   {
@@ -48844,8 +48844,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.60065837401746,
     "Translations": {
-      "English": "It is roasted",
-      "Bengali": "এটি ভাজা হয়েছে"
+      "en": "It is roasted",
+      "bn": "এটি ভাজা হয়েছে"
     }
   },
   {
@@ -48854,8 +48854,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.6020075011322,
     "Translations": {
-      "English": "It is broadcast",
-      "Bengali": "এটি ব্রডকাস্ট হয়"
+      "en": "It is broadcast",
+      "bn": "এটি ব্রডকাস্ট হয়"
     }
   },
   {
@@ -48864,8 +48864,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.60335662824696,
     "Translations": {
-      "English": "He morning",
-      "Bengali": "তিনি সকালে"
+      "en": "He morning",
+      "bn": "তিনি সকালে"
     }
   },
   {
@@ -48874,8 +48874,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.6047057553617,
     "Translations": {
-      "English": "Patient",
-      "Bengali": "ধৈর্যশীল"
+      "en": "Patient",
+      "bn": "ধৈর্যশীল"
     }
   },
   {
@@ -48884,8 +48884,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.60605488247646,
     "Translations": {
-      "English": "He catches",
-      "Bengali": "তিনি ধরেন"
+      "en": "He catches",
+      "bn": "তিনি ধরেন"
     }
   },
   {
@@ -48894,8 +48894,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.6074040095912,
     "Translations": {
-      "English": "He is accompanied",
-      "Bengali": "তিনি সাথে আসেন"
+      "en": "He is accompanied",
+      "bn": "তিনি সাথে আসেন"
     }
   },
   {
@@ -48904,8 +48904,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.60875313670596,
     "Translations": {
-      "English": "They block",
-      "Bengali": "তারা অবরোধ করেন"
+      "en": "They block",
+      "bn": "তারা অবরোধ করেন"
     }
   },
   {
@@ -48914,8 +48914,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.6101022638207,
     "Translations": {
-      "English": "It emits",
-      "Bengali": "এটি প্রকাশ করে"
+      "en": "It emits",
+      "bn": "এটি প্রকাশ করে"
     }
   },
   {
@@ -48924,8 +48924,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.61145139093546,
     "Translations": {
-      "English": "He issues",
-      "Bengali": "তিনি জারি করেন"
+      "en": "He issues",
+      "bn": "তিনি জারি করেন"
     }
   },
   {
@@ -48934,8 +48934,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.61280051805021,
     "Translations": {
-      "English": "Split",
-      "Bengali": "ভাগ করুন"
+      "en": "Split",
+      "bn": "ভাগ করুন"
     }
   },
   {
@@ -48944,8 +48944,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.61414964516496,
     "Translations": {
-      "English": "It breaks",
-      "Bengali": "এটি ভাঙ্গা"
+      "en": "It breaks",
+      "bn": "এটি ভাঙ্গা"
     }
   },
   {
@@ -48954,8 +48954,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.61549877227971,
     "Translations": {
-      "English": "He shatters",
-      "Bengali": "তিনি ভাঙ্গান"
+      "en": "He shatters",
+      "bn": "তিনি ভাঙ্গান"
     }
   },
   {
@@ -48964,8 +48964,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.61684789939446,
     "Translations": {
-      "English": "He took charge",
-      "Bengali": "তিনি দায়িত্ব নেন"
+      "en": "He took charge",
+      "bn": "তিনি দায়িত্ব নেন"
     }
   },
   {
@@ -48974,8 +48974,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.61819702650921,
     "Translations": {
-      "English": "He screams",
-      "Bengali": "তিনি চিৎকার করেন"
+      "en": "He screams",
+      "bn": "তিনি চিৎকার করেন"
     }
   },
   {
@@ -48984,8 +48984,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.61954615362396,
     "Translations": {
-      "English": "He screams",
-      "Bengali": "তিনি চিৎকার করেন"
+      "en": "He screams",
+      "bn": "তিনি চিৎকার করেন"
     }
   },
   {
@@ -48994,8 +48994,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.62089528073871,
     "Translations": {
-      "English": "He left",
-      "Bengali": "তিনি চলে গিয়েছেন"
+      "en": "He left",
+      "bn": "তিনি চলে গিয়েছেন"
     }
   },
   {
@@ -49004,8 +49004,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.62224440785346,
     "Translations": {
-      "English": "He collapses",
-      "Bengali": "তিনি পতন হয়ে যান"
+      "en": "He collapses",
+      "bn": "তিনি পতন হয়ে যান"
     }
   },
   {
@@ -49014,8 +49014,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.62359353496821,
     "Translations": {
-      "English": "He climbs",
-      "Bengali": "তিনি চড়ে যান"
+      "en": "He climbs",
+      "bn": "তিনি চড়ে যান"
     }
   },
   {
@@ -49024,8 +49024,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.62494266208296,
     "Translations": {
-    "English": "It rises",
-    "Bengali": "এটি উঠে"
+      "en": "It rises",
+      "bn": "এটি উঠে"
     }
   },
   {
@@ -49034,8 +49034,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.62629178919771,
     "Translations": {
-      "English": "He escalates",
-      "Bengali": "তিনি এগিয়ে চলে যান"
+      "en": "He escalates",
+      "bn": "তিনি এগিয়ে চলে যান"
     }
   },
   {
@@ -49044,8 +49044,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.62764091631246,
     "Translations": {
-      "English": "It ascends",
-      "Bengali": "এটি উঠে"
+      "en": "It ascends",
+      "bn": "এটি উঠে"
     }
   },
   {
@@ -49054,8 +49054,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.62899004342721,
     "Translations": {
-      "English": "She chopped",
-      "Bengali": "সে কাটা"
+      "en": "She chopped",
+      "bn": "সে কাটা"
     }
   },
   {
@@ -49064,8 +49064,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.63033917054196,
     "Translations": {
-      "English": "Pray",
-      "Bengali": "মোল্লাই"
+      "en": "Pray",
+      "bn": "মোল্লাই"
     }
   },
   {
@@ -49074,8 +49074,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.63168829765671,
     "Translations": {
-      "English": "He became deaf",
-      "Bengali": "তিনি শ্রবণ হয়ে গেছেন"
+      "en": "He became deaf",
+      "bn": "তিনি শ্রবণ হয়ে গেছেন"
     }
   },
   {
@@ -49084,8 +49084,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.63303742477146,
     "Translations": {
-      "English": "He fabricated",
-      "Bengali": "তিনি নির্মিত করেন"
+      "en": "He fabricated",
+      "bn": "তিনি নির্মিত করেন"
     }
   },
   {
@@ -49094,8 +49094,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.63438655188621,
     "Translations": {
-      "English": "It melts",
-      "Bengali": "এটি গলায়"
+      "en": "It melts",
+      "bn": "এটি গলায়"
     }
   },
   {
@@ -49104,8 +49104,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.63573567900096,
     "Translations": {
-      "English": "Roar",
-      "Bengali": "গর্জন"
+      "en": "Roar",
+      "bn": "গর্জন"
     }
   },
   {
@@ -49114,8 +49114,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.63708480611571,
     "Translations": {
-      "English": "Hunt",
-      "Bengali": "শিকার"
+      "en": "Hunt",
+      "bn": "শিকার"
     }
   },
   {
@@ -49124,8 +49124,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.63843393323046,
     "Translations": {
-      "English": "Become",
-      "Bengali": "হয়ে যান"
+      "en": "Become",
+      "bn": "হয়ে যান"
     }
   },
   {
@@ -49134,8 +49134,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.63978306034521,
     "Translations": {
-      "English": "He made laugh",
-      "Bengali": "তিনি হাসান"
+      "en": "He made laugh",
+      "bn": "তিনি হাসান"
     }
   },
   {
@@ -49144,8 +49144,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.64113218745996,
     "Translations": {
-      "English": "Sacrifice",
-      "Bengali": "বলিদান"
+      "en": "Sacrifice",
+      "bn": "বলিদান"
     }
   },
   {
@@ -49154,8 +49154,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.64248131457471,
     "Translations": {
-      "English": "He pleaded",
-      "Bengali": "তিনি বিনয় করেন"
+      "en": "He pleaded",
+      "bn": "তিনি বিনয় করেন"
     }
   },
   {
@@ -49164,8 +49164,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.64383044168946,
     "Translations": {
-      "English": "It combines",
-      "Bengali": "এটি যোগ করে"
+      "en": "It combines",
+      "bn": "এটি যোগ করে"
     }
   },
   {
@@ -49174,8 +49174,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.64517956880421,
     "Translations": {
-      "English": "He hosts",
-      "Bengali": "তিনি আতিথেয় স্বাগত করেন"
+      "en": "He hosts",
+      "bn": "তিনি আতিথেয় স্বাগত করেন"
     }
   },
   {
@@ -49184,8 +49184,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.64652869591896,
     "Translations": {
-      "English": "It narrows",
-      "Bengali": "এটি সংকোচিত হয়"
+      "en": "It narrows",
+      "bn": "এটি সংকোচিত হয়"
     }
   },
   {
@@ -49194,8 +49194,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.64787782303371,
     "Translations": {
-      "English": "It mills",
-      "Bengali": "এটি মিলজ"
+      "en": "It mills",
+      "bn": "এটি মিলজ"
     }
   },
   {
@@ -49204,8 +49204,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.64922695014846,
     "Translations": {
-      "English": "Throw",
-      "Bengali": "ফেলা"
+      "en": "Throw",
+      "bn": "ফেলা"
     }
   },
   {
@@ -49214,8 +49214,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.65057607726321,
     "Translations": {
-      "English": "He fed",
-      "Bengali": "তিনি খাওয়ানো হয়েছে"
+      "en": "He fed",
+      "bn": "তিনি খাওয়ানো হয়েছে"
     }
   },
   {
@@ -49224,8 +49224,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.65192520437796,
     "Translations": {
-      "English": "He stabbed",
-      "Bengali": "তিনি কর্তন"
+      "en": "He stabbed",
+      "bn": "তিনি কর্তন"
     }
   },
   {
@@ -49234,8 +49234,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.65327433149271,
     "Translations": {
-      "English": "He became arrogant",
-      "Bengali": "তিনি অহংকারী হয়ে গেছেন"
+      "en": "He became arrogant",
+      "bn": "তিনি অহংকারী হয়ে গেছেন"
     }
   },
   {
@@ -49244,8 +49244,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.65462345860746,
     "Translations": {
-      "English": "He seeks",
-      "Bengali": "তিনি চান"
+      "en": "He seeks",
+      "bn": "তিনি চান"
     }
   },
   {
@@ -49254,8 +49254,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.65597258572221,
     "Translations": {
-      "English": "It rises",
-      "Bengali": "এটি উঠে"
+      "en": "It rises",
+      "bn": "এটি উঠে"
     }
   },
   {
@@ -49264,8 +49264,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.65732171283696,
     "Translations": {
-      "English": "He purifies",
-      "Bengali": "তিনি শুদ্ধ করেন"
+      "en": "He purifies",
+      "bn": "তিনি শুদ্ধ করেন"
     }
   },
   {
@@ -49274,8 +49274,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.65867083995171,
     "Translations": {
-      "English": "She volunteered",
-      "Bengali": "ও স্বেচ্ছায়"
+      "en": "She volunteered",
+      "bn": "ও স্বেচ্ছায়"
     }
   },
   {
@@ -49284,8 +49284,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.66001996706646,
     "Translations": {
-      "English": "It is collared",
-      "Bengali": "এটি কলার প্রাপ্ত"
+      "en": "It is collared",
+      "bn": "এটি কলার প্রাপ্ত"
     }
   },
   {
@@ -49294,8 +49294,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.66136909418121,
     "Translations": {
-      "English": "He can",
-      "Bengali": "তিনি করতে পারেন"
+      "en": "He can",
+      "bn": "তিনি করতে পারেন"
     }
   },
   {
@@ -49304,8 +49304,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.66271822129596,
     "Translations": {
-      "English": "It escalated",
-      "Bengali": "এটি এগিয়ে গেছে"
+      "en": "It escalated",
+      "bn": "এটি এগিয়ে গেছে"
     }
   },
   {
@@ -49314,8 +49314,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.66406734841071,
     "Translations": {
-      "English": "We fold",
-      "Bengali": "আমরা মোড়ানো"
+      "en": "We fold",
+      "bn": "আমরা মোড়ানো"
     }
   },
   {
@@ -49324,8 +49324,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.66541647552546,
     "Translations": {
-      "English": "It flies",
-      "Bengali": "এটি উড়ে"
+      "en": "It flies",
+      "bn": "এটি উড়ে"
     }
   },
   {
@@ -49334,8 +49334,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.66676560264021,
     "Translations": {
-      "English": "He won",
-      "Bengali": "তিনি জিতলেন"
+      "en": "He won",
+      "bn": "তিনি জিতলেন"
     }
   },
   {
@@ -49344,8 +49344,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.66811472975496,
     "Translations": {
-      "English": "He wronged",
-      "Bengali": "তিনি অসত্য বললেন"
+      "en": "He wronged",
+      "bn": "তিনি অসত্য বললেন"
     }
   },
   {
@@ -49354,8 +49354,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.66946385686971,
     "Translations": {
-      "English": "They thirst",
-      "Bengali": "তারা তৃষ্ণা অনুভব করে"
+      "en": "They thirst",
+      "bn": "তারা তৃষ্ণা অনুভব করে"
     }
   },
   {
@@ -49364,8 +49364,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.67081298398446,
     "Translations": {
-      "English": "He grazes",
-      "Bengali": "তিনি ঘাস খাচ্ছেন"
+      "en": "He grazes",
+      "bn": "তিনি ঘাস খাচ্ছেন"
     }
   },
   {
@@ -49374,8 +49374,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.67216211109921,
     "Translations": {
-    "English": "He plays",
-    "Bengali": "তিনি খেলছেন"
+      "en": "He plays",
+      "bn": "তিনি খেলছেন"
     }
   },
   {
@@ -49384,8 +49384,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.67351123821396,
     "Translations": {
-    "English": "He worshiped",
-    "Bengali": "তিনি পূজা করেন"
+      "en": "He worshiped",
+      "bn": "তিনি পূজা করেন"
     }
   },
   {
@@ -49394,8 +49394,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.67486036532871,
     "Translations": {
-    "English": "It crosses",
-    "Bengali": "এটি কাটাচ্ছে"
+      "en": "It crosses",
+      "bn": "এটি কাটাচ্ছে"
     }
   },
   {
@@ -49404,8 +49404,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.67620949244346,
     "Translations": {
-    "English": "Consider",
-    "Bengali": "মনে করুন"
+      "en": "Consider",
+      "bn": "মনে করুন"
     }
   },
   {
@@ -49414,8 +49414,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.67755861955821,
     "Translations": {
-      "English": "Be exalted",
-      "Bengali": "সুবিধা নাও"
+      "en": "Be exalted",
+      "bn": "সুবিধা নাও"
     }
   },
   {
@@ -49424,8 +49424,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.67890774667296,
     "Translations": {
-      "English": "It stumbled",
-      "Bengali": "এটি ভুলে পড়ল"
+      "en": "It stumbled",
+      "bn": "এটি ভুলে পড়ল"
     }
   },
   {
@@ -49434,8 +49434,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.68025687378771,
     "Translations": {
-      "English": "I stumbled",
-      "Bengali": "আমি ভুলে পড়লাম"
+      "en": "I stumbled",
+      "bn": "আমি ভুলে পড়লাম"
     }
   },
   {
@@ -49444,8 +49444,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.68160600090246,
     "Translations": {
-      "English": "It failed",
-      "Bengali": "এটি ব্যর্থ হয়েছে"
+      "en": "It failed",
+      "bn": "এটি ব্যর্থ হয়েছে"
     }
   },
   {
@@ -49454,8 +49454,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.68295512801721,
     "Translations": {
-      "English": "He hastened",
-      "Bengali": "তিনি শীঘ্রই"
+      "en": "He hastened",
+      "bn": "তিনি শীঘ্রই"
     }
   },
   {
@@ -49464,8 +49464,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.68430425513196,
     "Translations": {
-      "English": "He hastened",
-      "Bengali": "তিনি শীঘ্রই"
+      "en": "He hastened",
+      "bn": "তিনি শীঘ্রই"
     }
   },
   {
@@ -49474,8 +49474,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.68565338224671,
     "Translations": {
-      "English": "He counted",
-      "Bengali": "তিনি গণনা করলেন"
+      "en": "He counted",
+      "bn": "তিনি গণনা করলেন"
     }
   },
   {
@@ -49484,8 +49484,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.68700250936146,
     "Translations": {
-      "English": "He aggresses",
-      "Bengali": "তিনি আক্রমণ করেন"
+      "en": "He aggresses",
+      "bn": "তিনি আক্রমণ করেন"
     }
   },
   {
@@ -49494,8 +49494,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.68835163647621,
     "Translations": {
-      "English": "He became an enemy",
-      "Bengali": "তিনি শত্রু হয়ে পরলেন"
+      "en": "He became an enemy",
+      "bn": "তিনি শত্রু হয়ে পরলেন"
     }
   },
   {
@@ -49504,8 +49504,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.68970076359096,
     "Translations": {
-      "English": "He presented",
-      "Bengali": "তিনি উপস্থাপন করলেন"
+      "en": "He presented",
+      "bn": "তিনি উপস্থাপন করলেন"
     }
   },
   {
@@ -49514,8 +49514,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.69104989070571,
     "Translations": {
-      "English": "He mounted",
-      "Bengali": "তিনি উঠলেন"
+      "en": "He mounted",
+      "bn": "তিনি উঠলেন"
     }
   },
   {
@@ -49524,8 +49524,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.69239901782046,
     "Translations": {
-      "English": "He got stuck",
-      "Bengali": "তিনি বাঁধা পড়লেন"
+      "en": "He got stuck",
+      "bn": "তিনি বাঁধা পড়লেন"
     }
   },
   {
@@ -49534,8 +49534,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.69374814493521,
     "Translations": {
-      "English": "He honored",
-      "Bengali": "তিনি মান্যভাবে গুরুত্ব দিলেন"
+      "en": "He honored",
+      "bn": "তিনি মান্যভাবে গুরুত্ব দিলেন"
     }
   },
   {
@@ -49544,8 +49544,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.69509727204996,
     "Translations": {
-      "English": "He strengthened",
-      "Bengali": "তিনি শক্তিশালী করলেন"
+      "en": "He strengthened",
+      "bn": "তিনি শক্তিশালী করলেন"
     }
   },
   {
@@ -49554,8 +49554,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.69644639916471,
     "Translations": {
-      "English": "It honors",
-      "Bengali": "এটি মান্যভাবে"
+      "en": "It honors",
+      "bn": "এটি মান্যভাবে"
     }
   },
   {
@@ -49564,8 +49564,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.69779552627946,
     "Translations": {
-      "English": "He isolated",
-      "Bengali": "তিনি একলা হয়েছেন"
+      "en": "He isolated",
+      "bn": "তিনি একলা হয়েছেন"
     }
   },
   {
@@ -49574,8 +49574,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.69914465339421,
     "Translations": {
-      "English": "It got stuck",
-      "Bengali": "এটি বন্ধ হয়ে গেল"
+      "en": "It got stuck",
+      "bn": "এটি বন্ধ হয়ে গেল"
     }
   },
   {
@@ -49584,8 +49584,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.70049378050896,
     "Translations": {
-      "English": "It threshed",
-      "Bengali": "এটি থ্রেশ করল"
+      "en": "It threshed",
+      "bn": "এটি থ্রেশ করল"
     }
   },
   {
@@ -49594,8 +49594,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.70184290762371,
     "Translations": {
-      "English": "He associates",
-      "Bengali": "তিনি যোগাযোগ করেন"
+      "en": "He associates",
+      "bn": "তিনি যোগাযোগ করেন"
     }
   },
   {
@@ -49604,8 +49604,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.70319203473846,
     "Translations": {
-      "English": "He lives",
-      "Bengali": "তিনি বাস করেন"
+      "en": "He lives",
+      "bn": "তিনি বাস করেন"
     }
   },
   {
@@ -49614,8 +49614,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.70454116185321,
     "Translations": {
-      "English": "He became obstinate",
-      "Bengali": "তিনি জটিল হয়ে পরলেন"
+      "en": "He became obstinate",
+      "bn": "তিনি জটিল হয়ে পরলেন"
     }
   },
   {
@@ -49624,8 +49624,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.70589028896796,
     "Translations": {
-      "English": "It was paralyzed",
-      "Bengali": "এটি প্যারালাইজড হয়েছে"
+      "en": "It was paralyzed",
+      "bn": "এটি প্যারালাইজড হয়েছে"
     }
   },
   {
@@ -49634,8 +49634,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.70723941608271,
     "Translations": {
-      "English": "He took",
-      "Bengali": "তিনি নিয়েছেন"
+      "en": "He took",
+      "bn": "তিনি নিয়েছেন"
     }
   },
   {
@@ -49644,8 +49644,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.70858854319746,
     "Translations": {
-      "English": "He magnifies",
-      "Bengali": "তিনি উন্নত করেন"
+      "en": "He magnifies",
+      "bn": "তিনি উন্নত করেন"
     }
   },
   {
@@ -49654,8 +49654,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.70993767031221,
     "Translations": {
-      "English": "He followed",
-      "Bengali": "তিনি অনুসরণ করলেন"
+      "en": "He followed",
+      "bn": "তিনি অনুসরণ করলেন"
     }
   },
   {
@@ -49664,8 +49664,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.71128679742696,
     "Translations": {
-      "English": "She tied",
-      "Bengali": "ও টানলো"
+      "en": "She tied",
+      "bn": "ও টানলো"
     }
   },
   {
@@ -49674,8 +49674,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.71263592454171,
     "Translations": {
-      "English": "He tied",
-      "Bengali": "তিনি টেন"
+      "en": "He tied",
+      "bn": "তিনি টেন"
     }
   },
   {
@@ -49684,8 +49684,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.71398505165646,
     "Translations": {
-      "English": "He bends",
-      "Bengali": "তিনি বাঁকা হয়ে পড়লেন"
+      "en": "He bends",
+      "bn": "তিনি বাঁকা হয়ে পড়লেন"
     }
   },
   {
@@ -49694,8 +49694,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.71533417877122,
     "Translations": {
-      "English": "He prevailed",
-      "Bengali": "তিনি জয় লাভ করেন"
+      "en": "He prevailed",
+      "bn": "তিনি জয় লাভ করেন"
     }
   },
   {
@@ -49704,8 +49704,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.71668330588597,
     "Translations": {
-      "English": "She deliberately",
-      "Bengali": "ও ইচ্ছাকৃতভাবে"
+      "en": "She deliberately",
+      "bn": "ও ইচ্ছাকৃতভাবে"
     }
   },
   {
@@ -49714,8 +49714,8 @@
     "Part-of-speech": "Verb",
     "Percentage So Far": 99.71803243300072,
     "Translations": {
-      "English": "He performed Hajj",
-      "Bengali": "তিনি হজ্জ পালন করলেন"
+      "en": "He performed Hajj",
+      "bn": "তিনি হজ্জ পালন করলেন"
     }
   },
   {

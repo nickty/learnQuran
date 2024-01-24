@@ -54,12 +54,12 @@ const WordDetailsScreen = ({route}) => {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.header}>Details for {word}</Text>
+      <Text style={styles.header}>Searching in Quran for {word}</Text>
       {details && details.length > 0 && (
         <ScrollView style={styles.detailsContainer}>
           {details.map((item, index) => (
             <View key={index} style={styles.itemContainer}>
-              {highlightText(item)}
+              <Text>{item}</Text>
               {/* You can display additional details here for each item */}
             </View>
           ))}
@@ -76,7 +76,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#fff',
   },
   header: {
-    fontSize: 30,
+    fontSize: 20,
     fontWeight: 'bold',
     marginBottom: 10,
   },
