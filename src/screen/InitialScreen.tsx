@@ -34,14 +34,17 @@ const InitialScreen: React.FC<InitialScreenProps> = ({navigation}) => {
     getRandomWords()
       .then(words => {
         setRandomWords(words);
-        console.log('total words', words.length);
+        // console.log('total words', words.length);
       })
       .catch(error => {
         console.error('Error fetching random words:', error);
       })
       .finally(() => {
         setLoading(false);
-        navigation.navigate('Words', {words: randomWords});
+        console.log('first', randomWords);
+        if (randomWords.length) {
+          navigation.navigate('Words', {words: randomWords});
+        }
       });
   };
 
