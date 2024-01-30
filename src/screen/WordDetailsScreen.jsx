@@ -59,7 +59,7 @@ const WordDetailsScreen = ({route}) => {
         <ScrollView style={styles.detailsContainer}>
           {details.map((item, index) => (
             <View key={index} style={styles.itemContainer}>
-              <Text>{item}</Text>
+              <Text style={{fontSize: 25, fontWeight: 'bold'}}>{item}</Text>
               {/* You can display additional details here for each item */}
             </View>
           ))}

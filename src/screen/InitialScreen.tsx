@@ -1,4 +1,4 @@
-import React, {useState} from 'react';
+import React, {useEffect, useState} from 'react';
 import {
   View,
   Text,
@@ -29,24 +29,50 @@ const InitialScreen: React.FC<InitialScreenProps> = ({navigation}) => {
 
   const [randomWords, setRandomWords] = useState<Array<any>>([]);
 
-  const handleGetRandomWords = () => {
+  // const handleGetRandomWords = () => {
+  //   setLoading(true);
+  //   getRandomWords()
+  //     .then(words => {
+  //       setRandomWords(words);
+  //       // console.log('total words', words.length);
+  //       if (randomWords.length) {
+  //         navigation.navigate('Words', {words: randomWords});
+  //       }
+  //     })
+  //     .catch(error => {
+  //       console.error('Error fetching random words:', error);
+  //     })
+  //     .finally(() => {
+  //       setLoading(false);
+  //       console.log('first', randomWords);
+  //       // if (randomWords.length) {
+  //       //   navigation.navigate('Words', {words: randomWords});
+  //       // }
+  //     });
+  // };
+
+  const handleGetRandomWords = async () => {
     setLoading(true);
-    getRandomWords()
-      .then(words => {
-        setRandomWords(words);
-        // console.log('total words', words.length);
-      })
-      .catch(error => {
-        console.error('Error fetching random words:', error);
-      })
-      .finally(() => {
-        setLoading(false);
-        console.log('first', randomWords);
-        if (randomWords.length) {
-          navigation.navigate('Words', {words: randomWords});
-        }
-      });
+
+    try {
+      const words = await getRandomWords();
+      setRandomWords(words);
+
+      // if (words.length) {
+      //   navigation.navigate('Words', { words: words });
+      // }
+    } catch (error) {
+      console.error('Error fetching random words:', error);
+    } finally {
+      setLoading(false);
+    }
   };
+
+  useEffect(() => {
+    if (randomWords.length) {
+      navigation.navigate('Words', {words: randomWords});
+    }
+  }, [randomWords]);
 
   return (
     <View style={styles.container}>

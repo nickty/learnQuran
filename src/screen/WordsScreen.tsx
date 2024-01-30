@@ -138,6 +138,7 @@ const styles = StyleSheet.create({
   },
   wordText: {
     fontSize: 40,
+    fontFamily: 'TiroBangla-Regular',
     fontWeight: 'bold',
     color: '#333',
   },
