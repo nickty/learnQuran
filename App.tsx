@@ -5,6 +5,7 @@ import {createStackNavigator} from '@react-navigation/stack';
 import WordsScreen from './src/screen/WordsScreen';
 import WordDetailsScreen from './src/screen/WordDetailsScreen';
 import InitialScreen from './src/screen/InitialScreen';
+import CodePush from 'react-native-code-push';
 
 const Stack = createStackNavigator();
 
@@ -24,4 +25,4 @@ const App: React.FC = () => {
   );
 };
 
-export default App;
+export default CodePush(App);
