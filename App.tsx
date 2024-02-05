@@ -18,7 +18,7 @@ const App: React.FC = () => {
         <Stack.Screen
           name="WordDetails"
           component={WordDetailsScreen}
-          options={{title: 'Word Details test'}}
+          options={{title: 'Word Details'}}
         />
       </Stack.Navigator>
     </NavigationContainer>

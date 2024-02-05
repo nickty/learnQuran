@@ -4,10 +4,12 @@ import {RouteProp} from '@react-navigation/native';
 import {StackNavigationProp} from '@react-navigation/stack';
 import {fetchWordDetails} from '../api/api';
 import Stemmer from 'arabic-stemmer';
+import {Wrapper} from '../components/Wrapper';
 
 const WordDetailsScreen = ({route}) => {
   const {word} = route.params;
   const [details, setDetails] = useState(''); // Update 'any' with expected API response type
+  const [loading, setLoading] = useState(false);
 
   // console.log('check route', details);
   const [highlightedWord, setHighlightedWord] = useState('');
@@ -15,11 +17,13 @@ const WordDetailsScreen = ({route}) => {
   useEffect(() => {
     const fetchDetails = async () => {
       try {
+        setLoading(true);
         // Fetch word details based on the 'word' parameter
         const wordDetails = await fetchWordDetails(word);
         // const newWords = await fetchWordDetails('nabi');
         // Update 'details' state with the fetched data
         setDetails(wordDetails);
+        setLoading(false);
       } catch (error) {
         // Handle error fetching details
       }
@@ -53,19 +57,21 @@ const WordDetailsScreen = ({route}) => {
   };
 
   return (
-    <View style={styles.container}>
+    <Wrapper loading={loading}>
       <Text style={styles.header}>Searching in Quran for {word}</Text>
       {details && details.length > 0 && (
         <ScrollView style={styles.detailsContainer}>
           {details.map((item, index) => (
             <View key={index} style={styles.itemContainer}>
-              <Text style={{fontSize: 25, fontWeight: 'bold'}}>{item}</Text>
+              <Text style={{fontSize: 25, fontWeight: 'bold', color: '#333'}}>
+                {item}
+              </Text>
               {/* You can display additional details here for each item */}
             </View>
           ))}
         </ScrollView>
       )}
-    </View>
+    </Wrapper>
   );
 };
 
@@ -79,6 +85,7 @@ const styles = StyleSheet.create({
     fontSize: 20,
     fontWeight: 'bold',
     marginBottom: 10,
+    color: '#333',
   },
   detailsContainer: {
     flex: 1,
