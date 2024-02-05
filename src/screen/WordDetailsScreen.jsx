@@ -58,7 +58,7 @@ const WordDetailsScreen = ({route}) => {
 
   return (
     <Wrapper loading={loading}>
-      <Text style={styles.header}>Searching in Quran for {word}</Text>
+      <Text style={styles.header}>Search results for {word} in Quran</Text>
       {details && details.length > 0 && (
         <ScrollView style={styles.detailsContainer}>
           {details.map((item, index) => (
